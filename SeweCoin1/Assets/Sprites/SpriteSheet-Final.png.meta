@@ -1,0 +1,3187 @@
+fileFormatVersion: 2
+guid: 888c18bc5dc07db44a227b7c7798d7a2
+timeCreated: 1521561761
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteSheet-Final_0
+    21300002: SpriteSheet-Final_1
+    21300004: SpriteSheet-Final_2
+    21300006: SpriteSheet-Final_3
+    21300008: SpriteSheet-Final_4
+    21300010: SpriteSheet-Final_5
+    21300012: SpriteSheet-Final_6
+    21300014: SpriteSheet-Final_7
+    21300016: SpriteSheet-Final_8
+    21300018: SpriteSheet-Final_9
+    21300020: SpriteSheet-Final_10
+    21300022: SpriteSheet-Final_11
+    21300024: SpriteSheet-Final_12
+    21300026: SpriteSheet-Final_13
+    21300028: SpriteSheet-Final_14
+    21300030: SpriteSheet-Final_15
+    21300032: SpriteSheet-Final_16
+    21300034: SpriteSheet-Final_17
+    21300036: SpriteSheet-Final_18
+    21300038: SpriteSheet-Final_19
+    21300040: SpriteSheet-Final_20
+    21300042: SpriteSheet-Final_21
+    21300044: SpriteSheet-Final_22
+    21300046: SpriteSheet-Final_23
+    21300048: SpriteSheet-Final_24
+    21300050: SpriteSheet-Final_25
+    21300052: SpriteSheet-Final_26
+    21300054: SpriteSheet-Final_27
+    21300056: SpriteSheet-Final_28
+    21300058: SpriteSheet-Final_29
+    21300060: SpriteSheet-Final_30
+    21300062: SpriteSheet-Final_31
+    21300064: SpriteSheet-Final_32
+    21300066: SpriteSheet-Final_33
+    21300068: SpriteSheet-Final_34
+    21300070: SpriteSheet-Final_35
+    21300072: SpriteSheet-Final_36
+    21300074: SpriteSheet-Final_37
+    21300076: SpriteSheet-Final_38
+    21300078: SpriteSheet-Final_39
+    21300080: SpriteSheet-Final_40
+    21300082: SpriteSheet-Final_41
+    21300084: SpriteSheet-Final_42
+    21300086: SpriteSheet-Final_43
+    21300088: SpriteSheet-Final_44
+    21300090: SpriteSheet-Final_45
+    21300092: SpriteSheet-Final_46
+    21300094: SpriteSheet-Final_47
+    21300096: SpriteSheet-Final_48
+    21300098: SpriteSheet-Final_49
+    21300100: SpriteSheet-Final_50
+    21300102: SpriteSheet-Final_51
+    21300104: SpriteSheet-Final_52
+    21300106: SpriteSheet-Final_53
+    21300108: SpriteSheet-Final_54
+    21300110: SpriteSheet-Final_55
+    21300112: SpriteSheet-Final_56
+    21300114: SpriteSheet-Final_57
+    21300116: SpriteSheet-Final_58
+    21300118: SpriteSheet-Final_59
+    21300120: SpriteSheet-Final_60
+    21300122: SpriteSheet-Final_61
+    21300124: SpriteSheet-Final_62
+    21300126: SpriteSheet-Final_63
+    21300128: SpriteSheet-Final_64
+    21300130: SpriteSheet-Final_65
+    21300132: SpriteSheet-Final_66
+    21300134: SpriteSheet-Final_67
+    21300136: SpriteSheet-Final_68
+    21300138: SpriteSheet-Final_69
+    21300140: SpriteSheet-Final_70
+    21300142: SpriteSheet-Final_71
+    21300144: SpriteSheet-Final_72
+    21300146: SpriteSheet-Final_73
+    21300148: SpriteSheet-Final_74
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet-Final_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 6310
+        width: 99
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 214}
+        - {x: -49.450546, y: 197.75632}
+        - {x: -49.450546, y: -148.31302}
+        - {x: -26.373625, y: -214}
+        - {x: 42.857143, y: -214}
+        - {x: 39.56044, y: -181.272}
+        - {x: 49.5, y: 46.144993}
+        - {x: 49.5, y: 214}
+      physicsShape:
+      - - {x: 19.78022, y: 214}
+        - {x: -49.450546, y: 191.16452}
+        - {x: -49.450546, y: -105.46634}
+        - {x: -16.483517, y: -214}
+        - {x: 29.670328, y: -214}
+        - {x: 39.56044, y: -210.93509}
+        - {x: 36.263737, y: -184.5679}
+        - {x: 49.5, y: 108.76707}
+        - {x: 49.5, y: 214}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 6310
+        width: 189
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94.5, y: 168.09323}
+        - {x: 72.868126, y: 214}
+        - {x: -52.406593, y: 214}
+        - {x: -94.5, y: 9.890109}
+        - {x: -94.5, y: -214}
+        - {x: -35.92308, y: -214}
+        - {x: -12.846156, y: -158.20071}
+        - {x: 43.1978, y: -214}
+        - {x: 94.5, y: -214}
+      - - {x: -29.329672, y: -19.772978}
+        - {x: -32.626377, y: -19.772978}
+        - {x: -32.626377, y: -29.660673}
+        - {x: -29.329672, y: -29.660673}
+      physicsShape:
+      - - {x: -94.5, y: -39.548367}
+        - {x: -94.5, y: -214}
+        - {x: 94.5, y: -214}
+        - {x: 94.5, y: 214}
+        - {x: 30.010986, y: 214}
+        - {x: -42.516483, y: 194.46042}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_2
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 6310
+        width: 207
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103.5, y: 214}
+        - {x: -70.64832, y: 214}
+        - {x: -103.5, y: 82.39988}
+        - {x: -103.5, y: -214}
+        - {x: 103.5, y: -214}
+      physicsShape:
+      - - {x: -8.010964, y: 214}
+        - {x: -103.5, y: 75.80808}
+        - {x: -103.5, y: -214}
+        - {x: 103.5, y: -214}
+        - {x: 103.5, y: 168.09323}
+        - {x: 97.483536, y: 214}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_3
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6310
+        width: 98
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.35172346, y: 214}
+        - {x: -49, y: 197.75632}
+        - {x: -49, y: -151.60892}
+        - {x: -26.021902, y: -214}
+        - {x: 49, y: -214}
+        - {x: 49, y: 214}
+      physicsShape:
+      - - {x: 20.131943, y: 214}
+        - {x: -49, y: 187.86862}
+        - {x: -49, y: -102.17044}
+        - {x: -19.428495, y: -214}
+        - {x: 46.50557, y: -214}
+        - {x: 49, y: -85.69095}
+        - {x: 49, y: 214}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_4
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 6310
+        width: 188
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.384617, y: 214}
+        - {x: -44.164837, y: 214}
+        - {x: -93.61539, y: 6.594211}
+        - {x: -93.61539, y: -214}
+        - {x: 94, y: -214}
+        - {x: 94, y: 214}
+      physicsShape:
+      - - {x: -93.61539, y: 3.2983124}
+        - {x: -93.61539, y: -214}
+        - {x: 94, y: -214}
+        - {x: 94, y: 214}
+        - {x: 8.582415, y: 214}
+        - {x: -54.054947, y: 197.75632}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_5
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 6310
+        width: 207
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.96704, y: -29.660673}
+        - {x: -102.96704, y: -214}
+        - {x: 103.5, y: -214}
+        - {x: 103.5, y: 214}
+        - {x: 15.714272, y: 214}
+        - {x: -43.626385, y: 201.05222}
+      - - {x: -23.846167, y: -19.772978}
+        - {x: -27.14287, y: -19.772978}
+        - {x: -27.14287, y: -29.660673}
+        - {x: -23.846167, y: -29.660673}
+      physicsShape:
+      - - {x: 61.86812, y: -85.69095}
+        - {x: 98.13185, y: 32.9614}
+        - {x: 101.42856, y: 88.99168}
+        - {x: 101.42856, y: 214}
+        - {x: 35.49449, y: 214}
+        - {x: -37.032978, y: 197.75632}
+        - {x: -99.67034, y: -42.844265}
+        - {x: -99.67034, y: -207.63919}
+        - {x: -86.48353, y: -214}
+        - {x: 103.5, y: -214}
+        - {x: 103.5, y: -158.20071}
+        - {x: 98.13185, y: -121.94583}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5862
+        width: 99
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.450546, y: 214}
+        - {x: -49.450546, y: -213.98878}
+        - {x: 49.5, y: -213.98878}
+        - {x: 49.5, y: 214}
+      physicsShape:
+      - - {x: 16.483517, y: 214}
+        - {x: -36.263737, y: 188.11084}
+        - {x: -49.450546, y: 148.56004}
+        - {x: -49.450546, y: -101.92824}
+        - {x: -32.967033, y: -213.98878}
+        - {x: 49.5, y: -213.98878}
+        - {x: 49.5, y: 214}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_7
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 5862
+        width: 189
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.41758, y: 214}
+        - {x: -32.626377, y: 188.11084}
+        - {x: -94.5, y: 23.315907}
+        - {x: -94.5, y: -213.98878}
+        - {x: 94.5, y: -213.98878}
+        - {x: 94.5, y: 155.15184}
+        - {x: 72.868126, y: 214}
+      physicsShape:
+      - - {x: 36.604393, y: 214}
+        - {x: -26.032969, y: 191.40674}
+        - {x: -39.21978, y: 102.41747}
+        - {x: -42.516483, y: 72.75439}
+        - {x: -68.890114, y: -6.3471794}
+        - {x: -65.59341, y: -29.418468}
+        - {x: -59, y: -36.010265}
+        - {x: -42.516483, y: -36.010265}
+        - {x: -35.92308, y: -29.418468}
+        - {x: -88.67033, y: -148.07082}
+        - {x: -94.5, y: -167.8462}
+        - {x: -94.5, y: -207.39699}
+        - {x: -82.07693, y: -213.98878}
+        - {x: 94.5, y: -213.98878}
+        - {x: 94.5, y: 128.78465}
+        - {x: 89.35165, y: 214}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_8
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 5862
+        width: 99
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.450546, y: 214}
+        - {x: -49.450546, y: -213.98878}
+        - {x: 49.5, y: -213.98878}
+        - {x: 49.5, y: 214}
+      physicsShape:
+      - - {x: 16.483517, y: 214}
+        - {x: -36.263737, y: 188.11084}
+        - {x: -49.450546, y: 148.56004}
+        - {x: -49.450546, y: -101.92824}
+        - {x: -32.967033, y: -213.98878}
+        - {x: 49.5, y: -213.98878}
+        - {x: 49.5, y: 214}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_9
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 5862
+        width: 207
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.659253, y: 214}
+        - {x: -30.439472, y: 191.40674}
+        - {x: -102.96694, y: -98.63234}
+        - {x: -102.96694, y: -213.98878}
+        - {x: 103.5, y: -213.98878}
+        - {x: 103.5, y: 178.22314}
+        - {x: 84.94514, y: 214}
+      physicsShape:
+      - - {x: 103.5, y: -213.98878}
+        - {x: 103.5, y: 115.60107}
+        - {x: 94.83525, y: 214}
+        - {x: 42.087997, y: 214}
+        - {x: -20.549362, y: 191.40674}
+        - {x: -33.736176, y: 102.41747}
+        - {x: -37.03288, y: 72.75439}
+        - {x: -63.406506, y: -6.3471794}
+        - {x: -60.109802, y: -29.418468}
+        - {x: -53.516396, y: -36.010265}
+        - {x: -37.03288, y: -36.010265}
+        - {x: -73.296616, y: -115.11183}
+        - {x: -99.67024, y: -171.1421}
+        - {x: -99.67024, y: -210.69289}
+        - {x: -86.48343, y: -213.98878}
+        - {x: -56.8131, y: -213.98878}
+        - {x: -50.219692, y: -207.39699}
+        - {x: -50.219692, y: -197.5093}
+        - {x: 35.49459, y: -213.98878}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_10
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 5862
+        width: 188
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.61539, y: -65.673355}
+        - {x: -93.61539, y: -213.98878}
+        - {x: 94, y: -213.98878}
+        - {x: 94, y: 76.050285}
+        - {x: 77.81318, y: 214}
+        - {x: 34.95604, y: 214}
+        - {x: -34.274727, y: 188.11084}
+      physicsShape:
+      - - {x: -70.53846, y: -29.418468}
+        - {x: -54.054947, y: -36.010265}
+        - {x: -37.57143, y: -39.306164}
+        - {x: -40.868134, y: -36.010265}
+        - {x: -44.164837, y: -82.15285}
+        - {x: -93.61539, y: -148.07082}
+        - {x: -93.61539, y: -200.80519}
+        - {x: -87.02198, y: -213.98878}
+        - {x: 61.329666, y: -213.98878}
+        - {x: 94, y: -210.69289}
+        - {x: 94, y: 174.92723}
+        - {x: 94, y: 214}
+        - {x: 34.95604, y: 214}
+        - {x: -30.978024, y: 181.51904}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_11
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 5862
+        width: 207
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.96704, y: -213.98878}
+        - {x: 103.5, y: -213.98878}
+        - {x: 103.5, y: 99.121574}
+        - {x: 94.83515, y: 214}
+        - {x: -10.659354, y: 214}
+        - {x: -102.96704, y: 52.978992}
+      physicsShape:
+      - - {x: 103.5, y: -213.98878}
+        - {x: 103.5, y: 115.60107}
+        - {x: 94.83515, y: 214}
+        - {x: 42.0879, y: 214}
+        - {x: -20.549463, y: 191.40674}
+        - {x: -66.70331, y: -6.3471794}
+        - {x: -56.813198, y: -42.602062}
+        - {x: -37.032978, y: -36.010265}
+        - {x: -73.296715, y: -115.11183}
+        - {x: -99.67034, y: -171.1421}
+        - {x: -99.67034, y: -210.69289}
+        - {x: -86.48353, y: -213.98878}
+        - {x: -56.813198, y: -213.98878}
+        - {x: -50.21979, y: -207.39699}
+        - {x: -50.21979, y: -197.5093}
+        - {x: 35.49449, y: -213.98878}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5410
+        width: 99
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 214.5}
+        - {x: -49.450546, y: 197.53665}
+        - {x: -49.450546, y: -148.53268}
+        - {x: -26.373625, y: -214.45067}
+        - {x: 42.857143, y: -214.45067}
+        - {x: 39.56044, y: -181.49168}
+        - {x: 49.5, y: 45.92532}
+        - {x: 49.5, y: 214.5}
+      physicsShape:
+      - - {x: 19.78022, y: 214.5}
+        - {x: -49.450546, y: 190.94485}
+        - {x: -49.450546, y: -105.68601}
+        - {x: -16.483517, y: -214.45067}
+        - {x: 29.670328, y: -214.45067}
+        - {x: 39.56044, y: -211.15477}
+        - {x: 36.263737, y: -184.78758}
+        - {x: 49.5, y: 108.54739}
+        - {x: 49.5, y: 214.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 5410
+        width: 189
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.296703, y: 214.5}
+        - {x: -94.5, y: 49.22122}
+        - {x: -94.5, y: -214.45067}
+        - {x: 94.5, y: -214.45067}
+        - {x: 94.5, y: 171.16946}
+        - {x: 79.46153, y: 214.5}
+      - - {x: -29.329672, y: -19.99265}
+        - {x: -32.626377, y: -19.99265}
+        - {x: -32.626377, y: -29.880346}
+        - {x: -29.329672, y: -29.880346}
+      physicsShape:
+      - - {x: -72.18681, y: -6.809056}
+        - {x: -94.5, y: -148.53268}
+        - {x: -94.5, y: -207.85887}
+        - {x: -82.07693, y: -214.45067}
+        - {x: 94.5, y: -214.45067}
+        - {x: 94.5, y: 214.5}
+        - {x: 36.604393, y: 214.5}
+        - {x: -32.626377, y: 184.35306}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_14
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 5410
+        width: 207
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.5, y: 9.670437}
+        - {x: -103.5, y: -214.45067}
+        - {x: 103.5, y: -214.45067}
+        - {x: 103.5, y: 72.29251}
+        - {x: 74.40662, y: 214.5}
+        - {x: 1.879145, y: 214.5}
+        - {x: -50.868107, y: 204.12845}
+      physicsShape:
+      - - {x: 103.5, y: -214.45067}
+        - {x: 103.5, y: 214.5}
+        - {x: -11.307668, y: 214.5}
+        - {x: -103.5, y: 75.58841}
+        - {x: -103.5, y: -211.15477}
+        - {x: -87.13184, y: -214.45067}
+        - {x: -54.16481, y: -214.45067}
+        - {x: -50.868107, y: -204.56297}
+        - {x: -50.868107, y: -201.26707}
+        - {x: 51.329693, y: -214.45067}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_15
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 5410
+        width: 98
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.35172346, y: 214.5}
+        - {x: -49, y: 197.53665}
+        - {x: -49, y: -151.82858}
+        - {x: -26.021902, y: -214.45067}
+        - {x: 49, y: -214.45067}
+        - {x: 49, y: 214.5}
+      physicsShape:
+      - - {x: 20.131943, y: 214.5}
+        - {x: -49, y: 187.64896}
+        - {x: -49, y: -102.390114}
+        - {x: -19.428495, y: -214.45067}
+        - {x: 46.50557, y: -214.45067}
+        - {x: 49, y: -85.91062}
+        - {x: 49, y: 214.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_16
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 5410
+        width: 188
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.648354, y: 214.5}
+        - {x: -93.61539, y: 118.43509}
+        - {x: -93.61539, y: -214.45067}
+        - {x: 94, y: -214.45067}
+        - {x: 94, y: 108.54739}
+        - {x: 74.51648, y: 214.5}
+      physicsShape:
+      - - {x: 94, y: 214.5}
+        - {x: 28.362635, y: 214.5}
+        - {x: -30.978024, y: 184.35306}
+        - {x: -93.61539, y: -108.98191}
+        - {x: -93.61539, y: -211.15477}
+        - {x: -77.13187, y: -214.45067}
+        - {x: -44.164837, y: -214.45067}
+        - {x: -40.868134, y: -204.56297}
+        - {x: -17.79121, y: -214.45067}
+        - {x: 94, y: -214.45067}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_17
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 5410
+        width: 207
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.96704, y: -214.45067}
+        - {x: 103.5, y: -214.45067}
+        - {x: 103.5, y: 141.50638}
+        - {x: 103.5, y: 214.5}
+        - {x: 5.824162, y: 214.5}
+        - {x: -33.736275, y: 207.42435}
+        - {x: -102.96704, y: -39.76804}
+      - - {x: -23.846167, y: -19.99265}
+        - {x: -27.14287, y: -19.99265}
+        - {x: -27.14287, y: -29.880346}
+        - {x: -23.846167, y: -29.880346}
+      physicsShape:
+      - - {x: -76.593414, y: -49.655735}
+        - {x: -99.67034, y: -158.4204}
+        - {x: -99.67034, y: -207.85887}
+        - {x: -86.48353, y: -214.45067}
+        - {x: 103.5, y: -214.45067}
+        - {x: 103.5, y: 214.5}
+        - {x: 42.0879, y: 214.5}
+        - {x: -23.846167, y: 184.35306}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4962
+        width: 185
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.780216, y: 209}
+        - {x: -72.747246, y: 196.1309}
+        - {x: -92.5, y: 67.590866}
+        - {x: -92.5, y: -209}
+        - {x: 92.5, y: -209}
+        - {x: 92.5, y: 143.39653}
+        - {x: 52.527473, y: 209}
+      physicsShape:
+      - - {x: 75.60439, y: -116.979454}
+        - {x: 92.5, y: -64.24508}
+        - {x: 92.5, y: 163.17192}
+        - {x: 78.9011, y: 209}
+        - {x: -26.593403, y: 209}
+        - {x: -92.5, y: 120.32524}
+        - {x: -92.5, y: -209}
+        - {x: 52.527473, y: -209}
+        - {x: 62.417583, y: -192.78513}
+        - {x: 75.60439, y: -146.64253}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_19
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4962
+        width: 167
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.5, y: -205.96872}
+        - {x: 83.5, y: 80.77446}
+        - {x: 77.197815, y: 100.54985}
+        - {x: 50.824192, y: 93.95805}
+        - {x: 44.230785, y: 87.36626}
+        - {x: 31.043972, y: 206.0186}
+        - {x: 24.450565, y: 209}
+        - {x: -54.67031, y: 209}
+        - {x: -83.5, y: 173.05962}
+        - {x: -83.5, y: -209}
+        - {x: -31.59339, y: -209}
+        - {x: -15.109873, y: -163.12202}
+        - {x: 24.450565, y: -209}
+        - {x: 83.5, y: -209}
+      - - {x: 40.934082, y: -60.949177}
+        - {x: 50.824192, y: -57.65328}
+        - {x: 50.824192, y: -47.765583}
+        - {x: 40.934082, y: -44.469685}
+        - {x: 34.340675, y: -51.06148}
+      physicsShape:
+      - - {x: -44.7802, y: 209}
+        - {x: -83.5, y: 153.28423}
+        - {x: -83.5, y: -209}
+        - {x: 77.197815, y: -209}
+        - {x: 77.197815, y: 179.65141}
+        - {x: 64.011, y: 209}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_20
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4962
+        width: 184
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: -1.6230047}
+        - {x: 92, y: 90.662155}
+        - {x: 6.450544, y: 209}
+        - {x: -72.670334, y: 209}
+        - {x: -92, y: 153.28423}
+        - {x: -92, y: -163.12202}
+        - {x: -79.26374, y: -209}
+        - {x: -23.219786, y: -209}
+        - {x: -23.219786, y: -189.48923}
+        - {x: 29.527466, y: -209}
+        - {x: 92, y: -209}
+      - - {x: 29.527466, y: -60.949177}
+        - {x: 39.417576, y: -57.65328}
+        - {x: 39.417576, y: -47.765583}
+        - {x: 29.527466, y: -44.469685}
+        - {x: 22.93406, y: -51.06148}
+      physicsShape:
+      - - {x: 3.1538408, y: 209}
+        - {x: -26.516489, y: 209}
+        - {x: -75.96703, y: 189.53911}
+        - {x: -92, y: 117.02934}
+        - {x: -92, y: -192.78513}
+        - {x: -82.56044, y: -209}
+        - {x: 88.868126, y: -209}
+        - {x: 88.868126, y: 60.999065}
+        - {x: 82.27472, y: 107.14165}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_21
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 4962
+        width: 167
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.5, y: -205.96872}
+        - {x: 83.5, y: 80.77446}
+        - {x: 77.19787, y: 100.54985}
+        - {x: 50.82424, y: 93.95805}
+        - {x: 44.230835, y: 87.36626}
+        - {x: 31.044022, y: 206.0186}
+        - {x: 24.450615, y: 209}
+        - {x: -54.67026, y: 209}
+        - {x: -83.5, y: 173.05962}
+        - {x: -83.5, y: -209}
+        - {x: -31.593338, y: -209}
+        - {x: -15.109822, y: -163.12202}
+        - {x: 24.450615, y: -209}
+        - {x: 83.5, y: -209}
+      - - {x: 40.93413, y: -60.949177}
+        - {x: 50.82424, y: -57.65328}
+        - {x: 50.82424, y: -47.765583}
+        - {x: 40.93413, y: -44.469685}
+        - {x: 34.340725, y: -51.06148}
+      physicsShape:
+      - - {x: -44.78015, y: 209}
+        - {x: -83.5, y: 153.28423}
+        - {x: -83.5, y: -209}
+        - {x: 77.19787, y: -209}
+        - {x: 77.19787, y: 179.65141}
+        - {x: 64.011055, y: 209}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4510
+        width: 185
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85.49451, y: -209.5}
+        - {x: 92.5, y: -147.10442}
+        - {x: 92.5, y: 162.71004}
+        - {x: 45.934067, y: 209.5}
+        - {x: -52.96703, y: 209.5}
+        - {x: -72.747246, y: 195.66904}
+        - {x: -92.5, y: 60.53719}
+        - {x: -92.5, y: -209.5}
+        - {x: -49.670326, y: -209.5}
+        - {x: -46.373623, y: -206.43059}
+        - {x: -39.780216, y: -209.5}
+      physicsShape:
+      - - {x: -23.2967, y: 209.5}
+        - {x: -76.04395, y: 195.66904}
+        - {x: -92.5, y: 123.15926}
+        - {x: -92.5, y: -209.5}
+        - {x: 92.5, y: -209.5}
+        - {x: 92.5, y: 209.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_23
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4510
+        width: 167
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.52749, y: 100.087975}
+        - {x: 31.043972, y: 205.55673}
+        - {x: 24.450565, y: 209.5}
+        - {x: -51.373608, y: 209.5}
+        - {x: -83.5, y: 166.00594}
+        - {x: -83.5, y: -209.5}
+        - {x: 83.5, y: -209.5}
+        - {x: 83.5, y: 90.20028}
+        - {x: 77.197815, y: 103.38387}
+      - - {x: 40.934082, y: -61.411053}
+        - {x: 50.824192, y: -58.115154}
+        - {x: 50.824192, y: -48.22746}
+        - {x: 40.934082, y: -44.93156}
+        - {x: 34.340675, y: -51.523357}
+      physicsShape:
+      - - {x: -83.5, y: 209.5}
+        - {x: -83.5, y: -209.5}
+        - {x: 77.197815, y: -209.5}
+        - {x: 77.197815, y: 139.63875}
+        - {x: 14.560456, y: 209.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_24
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4510
+        width: 184
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: -209.5}
+        - {x: 92, y: 44.057697}
+        - {x: 88.868126, y: 109.97567}
+        - {x: 22.93406, y: 209.5}
+        - {x: -46.296707, y: 209.5}
+        - {x: -79.26374, y: 195.66904}
+        - {x: -92, y: 109.97567}
+        - {x: -92, y: -143.80852}
+        - {x: -89.15385, y: -189.9511}
+        - {x: -75.96703, y: -209.5}
+        - {x: -26.516489, y: -209.5}
+        - {x: -23.219786, y: -206.43059}
+        - {x: -23.219786, y: -189.9511}
+        - {x: 32.82417, y: -209.5}
+      - - {x: 29.527466, y: -61.411053}
+        - {x: 39.417576, y: -58.115154}
+        - {x: 39.417576, y: -48.22746}
+        - {x: 29.527466, y: -44.93156}
+        - {x: 22.93406, y: -51.523357}
+      physicsShape:
+      - - {x: -3.4395657, y: 209.5}
+        - {x: -36.406597, y: 209.5}
+        - {x: -79.26374, y: 182.48543}
+        - {x: -92, y: 77.016685}
+        - {x: -92, y: -28.452068}
+        - {x: -72.670334, y: -209.5}
+        - {x: 88.868126, y: -209.5}
+        - {x: 88.868126, y: 109.97567}
+        - {x: 16.340654, y: 202.26083}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_25
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 4510
+        width: 167
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.52754, y: 100.087975}
+        - {x: 31.044022, y: 205.55673}
+        - {x: 24.450615, y: 209.5}
+        - {x: -51.373558, y: 209.5}
+        - {x: -83.5, y: 166.00594}
+        - {x: -83.5, y: -209.5}
+        - {x: 83.5, y: -209.5}
+        - {x: 83.5, y: 90.20028}
+        - {x: 77.19787, y: 103.38387}
+      - - {x: 40.93413, y: -61.411053}
+        - {x: 50.82424, y: -58.115154}
+        - {x: 50.82424, y: -48.22746}
+        - {x: 40.93413, y: -44.93156}
+        - {x: 34.340725, y: -51.523357}
+      physicsShape:
+      - - {x: -83.5, y: 209.5}
+        - {x: -83.5, y: -209.5}
+        - {x: 77.19787, y: -209.5}
+        - {x: 77.19787, y: 139.63875}
+        - {x: 14.560506, y: 209.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4062
+        width: 185
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.5, y: 11.340917}
+        - {x: 92.5, y: 100.33018}
+        - {x: 49.23077, y: 209}
+        - {x: -46.373623, y: 209}
+        - {x: -82.63736, y: 80.55479}
+        - {x: -92.5, y: -120.495026}
+        - {x: -92.5, y: -209}
+        - {x: 65.71429, y: -209}
+        - {x: 82.1978, y: -150.15811}
+        - {x: 82.1978, y: -110.60733}
+      physicsShape:
+      - - {x: -6.8131833, y: 209}
+        - {x: -49.670326, y: 176.13585}
+        - {x: -89.23077, y: 80.55479}
+        - {x: -92.5, y: 41.004}
+        - {x: -92.5, y: -209}
+        - {x: 92.5, y: -209}
+        - {x: 92.5, y: 143.17685}
+        - {x: 45.934067, y: 209}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_27
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4062
+        width: 167
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.5, y: 179.43175}
+        - {x: 47.52749, y: 209}
+        - {x: -44.7802, y: 209}
+        - {x: -83.5, y: 162.95226}
+        - {x: -83.5, y: -209}
+        - {x: -31.59339, y: -209}
+        - {x: -15.109873, y: -163.3417}
+        - {x: 24.450565, y: -209}
+        - {x: 83.5, y: -209}
+      physicsShape:
+      - - {x: -48.076904, y: 209}
+        - {x: -83.5, y: 162.95226}
+        - {x: -83.5, y: -209}
+        - {x: 77.197815, y: -209}
+        - {x: 77.197815, y: 133.28915}
+        - {x: 17.857159, y: 209}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_28
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4062
+        width: 186
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 129.99326}
+        - {x: 65.7912, y: 209}
+        - {x: -56.186817, y: 209}
+        - {x: -92.450554, y: 153.06454}
+        - {x: -92.450554, y: -183.1171}
+        - {x: -89.15385, y: -209}
+        - {x: -23.219786, y: -209}
+        - {x: -23.219786, y: -189.7089}
+        - {x: 22.93406, y: -209}
+        - {x: 93, y: -209}
+      - - {x: 22.93406, y: -57.87295}
+        - {x: 29.527466, y: -64.46475}
+        - {x: 39.417576, y: -61.16885}
+        - {x: 39.417576, y: -51.281155}
+        - {x: 32.82417, y: -44.689358}
+        - {x: 22.93406, y: -47.985256}
+      physicsShape:
+      - - {x: 88.868126, y: 136.58505}
+        - {x: 6.450544, y: 209}
+        - {x: -23.219786, y: 209}
+        - {x: -72.670334, y: 186.02354}
+        - {x: -92.450554, y: 90.44248}
+        - {x: -92.450554, y: 24.524511}
+        - {x: -82.56044, y: -120.495026}
+        - {x: -72.670334, y: -209}
+        - {x: -33.109894, y: -209}
+        - {x: -23.219786, y: -206.18839}
+        - {x: -13.329676, y: -209}
+        - {x: 88.868126, y: -209}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_29
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 4062
+        width: 167
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.5, y: 179.43175}
+        - {x: 47.52754, y: 209}
+        - {x: -44.78015, y: 209}
+        - {x: -83.5, y: 162.95226}
+        - {x: -83.5, y: -209}
+        - {x: -31.593338, y: -209}
+        - {x: -15.109822, y: -163.3417}
+        - {x: 24.450615, y: -209}
+        - {x: 83.5, y: -209}
+      physicsShape:
+      - - {x: -48.076855, y: 209}
+        - {x: -83.5, y: 162.95226}
+        - {x: -83.5, y: -209}
+        - {x: 77.19787, y: -209}
+        - {x: 77.19787, y: 133.28915}
+        - {x: 17.85721, y: 209}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3611
+        width: 164
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: -208.94637}
+        - {x: 82, y: -208.94637}
+        - {x: 82, y: 51.429615}
+        - {x: 49.527473, y: 209}
+        - {x: -49.373623, y: 209}
+        - {x: -82, y: 199.74504}
+      - - {x: 39.637367, y: -60.63093}
+        - {x: 49.527473, y: -57.335033}
+        - {x: 49.527473, y: -47.44734}
+        - {x: 39.637367, y: -44.15144}
+        - {x: 33.04396, y: -50.743237}
+      physicsShape:
+      - - {x: 33.04396, y: 150.30656}
+        - {x: 23.153849, y: 147.01067}
+        - {x: 16.560444, y: 107.45989}
+        - {x: 16.560444, y: 90.9804}
+        - {x: 16.560444, y: 196.44914}
+        - {x: 13.26374, y: 206.33685}
+        - {x: 9.967036, y: 209}
+        - {x: -42.780216, y: 209}
+        - {x: -82, y: 160.19426}
+        - {x: -82, y: -208.94637}
+        - {x: 79.19781, y: -208.94637}
+        - {x: 79.19781, y: 104.163994}
+        - {x: 49.527473, y: 140.41887}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3611
+        width: 240
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.60441, y: 1.9911379}
+        - {x: 60.714302, y: 25.062428}
+        - {x: 17.857159, y: 54.725513}
+        - {x: -8.516466, y: 54.725513}
+        - {x: -15.109873, y: 51.429615}
+        - {x: -5.2197633, y: 61.31731}
+        - {x: -5.2197633, y: 90.9804}
+        - {x: 67.30771, y: 31.654224}
+        - {x: 80.49452, y: -17.784254}
+        - {x: 120, y: -17.784254}
+        - {x: 120, y: 114.05169}
+        - {x: 14.560456, y: 209}
+        - {x: -120, y: 209}
+        - {x: -120, y: -208.94637}
+        - {x: 47.52749, y: -208.94637}
+        - {x: 54.120895, y: -199.05867}
+        - {x: 57.4176, y: -185.87508}
+        - {x: 27.747269, y: -96.88582}
+      - - {x: 4.6703463, y: -60.63093}
+        - {x: 14.560456, y: -57.335033}
+        - {x: 14.560456, y: -47.44734}
+        - {x: 4.6703463, y: -44.15144}
+        - {x: -1.92306, y: -50.743237}
+      physicsShape:
+      - - {x: 87.08793, y: -7.896558}
+        - {x: 113.461555, y: -7.896558}
+        - {x: 120, y: -4.600659}
+        - {x: 120, y: 15.174732}
+        - {x: 116.758255, y: 25.062428}
+        - {x: 110.16485, y: 48.133717}
+        - {x: 93.681335, y: 77.79681}
+        - {x: 47.52749, y: 127.23528}
+        - {x: 7.9670496, y: 143.71477}
+        - {x: -18.406576, y: 199.74504}
+        - {x: -28.296686, y: 209}
+        - {x: -41.483498, y: 209}
+        - {x: -100.82416, y: 189.85735}
+        - {x: -120, y: 143.71477}
+        - {x: -120, y: -208.94637}
+        - {x: 87.08793, y: -208.94637}
+        - {x: 60.714302, y: 8.582935}
+        - {x: 57.4176, y: 18.47063}
+        - {x: 77.197815, y: -4.600659}
+      - - {x: 60.714302, y: 137.12297}
+        - {x: 54.120895, y: 130.53117}
+        - {x: 54.120895, y: 123.939384}
+        - {x: 60.714302, y: 117.34759}
+        - {x: 70.60441, y: 117.34759}
+        - {x: 77.197815, y: 123.939384}
+        - {x: 77.197815, y: 130.53117}
+        - {x: 70.60441, y: 137.12297}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_32
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 3611
+        width: 237
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.63732, y: 209}
+        - {x: -118.5, y: 199.74504}
+        - {x: -118.5, y: -208.94637}
+        - {x: 118.5, y: -208.94637}
+        - {x: 118.5, y: 133.82707}
+        - {x: 59.41762, y: 209}
+      - - {x: 3.373668, y: -44.15144}
+        - {x: 49.52751, y: -44.15144}
+        - {x: 59.41762, y: -34.263744}
+        - {x: 56.12092, y: -30.967848}
+        - {x: 52.824215, y: -40.85554}
+        - {x: 42.934105, y: -50.743237}
+        - {x: 39.6374, y: -50.743237}
+        - {x: 19.857183, y: -60.63093}
+      - - {x: 3.373668, y: -60.63093}
+        - {x: 13.263778, y: -57.335033}
+        - {x: 13.263778, y: -47.44734}
+        - {x: 3.373668, y: -44.15144}
+        - {x: -3.2197385, y: -50.743237}
+      - - {x: 69.30773, y: -11.192456}
+        - {x: 59.41762, y: -1.3047606}
+        - {x: 42.934105, y: -1.3047606}
+        - {x: 13.263778, y: 8.582935}
+        - {x: 9.967074, y: 8.582935}
+        - {x: 0.07696466, y: 18.47063}
+        - {x: 0.07696466, y: 15.174732}
+        - {x: 19.857183, y: 15.174732}
+        - {x: 29.747293, y: 25.062428}
+        - {x: 29.747293, y: 48.133717}
+        - {x: 19.857183, y: 58.02141}
+        - {x: -6.516442, y: 58.02141}
+        - {x: -9.813145, y: 54.725513}
+        - {x: 0.07696466, y: 64.61321}
+        - {x: 0.07696466, y: 87.6845}
+        - {x: 62.714325, y: 31.654224}
+        - {x: 72.60444, y: 25.062428}
+        - {x: 72.60444, y: -11.192456}
+        - {x: 62.714325, y: -21.080153}
+        - {x: 66.01103, y: -24.37605}
+        - {x: 69.30773, y: -21.080153}
+      physicsShape:
+      - - {x: -88.93402, y: 209}
+        - {x: -118.5, y: 170.08195}
+        - {x: -118.5, y: -208.94637}
+        - {x: 118.5, y: -208.94637}
+        - {x: 118.5, y: -143.0284}
+        - {x: 118.5, y: 71.20501}
+        - {x: -3.2197385, y: 209}
+      - - {x: 3.373668, y: -73.81453}
+        - {x: -16.406551, y: -40.85554}
+        - {x: -26.296661, y: -34.263744}
+        - {x: -29.593365, y: -7.896558}
+        - {x: -32.890068, y: -11.192456}
+        - {x: -22.999958, y: -21.080153}
+        - {x: 6.670371, y: -40.85554}
+        - {x: 46.23081, y: -40.85554}
+        - {x: 66.01103, y: -21.080153}
+        - {x: 66.01103, y: -14.488355}
+        - {x: 56.12092, y: -4.600659}
+        - {x: 46.23081, y: -4.600659}
+        - {x: 39.6374, y: 21.76653}
+        - {x: 19.857183, y: 61.31731}
+        - {x: -16.406551, y: 94.2763}
+        - {x: -49.373585, y: 90.9804}
+        - {x: -26.296661, y: 87.6845}
+        - {x: -16.406551, y: 97.5722}
+        - {x: 26.45059, y: 94.2763}
+        - {x: 72.60444, y: -14.488355}
+        - {x: 56.12092, y: -34.263744}
+        - {x: 16.56048, y: -73.81453}
+        - {x: 6.670371, y: -73.81453}
+        - {x: -3.2197385, y: -80.40633}
+        - {x: 3.373668, y: -83.702225}
+      - - {x: 62.714325, y: 137.12297}
+        - {x: 56.12092, y: 130.53117}
+        - {x: 56.12092, y: 123.939384}
+        - {x: 62.714325, y: 117.34759}
+        - {x: 69.30773, y: 117.34759}
+        - {x: 75.90114, y: 123.939384}
+        - {x: 75.90114, y: 130.53117}
+        - {x: 69.30773, y: 137.12297}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_33
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 3611
+        width: 240
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.93413, y: 1.9911379}
+        - {x: 24.450615, y: 48.133717}
+        - {x: 17.85721, y: 54.725513}
+        - {x: -8.516417, y: 54.725513}
+        - {x: -15.109822, y: 51.429615}
+        - {x: -5.219713, y: 61.31731}
+        - {x: -5.219713, y: 206.33685}
+        - {x: -18.406527, y: 209}
+        - {x: -77.747185, y: 209}
+        - {x: -107.41751, y: 193.15324}
+        - {x: -120, y: 130.53117}
+        - {x: -120, y: -208.94637}
+        - {x: 80.49457, y: -208.94637}
+        - {x: 120, y: -129.8448}
+        - {x: 120, y: 5.2870364}
+        - {x: 80.49457, y: 11.878834}
+      - - {x: 47.52754, y: -44.15144}
+        - {x: 57.41765, y: -34.263744}
+        - {x: 57.41765, y: -30.967848}
+        - {x: 54.120945, y: -30.967848}
+        - {x: 54.120945, y: -40.85554}
+        - {x: 40.93413, y: -50.743237}
+        - {x: 21.153913, y: -60.63093}
+      - - {x: 4.670397, y: -60.63093}
+        - {x: 14.560506, y: -57.335033}
+        - {x: 14.560506, y: -47.44734}
+        - {x: 4.670397, y: -44.15144}
+        - {x: -1.9230098, y: -50.743237}
+      physicsShape:
+      - - {x: -110.71422, y: 209}
+        - {x: -120, y: 206.33685}
+        - {x: -120, y: -208.94637}
+        - {x: 64.011055, y: -208.94637}
+        - {x: 120, y: -96.88582}
+        - {x: 120, y: 117.34759}
+        - {x: 50.82424, y: 209}
+      - - {x: 44.230835, y: -7.896558}
+        - {x: 31.044022, y: -21.080153}
+        - {x: 31.044022, y: -34.263744}
+        - {x: 37.63743, y: -37.559643}
+        - {x: 50.82424, y: -37.559643}
+        - {x: 60.71435, y: -27.67195}
+        - {x: 60.71435, y: -11.192456}
+        - {x: 57.41765, y: -7.896558}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_34
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3611
+        width: 164
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.45041, y: 209}
+        - {x: -82, y: 203.04094}
+        - {x: -82, y: -208.94637}
+        - {x: 82, y: -208.94637}
+        - {x: 82, y: 137.12297}
+        - {x: 29.747395, y: 209}
+      - - {x: 39.637505, y: -60.63093}
+        - {x: 49.527615, y: -57.335033}
+        - {x: 49.527615, y: -47.44734}
+        - {x: 39.637505, y: -44.15144}
+        - {x: 33.044098, y: -50.743237}
+      physicsShape:
+      - - {x: 9.967175, y: 209}
+        - {x: -19.703154, y: 209}
+        - {x: -72.45041, y: 196.44914}
+        - {x: -82, y: 127.23528}
+        - {x: -82, y: -208.94637}
+        - {x: 79.197945, y: -208.94637}
+        - {x: 79.197945, y: 84.3886}
+        - {x: 19.857285, y: 199.74504}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3160
+        width: 166
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.23077, y: 209.5}
+        - {x: -55.967026, y: 209.5}
+        - {x: -82.34065, y: 170.62009}
+        - {x: -82.34065, y: -208.40825}
+        - {x: 83, y: -208.40825}
+        - {x: 83, y: 12.416951}
+      - - {x: 39.637367, y: -60.092815}
+        - {x: 49.527473, y: -56.796917}
+        - {x: 49.527473, y: -46.90922}
+        - {x: 39.637367, y: -43.613323}
+        - {x: 33.04396, y: -50.20512}
+      physicsShape:
+      - - {x: 33.04396, y: 154.1406}
+        - {x: 23.153849, y: 150.8447}
+        - {x: 16.560444, y: 107.99801}
+        - {x: 16.560444, y: 94.814415}
+        - {x: 16.560444, y: 196.98727}
+        - {x: 13.26374, y: 206.87497}
+        - {x: 9.967036, y: 209.5}
+        - {x: -39.483513, y: 209.5}
+        - {x: -82.34065, y: 160.73239}
+        - {x: -82.34065, y: -205.11235}
+        - {x: 79.19781, y: -205.11235}
+        - {x: 79.19781, y: 5.825155}
+        - {x: 56.12088, y: 140.957}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_36
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3160
+        width: 240
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.934082, y: 75.039024}
+        - {x: 80.49452, y: -13.950236}
+        - {x: 120, y: -17.246136}
+        - {x: 120, y: -10.654338}
+        - {x: 120, y: 51.967735}
+        - {x: 80.49452, y: 154.1406}
+        - {x: -18.406576, y: 209.5}
+        - {x: -81.04394, y: 209.5}
+        - {x: -107.417564, y: 193.69138}
+        - {x: -120, y: 117.885704}
+        - {x: -120, y: -208.40825}
+        - {x: 57.4176, y: -208.40825}
+        - {x: 96.978035, y: -191.92876}
+        - {x: 64.011, y: 15.712851}
+        - {x: 21.153862, y: 65.15133}
+      - - {x: 4.6703463, y: -60.092815}
+        - {x: 14.560456, y: -56.796917}
+        - {x: 14.560456, y: -46.90922}
+        - {x: 4.6703463, y: -43.613323}
+        - {x: -1.92306, y: -50.20512}
+      physicsShape:
+      - - {x: 40.934082, y: -198.52055}
+        - {x: 47.52749, y: -145.78618}
+        - {x: 64.011, y: 9.121053}
+        - {x: 21.153862, y: 65.15133}
+        - {x: 83.79122, y: -10.654338}
+        - {x: 116.758255, y: -13.950236}
+        - {x: 120, y: -4.062541}
+        - {x: 120, y: 35.48824}
+        - {x: 93.681335, y: 81.63082}
+        - {x: -5.2197633, y: 209.5}
+        - {x: -97.52745, y: 209.5}
+        - {x: -120, y: 177.21188}
+        - {x: -120, y: -205.11235}
+        - {x: -74.45053, y: -205.11235}
+        - {x: -71.153824, y: -188.63286}
+        - {x: -18.406576, y: -205.11235}
+        - {x: 34.340675, y: -205.11235}
+      - - {x: 57.4176, y: 140.957}
+        - {x: 54.120895, y: 134.3652}
+        - {x: 54.120895, y: 117.885704}
+        - {x: 77.197815, y: 117.885704}
+        - {x: 77.197815, y: 131.0693}
+        - {x: 73.901115, y: 140.957}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_37
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 3160
+        width: 237
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.934105, y: 209.5}
+        - {x: -118.5, y: 209.5}
+        - {x: -118.5, y: -208.40825}
+        - {x: 75.90114, y: -208.40825}
+        - {x: 98.97806, y: -198.52055}
+        - {x: 118.5, y: -119.41899}
+        - {x: 118.5, y: 131.0693}
+      - - {x: 3.373668, y: -43.613323}
+        - {x: 49.52751, y: -43.613323}
+        - {x: 59.41762, y: -33.725628}
+        - {x: 56.12092, y: -30.42973}
+        - {x: 52.824215, y: -37.021526}
+        - {x: 42.934105, y: -46.90922}
+        - {x: 19.857183, y: -56.796917}
+      - - {x: 69.30773, y: -7.3584394}
+        - {x: 59.41762, y: 2.529256}
+        - {x: 42.934105, y: 2.529256}
+        - {x: 13.263778, y: 12.416951}
+        - {x: 9.967074, y: 12.416951}
+        - {x: 0.07696466, y: 22.304647}
+        - {x: -3.2197385, y: 19.008749}
+        - {x: 19.857183, y: 15.712851}
+        - {x: 29.747293, y: 25.600546}
+        - {x: 29.747293, y: 51.967735}
+        - {x: 19.857183, y: 61.85543}
+        - {x: -6.516442, y: 61.85543}
+        - {x: -13.109848, y: 55.263634}
+        - {x: 0.07696466, y: 68.44723}
+        - {x: 0.07696466, y: 94.814415}
+        - {x: 62.714325, y: 32.19234}
+        - {x: 72.60444, y: -7.3584394}
+        - {x: 62.714325, y: -17.246136}
+        - {x: 66.01103, y: -20.542034}
+        - {x: 69.30773, y: -17.246136}
+      physicsShape:
+      - - {x: -75.74721, y: 209.5}
+        - {x: -118.5, y: 157.4365}
+        - {x: -118.5, y: -205.11235}
+        - {x: 62.714325, y: -205.11235}
+        - {x: 118.5, y: -40.317425}
+        - {x: 118.5, y: 71.743126}
+        - {x: -19.703255, y: 209.5}
+      - - {x: 3.373668, y: -73.27641}
+        - {x: -16.406551, y: -37.021526}
+        - {x: -26.296661, y: -30.42973}
+        - {x: -29.593365, y: -7.3584394}
+        - {x: -32.890068, y: -10.654338}
+        - {x: -22.999958, y: -20.542034}
+        - {x: 6.670371, y: -40.317425}
+        - {x: 46.23081, y: -40.317425}
+        - {x: 66.01103, y: -20.542034}
+        - {x: 69.30773, y: -10.654338}
+        - {x: 46.23081, y: 2.529256}
+        - {x: 19.857183, y: 65.15133}
+        - {x: -16.406551, y: 98.11031}
+        - {x: -49.373585, y: 94.814415}
+        - {x: -26.296661, y: 91.51852}
+        - {x: -16.406551, y: 101.40621}
+        - {x: 52.824215, y: 58.559532}
+        - {x: 75.90114, y: -13.950236}
+        - {x: 16.56048, y: -73.27641}
+        - {x: 6.670371, y: -73.27641}
+        - {x: -3.2197385, y: -79.86821}
+        - {x: 3.373668, y: -83.16411}
+      - - {x: 62.714325, y: 140.957}
+        - {x: 56.12092, y: 134.3652}
+        - {x: 56.12092, y: 124.4775}
+        - {x: 62.714325, y: 117.885704}
+        - {x: 69.30773, y: 117.885704}
+        - {x: 75.90114, y: 124.4775}
+        - {x: 75.90114, y: 134.3652}
+        - {x: 69.30773, y: 140.957}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_38
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 3160
+        width: 240
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.2307, y: 209.5}
+        - {x: -107.41751, y: 193.69138}
+        - {x: -120, y: 127.7734}
+        - {x: -120, y: -208.40825}
+        - {x: 60.71435, y: -208.40825}
+        - {x: 120, y: -76.57231}
+        - {x: 120, y: 65.15133}
+        - {x: -5.219713, y: 209.5}
+      - - {x: -11.813119, y: -37.021526}
+        - {x: -21.70323, y: -27.133831}
+        - {x: -21.70323, y: -23.837933}
+        - {x: -24.999931, y: -23.837933}
+        - {x: -28.296635, y: -27.133831}
+        - {x: -18.406527, y: -37.021526}
+        - {x: -15.109822, y: -37.021526}
+        - {x: -8.516417, y: -30.42973}
+        - {x: 4.670397, y: -43.613323}
+        - {x: 47.52754, y: -43.613323}
+        - {x: 57.41765, y: -33.725628}
+        - {x: 54.120945, y: -33.725628}
+        - {x: 54.120945, y: -37.021526}
+        - {x: 44.230835, y: -46.90922}
+        - {x: 40.93413, y: -46.90922}
+        - {x: 21.153913, y: -56.796917}
+      physicsShape:
+      - - {x: 120, y: -83.16411}
+        - {x: 120, y: 137.6611}
+        - {x: 57.41765, y: 209.5}
+        - {x: -87.63729, y: 209.5}
+        - {x: -120, y: 167.32419}
+        - {x: -120, y: -205.11235}
+        - {x: -74.45048, y: -205.11235}
+        - {x: -71.15378, y: -188.63286}
+        - {x: -18.406527, y: -205.11235}
+        - {x: 50.82424, y: -205.11235}
+      - - {x: 40.93413, y: -4.062541}
+        - {x: 31.044022, y: -17.246136}
+        - {x: 31.044022, y: -33.725628}
+        - {x: 37.63743, y: -37.021526}
+        - {x: 50.82424, y: -37.021526}
+        - {x: 60.71435, y: -23.837933}
+        - {x: 60.71435, y: -7.3584394}
+        - {x: 54.120945, y: -4.062541}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_39
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3160
+        width: 166
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: 51.967735}
+        - {x: 82.494644, y: 68.44723}
+        - {x: 29.747395, y: 58.559532}
+        - {x: 23.153988, y: 55.263634}
+        - {x: 33.044098, y: 68.44723}
+        - {x: 33.044098, y: 206.87497}
+        - {x: 19.857285, y: 209.5}
+        - {x: -59.26359, y: 209.5}
+        - {x: -82.340515, y: 203.57907}
+        - {x: -82.340515, y: -208.40825}
+        - {x: 83, y: -208.40825}
+      - - {x: 39.637505, y: -60.092815}
+        - {x: 49.527615, y: -56.796917}
+        - {x: 49.527615, y: -46.90922}
+        - {x: 39.637505, y: -43.613323}
+        - {x: 33.044098, y: -50.20512}
+      physicsShape:
+      - - {x: -22.999857, y: 209.5}
+        - {x: -62.560295, y: 190.39548}
+        - {x: -82.340515, y: 147.5488}
+        - {x: -82.340515, y: -205.11235}
+        - {x: 79.197945, y: -205.11235}
+        - {x: 79.197945, y: 25.600546}
+        - {x: 13.263878, y: 209.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2711
+        width: 164
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: -209}
+        - {x: 82, y: -209}
+        - {x: 82, y: 51.20994}
+        - {x: 49.527473, y: 209}
+        - {x: -49.373623, y: 209}
+        - {x: -82, y: 199.52538}
+      - - {x: 39.637367, y: -60.850605}
+        - {x: 49.527473, y: -57.554707}
+        - {x: 49.527473, y: -47.66701}
+        - {x: 39.637367, y: -44.371113}
+        - {x: 33.04396, y: -50.96291}
+      physicsShape:
+      - - {x: 72.6044, y: 21.546856}
+        - {x: 49.527473, y: 133.6074}
+        - {x: 33.04396, y: 150.0869}
+        - {x: 23.153849, y: 146.791}
+        - {x: 16.560444, y: 103.94432}
+        - {x: 16.560444, y: 90.76073}
+        - {x: 16.560444, y: 196.22948}
+        - {x: 13.26374, y: 206.11717}
+        - {x: 9.967036, y: 209}
+        - {x: -42.780216, y: 209}
+        - {x: -82, y: 159.9746}
+        - {x: -82, y: -209}
+        - {x: 79.19781, y: -209}
+        - {x: 79.19781, y: -172.91116}
+        - {x: 66.010994, y: -113.584984}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_41
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2711
+        width: 240
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.60441, y: 1.771465}
+        - {x: 60.714302, y: 24.842754}
+        - {x: 17.857159, y: 54.50584}
+        - {x: -8.516466, y: 54.50584}
+        - {x: -15.109873, y: 51.20994}
+        - {x: -5.2197633, y: 61.097637}
+        - {x: -5.2197633, y: 90.76073}
+        - {x: 67.30771, y: 31.434551}
+        - {x: 80.49452, y: -18.003925}
+        - {x: 120, y: -34.483418}
+        - {x: 120, y: 113.832016}
+        - {x: 70.60441, y: 209}
+        - {x: -120, y: 209}
+        - {x: -120, y: -209}
+        - {x: 47.52749, y: -209}
+        - {x: 54.120895, y: -199.27835}
+        - {x: 57.4176, y: -186.09476}
+        - {x: 27.747269, y: -97.10549}
+      - - {x: 4.6703463, y: -60.850605}
+        - {x: 14.560456, y: -57.554707}
+        - {x: 14.560456, y: -47.66701}
+        - {x: 4.6703463, y: -44.371113}
+        - {x: -1.92306, y: -50.96291}
+      physicsShape:
+      - - {x: 116.758255, y: 94.056625}
+        - {x: -8.516466, y: 209}
+        - {x: -61.263718, y: 209}
+        - {x: -100.82416, y: 189.63768}
+        - {x: -120, y: 146.791}
+        - {x: -120, y: -209}
+        - {x: 34.340675, y: -209}
+        - {x: 47.52749, y: -205.87015}
+        - {x: 120, y: -44.371113}
+        - {x: 120, y: 80.87303}
+      - - {x: 60.714302, y: 136.9033}
+        - {x: 54.120895, y: 130.31151}
+        - {x: 54.120895, y: 123.71971}
+        - {x: 60.714302, y: 117.127914}
+        - {x: 70.60441, y: 117.127914}
+        - {x: 77.197815, y: 123.71971}
+        - {x: 77.197815, y: 130.31151}
+        - {x: 70.60441, y: 136.9033}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_42
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 2711
+        width: 237
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.63732, y: 209}
+        - {x: -118.5, y: 199.52538}
+        - {x: -118.5, y: -209}
+        - {x: 118.5, y: -209}
+        - {x: 118.5, y: 136.9033}
+        - {x: 59.41762, y: 209}
+      - - {x: 3.373668, y: -44.371113}
+        - {x: 49.52751, y: -44.371113}
+        - {x: 59.41762, y: -34.483418}
+        - {x: 56.12092, y: -31.187521}
+        - {x: 52.824215, y: -41.075214}
+        - {x: 42.934105, y: -50.96291}
+        - {x: 39.6374, y: -50.96291}
+        - {x: 19.857183, y: -60.850605}
+      - - {x: 69.30773, y: -11.412129}
+        - {x: 59.41762, y: -1.5244335}
+        - {x: 42.934105, y: -1.5244335}
+        - {x: 13.263778, y: 8.363262}
+        - {x: 9.967074, y: 8.363262}
+        - {x: 0.07696466, y: 18.250957}
+        - {x: 0.07696466, y: 14.955059}
+        - {x: 19.857183, y: 14.955059}
+        - {x: 29.747293, y: 24.842754}
+        - {x: 29.747293, y: 47.914043}
+        - {x: 19.857183, y: 57.80174}
+        - {x: -6.516442, y: 57.80174}
+        - {x: -9.813145, y: 54.50584}
+        - {x: 0.07696466, y: 64.39354}
+        - {x: 0.07696466, y: 87.46483}
+        - {x: 62.714325, y: 31.434551}
+        - {x: 72.60444, y: 24.842754}
+        - {x: 72.60444, y: -11.412129}
+        - {x: 62.714325, y: -21.299824}
+        - {x: 66.01103, y: -24.595722}
+        - {x: 69.30773, y: -21.299824}
+      physicsShape:
+      - - {x: -75.74721, y: 209}
+        - {x: -118.5, y: 156.6787}
+        - {x: -118.5, y: -195.98245}
+        - {x: -112.01094, y: -209}
+        - {x: 56.12092, y: -209}
+        - {x: 118.5, y: -123.47268}
+        - {x: 118.5, y: 117.127914}
+        - {x: -6.516442, y: 209}
+      - - {x: 3.373668, y: -74.0342}
+        - {x: -16.406551, y: -41.075214}
+        - {x: -26.296661, y: -34.483418}
+        - {x: -29.593365, y: -8.116231}
+        - {x: -32.890068, y: -11.412129}
+        - {x: -22.999958, y: -21.299824}
+        - {x: 6.670371, y: -41.075214}
+        - {x: 46.23081, y: -41.075214}
+        - {x: 66.01103, y: -21.299824}
+        - {x: 66.01103, y: -14.708028}
+        - {x: 56.12092, y: -4.820332}
+        - {x: 46.23081, y: -4.820332}
+        - {x: 39.6374, y: 21.546856}
+        - {x: 19.857183, y: 61.097637}
+        - {x: -16.406551, y: 94.056625}
+        - {x: -49.373585, y: 90.76073}
+        - {x: -26.296661, y: 87.46483}
+        - {x: -16.406551, y: 97.35252}
+        - {x: 26.45059, y: 94.056625}
+        - {x: 72.60444, y: -14.708028}
+        - {x: 56.12092, y: -34.483418}
+        - {x: 16.56048, y: -74.0342}
+        - {x: 6.670371, y: -74.0342}
+        - {x: -3.2197385, y: -80.626}
+        - {x: 3.373668, y: -83.9219}
+      - - {x: 62.714325, y: 136.9033}
+        - {x: 56.12092, y: 130.31151}
+        - {x: 56.12092, y: 123.71971}
+        - {x: 62.714325, y: 117.127914}
+        - {x: 69.30773, y: 117.127914}
+        - {x: 75.90114, y: 123.71971}
+        - {x: 75.90114, y: 130.31151}
+        - {x: 69.30773, y: 136.9033}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_43
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2711
+        width: 240
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.516417, y: 54.50584}
+        - {x: -15.109822, y: 51.20994}
+        - {x: -5.219713, y: 61.097637}
+        - {x: -5.219713, y: 206.11717}
+        - {x: -18.406527, y: 209}
+        - {x: -77.747185, y: 209}
+        - {x: -107.41751, y: 192.93358}
+        - {x: -120, y: 130.31151}
+        - {x: -120, y: -209}
+        - {x: 120, y: -209}
+        - {x: 120, y: 54.50584}
+        - {x: 40.93413, y: 61.097637}
+      - - {x: 47.52754, y: -44.371113}
+        - {x: 57.41765, y: -34.483418}
+        - {x: 57.41765, y: -31.187521}
+        - {x: 54.120945, y: -31.187521}
+        - {x: 54.120945, y: -41.075214}
+        - {x: 40.93413, y: -50.96291}
+        - {x: 21.153913, y: -60.850605}
+      physicsShape:
+      - - {x: 50.82424, y: 209}
+        - {x: -120, y: 209}
+        - {x: -120, y: -209}
+        - {x: 37.63743, y: -209}
+        - {x: 47.52754, y: -205.87015}
+        - {x: 120, y: -80.626}
+        - {x: 120, y: 120.42381}
+      - - {x: 44.230835, y: -8.116231}
+        - {x: 31.044022, y: -21.299824}
+        - {x: 31.044022, y: -34.483418}
+        - {x: 37.63743, y: -37.779316}
+        - {x: 50.82424, y: -37.779316}
+        - {x: 60.71435, y: -27.891623}
+        - {x: 60.71435, y: -11.412129}
+        - {x: 57.41765, y: -8.116231}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_44
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2711
+        width: 164
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.45041, y: 209}
+        - {x: -82, y: 202.82127}
+        - {x: -82, y: -209}
+        - {x: 82, y: -209}
+        - {x: 82, y: 136.9033}
+        - {x: 29.747395, y: 209}
+      physicsShape:
+      - - {x: 9.967175, y: 209}
+        - {x: -82, y: 209}
+        - {x: -82, y: -209}
+        - {x: 79.197945, y: -209}
+        - {x: 79.197945, y: -93.80959}
+        - {x: 72.60454, y: -21.299824}
+        - {x: 69.30783, y: 21.546856}
+        - {x: 19.857285, y: 199.52538}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2260
+        width: 174
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.351643, y: 209}
+        - {x: -41.241753, y: 203.35939}
+        - {x: -80.80219, y: 193.4717}
+        - {x: -87, y: 173.6963}
+        - {x: -87, y: -208.62791}
+        - {x: 87, y: -208.62791}
+        - {x: 87, y: -60.31249}
+        - {x: 4.912093, y: 203.35939}
+        - {x: -4.9780164, y: 209}
+      - - {x: 24.692312, y: -60.31249}
+        - {x: 34.58242, y: -57.01659}
+        - {x: 34.58242, y: -47.128895}
+        - {x: 24.692312, y: -43.832996}
+        - {x: 18.098906, y: -50.424793}
+      physicsShape:
+      - - {x: 84.03297, y: -198.74022}
+        - {x: 84.03297, y: -192.14842}
+        - {x: 70.84616, y: -149.30174}
+        - {x: 37.879124, y: 74.81935}
+        - {x: -1.6813132, y: 209}
+        - {x: -47.83516, y: 209}
+        - {x: -87, y: 196.7676}
+        - {x: -87, y: -149.30174}
+        - {x: -77.505486, y: -205.33202}
+        - {x: -34.648346, y: -205.33202}
+        - {x: -28.05494, y: -188.85252}
+        - {x: 27.989016, y: -205.33202}
+        - {x: 77.43956, y: -205.33202}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_46
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2260
+        width: 177
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.868137, y: -109.75097}
+        - {x: 39.175816, y: -208.62791}
+        - {x: 88.5, y: -208.62791}
+        - {x: 88.5, y: 101.18654}
+        - {x: 12.802191, y: 209}
+        - {x: -76.20879, y: 209}
+        - {x: -88.5, y: 193.4717}
+        - {x: -88.5, y: -119.638664}
+        - {x: -82.8022, y: -208.62791}
+        - {x: -26.758247, y: -208.62791}
+        - {x: -23.461544, y: -113.04687}
+        - {x: -23.461544, y: -99.86327}
+      - - {x: 25.989004, y: -60.31249}
+        - {x: 35.879112, y: -57.01659}
+        - {x: 35.879112, y: -47.128895}
+        - {x: 25.989004, y: -43.832996}
+        - {x: 19.395597, y: -50.424793}
+      physicsShape:
+      - - {x: 72.142845, y: -172.37303}
+        - {x: 78.73625, y: -142.70995}
+        - {x: 55.659332, y: 209}
+        - {x: -49.83517, y: 209}
+        - {x: -88.5, y: 190.1758}
+        - {x: -88.5, y: -139.41405}
+        - {x: -72.912094, y: -205.33202}
+        - {x: 75.43955, y: -205.33202}
+        - {x: 82.03296, y: -198.74022}
+        - {x: 82.03296, y: -192.14842}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_47
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 2260
+        width: 200
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: -208.62791}
+        - {x: 100, y: 124.25783}
+        - {x: 18.472525, y: 209}
+        - {x: -100, y: 209}
+        - {x: -100, y: -208.62791}
+        - {x: -14.494508, y: -208.62791}
+        - {x: -14.494508, y: -188.85252}
+        - {x: 41.549446, y: -208.62791}
+      - - {x: 38.252743, y: -60.31249}
+        - {x: 48.142853, y: -57.01659}
+        - {x: 48.142853, y: -47.128895}
+        - {x: 38.252743, y: -43.832996}
+        - {x: 31.659338, y: -50.424793}
+      physicsShape:
+      - - {x: 97.5934, y: -14.1699095}
+        - {x: 51.439556, y: 209}
+        - {x: -24.384617, y: 209}
+        - {x: -67.24176, y: 180.2881}
+        - {x: -100, y: 81.41115}
+        - {x: -100, y: -73.496086}
+        - {x: -73.83517, y: -192.14842}
+        - {x: -60.648354, y: -205.33202}
+        - {x: -24.384617, y: -205.33202}
+        - {x: -14.494508, y: -202.03612}
+        - {x: 1.9890083, y: -205.33202}
+        - {x: 97.5934, y: -205.33202}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_48
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 2260
+        width: 177
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.868137, y: -109.75097}
+        - {x: 39.175816, y: -208.62791}
+        - {x: 88.5, y: -208.62791}
+        - {x: 88.5, y: 101.18654}
+        - {x: 12.802191, y: 209}
+        - {x: -76.20879, y: 209}
+        - {x: -88.5, y: 193.4717}
+        - {x: -88.5, y: -119.638664}
+        - {x: -82.8022, y: -208.62791}
+        - {x: -26.758247, y: -208.62791}
+        - {x: -23.461544, y: -113.04687}
+        - {x: -23.461544, y: -99.86327}
+      - - {x: 25.989004, y: -60.31249}
+        - {x: 35.879112, y: -57.01659}
+        - {x: 35.879112, y: -47.128895}
+        - {x: 25.989004, y: -43.832996}
+        - {x: 19.395597, y: -50.424793}
+      physicsShape:
+      - - {x: 72.142845, y: -172.37303}
+        - {x: 78.73625, y: -142.70995}
+        - {x: 55.659332, y: 209}
+        - {x: -49.83517, y: 209}
+        - {x: -88.5, y: 190.1758}
+        - {x: -88.5, y: -139.41405}
+        - {x: -72.912094, y: -205.33202}
+        - {x: 75.43955, y: -205.33202}
+        - {x: 82.03296, y: -198.74022}
+        - {x: 82.03296, y: -192.14842}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_49
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1811
+        width: 176
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.725266, y: 209.5}
+        - {x: -87.09889, y: 199.30571}
+        - {x: -87.09889, y: -209.38571}
+        - {x: 88, y: -209.38571}
+        - {x: 88, y: -110.50876}
+        - {x: 38.17583, y: 209.5}
+      - - {x: 24.989016, y: -61.07028}
+        - {x: 34.879128, y: -57.77438}
+        - {x: 34.879128, y: -47.886684}
+        - {x: 24.989016, y: -44.590786}
+        - {x: 18.39561, y: -51.182583}
+      physicsShape:
+      - - {x: 84.32967, y: -202.79391}
+        - {x: 84.32967, y: -196.20212}
+        - {x: 15.0989065, y: 202.60161}
+        - {x: -4.6813126, y: 209.5}
+        - {x: -37.648346, y: 209.5}
+        - {x: -80.505486, y: 179.5303}
+        - {x: -87.09889, y: 156.45901}
+        - {x: -87.09889, y: -140.17184}
+        - {x: -77.208786, y: -206.08981}
+        - {x: -67.31867, y: -209.38571}
+        - {x: -34.351643, y: -209.38571}
+        - {x: -27.758234, y: -192.90622}
+        - {x: 28.285719, y: -209.38571}
+        - {x: 77.73627, y: -209.38571}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_50
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1811
+        width: 177
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.58241, y: -209.38571}
+        - {x: 88.5, y: -209.38571}
+        - {x: 88.5, y: -87.43747}
+        - {x: 39.175816, y: 209.5}
+        - {x: -88.5, y: 209.5}
+        - {x: -88.5, y: -192.90622}
+        - {x: -82.8022, y: -209.38571}
+        - {x: -26.758247, y: -209.38571}
+        - {x: -23.461544, y: -117.100555}
+        - {x: -23.461544, y: -103.91696}
+      - - {x: 25.989004, y: -61.07028}
+        - {x: 35.879112, y: -57.77438}
+        - {x: 35.879112, y: -47.886684}
+        - {x: 25.989004, y: -44.590786}
+        - {x: 19.395597, y: -51.182583}
+      physicsShape:
+      - - {x: 82.03296, y: -206.08981}
+        - {x: 82.03296, y: -196.20212}
+        - {x: 78.73625, y: -173.13083}
+        - {x: 62.25274, y: 4.8476906}
+        - {x: 12.802191, y: 199.30571}
+        - {x: -0.38462207, y: 209.5}
+        - {x: -30.05495, y: 209.5}
+        - {x: -79.5055, y: 189.41801}
+        - {x: -88.5, y: 153.16312}
+        - {x: -88.5, y: -150.05954}
+        - {x: -72.912094, y: -209.38571}
+        - {x: -36.648357, y: -209.38571}
+        - {x: -30.05495, y: -192.90622}
+        - {x: 35.879112, y: -209.38571}
+        - {x: 75.43955, y: -209.38571}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_51
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1811
+        width: 200
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.57143, y: 209.5}
+        - {x: -73.83517, y: 182.82622}
+        - {x: -100, y: 93.83695}
+        - {x: -100, y: -77.549774}
+        - {x: -67.24176, y: -209.38571}
+        - {x: 100, y: -209.38571}
+        - {x: 100, y: -21.519497}
+        - {x: 61.329666, y: 209.5}
+      - - {x: 38.252743, y: -61.07028}
+        - {x: 48.142853, y: -57.77438}
+        - {x: 48.142853, y: -47.886684}
+        - {x: 38.252743, y: -44.590786}
+        - {x: 31.659338, y: -51.182583}
+      physicsShape:
+      - - {x: 97.5934, y: -186.31442}
+        - {x: 97.5934, y: 143.27542}
+        - {x: 84.406586, y: 209.5}
+        - {x: -24.384617, y: 209.5}
+        - {x: -67.24176, y: 179.5303}
+        - {x: -100, y: 77.35746}
+        - {x: -100, y: -169.83493}
+        - {x: -96.91209, y: -209.38571}
+        - {x: 94.2967, y: -209.38571}
+        - {x: 97.5934, y: -202.79391}
+        - {x: 97.5934, y: -196.20212}
+        - {x: 94.2967, y: -189.61032}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_52
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1811
+        width: 177
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.58241, y: -209.38571}
+        - {x: 88.5, y: -209.38571}
+        - {x: 88.5, y: -87.43747}
+        - {x: 39.175816, y: 209.5}
+        - {x: -88.5, y: 209.5}
+        - {x: -88.5, y: -192.90622}
+        - {x: -82.8022, y: -209.38571}
+        - {x: -26.758247, y: -209.38571}
+        - {x: -23.461544, y: -117.100555}
+        - {x: -23.461544, y: -103.91696}
+      - - {x: 25.989004, y: -61.07028}
+        - {x: 35.879112, y: -57.77438}
+        - {x: 35.879112, y: -47.886684}
+        - {x: 25.989004, y: -44.590786}
+        - {x: 19.395597, y: -51.182583}
+      physicsShape:
+      - - {x: 82.03296, y: -206.08981}
+        - {x: 82.03296, y: -196.20212}
+        - {x: 78.73625, y: -173.13083}
+        - {x: 62.25274, y: 4.8476906}
+        - {x: 12.802191, y: 199.30571}
+        - {x: -0.38462207, y: 209.5}
+        - {x: -30.05495, y: 209.5}
+        - {x: -79.5055, y: 189.41801}
+        - {x: -88.5, y: 153.16312}
+        - {x: -88.5, y: -150.05954}
+        - {x: -72.912094, y: -209.38571}
+        - {x: -36.648357, y: -209.38571}
+        - {x: -30.05495, y: -192.90622}
+        - {x: 35.879112, y: -209.38571}
+        - {x: 75.43955, y: -209.38571}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_53
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1360
+        width: 174
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: -113.26664}
+        - {x: 4.912093, y: 203.13962}
+        - {x: -4.9780164, y: 209}
+        - {x: -31.351643, y: 209}
+        - {x: -41.241753, y: 203.13962}
+        - {x: -80.80219, y: 193.25192}
+        - {x: -87, y: 156.99704}
+        - {x: -87, y: -189.07231}
+        - {x: -80.80219, y: -208.8477}
+        - {x: 87, y: -208.8477}
+      - - {x: 24.692312, y: -60.53226}
+        - {x: 34.58242, y: -57.236362}
+        - {x: 34.58242, y: -47.348667}
+        - {x: 24.692312, y: -44.05277}
+        - {x: 18.098906, y: -50.644566}
+      physicsShape:
+      - - {x: -34.648346, y: 209}
+        - {x: -87, y: 203.13962}
+        - {x: -87, y: -208.8477}
+        - {x: 84.03297, y: -208.8477}
+        - {x: 84.03297, y: 91.07907}
+        - {x: -8.274719, y: 209}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_54
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1360
+        width: 177
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.868137, y: -109.97074}
+        - {x: 39.175816, y: -208.8477}
+        - {x: 88.5, y: -208.8477}
+        - {x: 88.5, y: -57.236362}
+        - {x: 32.58241, y: 209}
+        - {x: -86.09891, y: 209}
+        - {x: -88.5, y: 206.43552}
+        - {x: -88.5, y: -192.36821}
+        - {x: -82.8022, y: -208.8477}
+        - {x: -26.758247, y: -208.8477}
+        - {x: -23.461544, y: -113.26664}
+        - {x: -23.461544, y: -100.083046}
+      - - {x: 25.989004, y: -60.53226}
+        - {x: 35.879112, y: -57.236362}
+        - {x: 35.879112, y: -47.348667}
+        - {x: 25.989004, y: -44.05277}
+        - {x: 19.395597, y: -50.644566}
+      physicsShape:
+      - - {x: 62.25274, y: 209}
+        - {x: -59.72528, y: 209}
+        - {x: -88.5, y: 203.13962}
+        - {x: -88.5, y: -208.8477}
+        - {x: -39.94506, y: -208.8477}
+        - {x: -26.758247, y: -205.5518}
+        - {x: -0.38462207, y: -208.8477}
+        - {x: 78.73625, y: -208.8477}
+        - {x: 82.03296, y: -202.2559}
+        - {x: 82.03296, y: -113.26664}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_55
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1360
+        width: 200
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: -208.8477}
+        - {x: 100, y: 61.41598}
+        - {x: 64.626366, y: 209}
+        - {x: -37.57143, y: 209}
+        - {x: -67.24176, y: 189.95602}
+        - {x: -100, y: 117.44626}
+        - {x: -100, y: -106.67484}
+        - {x: -90.31868, y: -192.36821}
+        - {x: -70.53846, y: -208.8477}
+        - {x: -17.79121, y: -208.8477}
+        - {x: -14.494508, y: -205.5518}
+        - {x: -14.494508, y: -189.07231}
+        - {x: 41.549446, y: -208.8477}
+      - - {x: 38.252743, y: -60.53226}
+        - {x: 48.142853, y: -57.236362}
+        - {x: 48.142853, y: -47.348667}
+        - {x: 38.252743, y: -44.05277}
+        - {x: 31.659338, y: -50.644566}
+      physicsShape:
+      - - {x: -100, y: -73.71586}
+        - {x: -77.13187, y: -208.8477}
+        - {x: 97.5934, y: -208.8477}
+        - {x: 97.5934, y: 143.81345}
+        - {x: 81.109886, y: 209}
+        - {x: -30.978024, y: 209}
+        - {x: -83.72527, y: 189.95602}
+        - {x: -100, y: 107.55856}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_56
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1360
+        width: 177
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.868137, y: -109.97074}
+        - {x: 39.175816, y: -208.8477}
+        - {x: 88.5, y: -208.8477}
+        - {x: 88.5, y: -57.236362}
+        - {x: 32.58241, y: 209}
+        - {x: -86.09891, y: 209}
+        - {x: -88.5, y: 206.43552}
+        - {x: -88.5, y: -192.36821}
+        - {x: -82.8022, y: -208.8477}
+        - {x: -26.758247, y: -208.8477}
+        - {x: -23.461544, y: -113.26664}
+        - {x: -23.461544, y: -100.083046}
+      - - {x: 25.989004, y: -60.53226}
+        - {x: 35.879112, y: -57.236362}
+        - {x: 35.879112, y: -47.348667}
+        - {x: 25.989004, y: -44.05277}
+        - {x: 19.395597, y: -50.644566}
+      physicsShape:
+      - - {x: 62.25274, y: 209}
+        - {x: -59.72528, y: 209}
+        - {x: -88.5, y: 203.13962}
+        - {x: -88.5, y: -208.8477}
+        - {x: -39.94506, y: -208.8477}
+        - {x: -26.758247, y: -205.5518}
+        - {x: -0.38462207, y: -208.8477}
+        - {x: 78.73625, y: -208.8477}
+        - {x: 82.03296, y: -202.2559}
+        - {x: 82.03296, y: -113.26664}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 911
+        width: 178
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.373623, y: 209.5}
+        - {x: -65.747246, y: 189.19823}
+        - {x: -88.82417, y: 1.3320185}
+        - {x: -88.82417, y: -209.5}
+        - {x: -39.373623, y: -209.5}
+        - {x: 89, y: -160.167}
+        - {x: 89, y: 166.12694}
+        - {x: 39.747253, y: 209.5}
+      physicsShape:
+      - - {x: 89, y: 209.5}
+        - {x: -62.450546, y: 209.5}
+        - {x: -72.34065, y: 192.49413}
+        - {x: -88.82417, y: 54.066395}
+        - {x: -88.82417, y: -209.5}
+        - {x: -22.890106, y: -209.5}
+        - {x: 59.527473, y: -160.167}
+        - {x: 66.12088, y: -146.98341}
+        - {x: 89, y: -117.32033}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_58
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 911
+        width: 178
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.02194, y: 209.5}
+        - {x: -85.87908, y: 195.79002}
+        - {x: -89, y: 126.576164}
+        - {x: -89, y: -18.443373}
+        - {x: -82.582375, y: -25.03517}
+        - {x: -62.802155, y: -25.03517}
+        - {x: -52.912045, y: -15.147474}
+        - {x: -85.87908, y: -84.36134}
+        - {x: -89, y: -107.43263}
+        - {x: -89, y: -209.5}
+        - {x: -23.241716, y: -209.5}
+        - {x: 65.76927, y: -150.27931}
+        - {x: 89, y: -21.739271}
+        - {x: 89, y: 209.5}
+      physicsShape:
+      - - {x: -89, y: 209.5}
+        - {x: -89, y: -209.5}
+        - {x: -6.758201, y: -209.5}
+        - {x: 89, y: -90.95314}
+        - {x: 89, y: 209.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_59
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 921
+        width: 178
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.26372, y: 204.5}
+        - {x: -88.82416, y: 138.22406}
+        - {x: -88.82416, y: -118.856026}
+        - {x: -69.04394, y: -204.5}
+        - {x: 16.670343, y: -204.5}
+        - {x: 89, y: -151.81502}
+        - {x: 89, y: 204.5}
+      physicsShape:
+      - - {x: -36.07691, y: 204.5}
+        - {x: -88.82416, y: 128.33636}
+        - {x: -88.82416, y: -112.26423}
+        - {x: -62.45053, y: -194.6617}
+        - {x: -49.26372, y: -204.5}
+        - {x: 29.857157, y: -204.5}
+        - {x: 89, y: -59.529854}
+        - {x: 89, y: 177.77484}
+        - {x: 59.527485, y: 204.5}
+      - - {x: 23.26375, y: -79.305244}
+        - {x: 29.857157, y: -72.71345}
+        - {x: 26.560453, y: -69.41755}
+        - {x: 16.670343, y: -79.305244}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_60
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 921
+        width: 168
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 204.5}
+        - {x: -84, y: -204.5}
+        - {x: 70.714325, y: -204.5}
+        - {x: 84, y: -201.2535}
+        - {x: 84, y: 204.5}
+      - - {x: 34.45059, y: -95.78474}
+        - {x: 24.560478, y: -85.89704}
+        - {x: 21.263777, y: -89.19294}
+        - {x: 24.560478, y: -92.48884}
+        - {x: 34.45059, y: -82.60114}
+        - {x: 41.043995, y: -85.89704}
+        - {x: 31.153885, y: -95.78474}
+        - {x: 31.153885, y: -105.67243}
+        - {x: 34.45059, y: -105.67243}
+      physicsShape:
+      - - {x: 27.857182, y: -115.56013}
+        - {x: 27.857182, y: -138.63142}
+        - {x: 41.043995, y: -155.11092}
+        - {x: 60.824215, y: -155.11092}
+        - {x: 84, y: -138.63142}
+        - {x: 84, y: 154.70355}
+        - {x: 70.714325, y: 204.5}
+        - {x: -61.153805, y: 204.5}
+        - {x: -84, y: 194.25433}
+        - {x: -84, y: -49.64216}
+        - {x: -44.670288, y: -204.5}
+        - {x: -8.406553, y: -204.5}
+        - {x: -1.8131465, y: -201.2535}
+        - {x: 27.857182, y: -122.151924}
+        - {x: 27.857182, y: -99.080635}
+        - {x: 44.3407, y: -76.009346}
+      - - {x: -47.96699, y: 98.67328}
+        - {x: -47.96699, y: 92.081474}
+        - {x: -38.07688, y: 82.19378}
+        - {x: -21.593367, y: 85.48968}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_61
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 941
+        width: 148
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.72516, y: 194.5}
+        - {x: -73.98889, y: 191.18314}
+        - {x: -73.98889, y: 6.6128187}
+        - {x: -17.944939, y: -187.8452}
+        - {x: -8.05483, y: -194.437}
+        - {x: 64.47264, y: -194.437}
+        - {x: 74, y: -135.11082}
+        - {x: 74, y: 187.88724}
+        - {x: 64.47264, y: 194.5}
+      - - {x: -37.72516, y: 118.67337}
+        - {x: -41.021862, y: 118.67337}
+        - {x: -41.021862, y: 92.30618}
+        - {x: -37.72516, y: 92.30618}
+      physicsShape:
+      - - {x: -1.461423, y: 194.5}
+        - {x: -37.72516, y: 174.70364}
+        - {x: -34.428455, y: 161.52005}
+        - {x: -34.428455, y: 82.41849}
+        - {x: -27.835049, y: 75.82669}
+        - {x: -34.428455, y: 79.12259}
+        - {x: -34.428455, y: 151.63235}
+        - {x: -41.021862, y: 158.22415}
+        - {x: -60.802082, y: 164.81595}
+        - {x: -73.98889, y: 138.44876}
+        - {x: -73.98889, y: 52.755398}
+        - {x: -41.021862, y: -92.26414}
+        - {x: -8.05483, y: -181.2534}
+        - {x: 5.1319833, y: -194.437}
+        - {x: 74, y: -194.437}
+        - {x: 74, y: 161.52005}
+        - {x: 54.58253, y: 194.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_62
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 921
+        width: 168
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 204.5}
+        - {x: -84, y: -204.5}
+        - {x: 70.714325, y: -204.5}
+        - {x: 84, y: -201.2535}
+        - {x: 84, y: 204.5}
+      - - {x: 34.45059, y: -95.78474}
+        - {x: 24.560478, y: -85.89704}
+        - {x: 21.263777, y: -89.19294}
+        - {x: 24.560478, y: -92.48884}
+        - {x: 34.45059, y: -82.60114}
+        - {x: 41.043995, y: -85.89704}
+        - {x: 31.153885, y: -95.78474}
+        - {x: 31.153885, y: -105.67243}
+        - {x: 34.45059, y: -105.67243}
+      physicsShape:
+      - - {x: 27.857182, y: -115.56013}
+        - {x: 27.857182, y: -138.63142}
+        - {x: 41.043995, y: -155.11092}
+        - {x: 60.824215, y: -155.11092}
+        - {x: 84, y: -138.63142}
+        - {x: 84, y: 154.70355}
+        - {x: 70.714325, y: 204.5}
+        - {x: -61.153805, y: 204.5}
+        - {x: -84, y: 194.25433}
+        - {x: -84, y: -49.64216}
+        - {x: -44.670288, y: -204.5}
+        - {x: -8.406553, y: -204.5}
+        - {x: -1.8131465, y: -201.2535}
+        - {x: 27.857182, y: -122.151924}
+        - {x: 27.857182, y: -99.080635}
+        - {x: 44.3407, y: -76.009346}
+      - - {x: -47.96699, y: 98.67328}
+        - {x: -47.96699, y: 92.081474}
+        - {x: -38.07688, y: 82.19378}
+        - {x: -21.593367, y: 85.48968}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_63
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 460
+        width: 178
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.96703, y: 209}
+        - {x: -88.82417, y: 153.48141}
+        - {x: -88.82417, y: -209}
+        - {x: 59.527473, y: -209}
+        - {x: 89, y: -202.47562}
+        - {x: 89, y: 209}
+      physicsShape:
+      - - {x: 59.527473, y: -24.4971}
+        - {x: 89, y: 64.49216}
+        - {x: 89, y: 196.3281}
+        - {x: 62.824177, y: 209}
+        - {x: -36.07692, y: 209}
+        - {x: -75.63736, y: 193.0322}
+        - {x: -88.82417, y: 107.33884}
+        - {x: -88.82417, y: -209}
+        - {x: -42.670326, y: -209}
+        - {x: 76.01099, y: -133.26175}
+        - {x: 89, y: -47.56839}
+        - {x: 89, y: -37.680695}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_64
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 460
+        width: 178
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89, y: -209}
+        - {x: -36.42853, y: -209}
+        - {x: 78.956085, y: -143.14944}
+        - {x: 89, y: -100.302765}
+        - {x: 89, y: 209}
+        - {x: -66.09886, y: 209}
+        - {x: -89, y: 202.91989}
+      physicsShape:
+      - - {x: 16.318722, y: -77.231476}
+        - {x: 22.912127, y: -70.63968}
+        - {x: 13.0220175, y: -90.41507}
+        - {x: 3.1319082, y: -116.78226}
+        - {x: 69.06597, y: -185.99612}
+        - {x: 89, y: -120.078156}
+        - {x: 89, y: 196.3281}
+        - {x: 82.252785, y: 209}
+        - {x: -16.648312, y: 209}
+        - {x: -72.69227, y: 193.0322}
+        - {x: -89, y: 173.2568}
+        - {x: -89, y: -209}
+        - {x: -49.61534, y: -209}
+        - {x: -46.318638, y: -199.17972}
+        - {x: -46.318638, y: -192.58792}
+        - {x: -49.61534, y: -185.99612}
+        - {x: -6.758201, y: -93.71097}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_65
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 470
+        width: 178
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.82416, y: 204}
+        - {x: -88.82416, y: -204}
+        - {x: 16.670343, y: -204}
+        - {x: 89, y: -144.68509}
+        - {x: 89, y: 204}
+      physicsShape:
+      - - {x: -88.82416, y: 204}
+        - {x: -88.82416, y: -204}
+        - {x: 39.747265, y: -204}
+        - {x: 89, y: -111.72611}
+        - {x: 89, y: 204}
+        - {x: 85.90111, y: 204}
+      - - {x: 13.373641, y: -85.358925}
+        - {x: 23.26375, y: -75.47123}
+        - {x: 26.560453, y: -75.47123}
+        - {x: 29.857157, y: -72.17533}
+        - {x: 26.560453, y: -68.87943}
+        - {x: 16.670343, y: -78.76713}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_66
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 470
+        width: 168
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.373585, y: 204}
+        - {x: -84, y: 188.20065}
+        - {x: -84, y: 16.81393}
+        - {x: -54.5604, y: -204}
+        - {x: 84, y: -204}
+        - {x: 84, y: 171.72116}
+        - {x: 64.12092, y: 204}
+      - - {x: 34.45059, y: -95.24662}
+        - {x: 24.560478, y: -85.358925}
+        - {x: 24.560478, y: -88.65482}
+        - {x: 34.45059, y: -78.76713}
+        - {x: 44.3407, y: -78.76713}
+        - {x: 54.23081, y: -68.87943}
+        - {x: 50.934105, y: -65.583534}
+        - {x: 41.043995, y: -75.47123}
+        - {x: 41.043995, y: -85.358925}
+        - {x: 31.153885, y: -95.24662}
+        - {x: 31.153885, y: -105.134315}
+        - {x: 34.45059, y: -105.134315}
+      physicsShape:
+      - - {x: -84, y: 204}
+        - {x: -84, y: -184.23589}
+        - {x: -61.153805, y: -204}
+        - {x: 1.4835566, y: -204}
+        - {x: 84, y: -144.68509}
+        - {x: 84, y: 168.42526}
+        - {x: 74.011024, y: 204}
+      - - {x: -47.96699, y: 102.50729}
+        - {x: -47.96699, y: 95.9155}
+        - {x: -41.373585, y: 89.3237}
+        - {x: -38.07688, y: 92.6196}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_67
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 490
+        width: 148
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.351533, y: 194}
+        - {x: -73.98889, y: 178.53761}
+        - {x: -73.98889, y: -12.624504}
+        - {x: -54.208675, y: -95.021965}
+        - {x: -8.05483, y: -193.89893}
+        - {x: 61.175938, y: -193.89893}
+        - {x: 74, y: -151.05225}
+        - {x: 74, y: 181.83351}
+        - {x: 61.175938, y: 194}
+      - - {x: -37.72516, y: 119.21143}
+        - {x: -41.021862, y: 119.21143}
+        - {x: -41.021862, y: 96.140144}
+        - {x: -37.72516, y: 96.140144}
+      physicsShape:
+      - - {x: 11.7253895, y: 194}
+        - {x: -27.835049, y: 168.64992}
+        - {x: -34.428455, y: 162.05812}
+        - {x: -34.428455, y: 82.95655}
+        - {x: -34.428455, y: 152.17043}
+        - {x: -41.021862, y: 158.76222}
+        - {x: -60.802082, y: 165.35402}
+        - {x: -73.98889, y: 152.17043}
+        - {x: -73.98889, y: 23.630379}
+        - {x: -50.911972, y: -91.72607}
+        - {x: -8.05483, y: -177.41943}
+        - {x: 5.1319833, y: -190.60303}
+        - {x: 74, y: -190.60303}
+        - {x: 74, y: 171.94582}
+        - {x: 61.175938, y: 194}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_68
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 470
+        width: 168
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.373585, y: 204}
+        - {x: -84, y: 188.20065}
+        - {x: -84, y: 16.81393}
+        - {x: -54.5604, y: -204}
+        - {x: 84, y: -204}
+        - {x: 84, y: 171.72116}
+        - {x: 64.12092, y: 204}
+      - - {x: 34.45059, y: -95.24662}
+        - {x: 24.560478, y: -85.358925}
+        - {x: 24.560478, y: -88.65482}
+        - {x: 34.45059, y: -78.76713}
+        - {x: 44.3407, y: -78.76713}
+        - {x: 54.23081, y: -68.87943}
+        - {x: 50.934105, y: -65.583534}
+        - {x: 41.043995, y: -75.47123}
+        - {x: 41.043995, y: -85.358925}
+        - {x: 31.153885, y: -95.24662}
+        - {x: 31.153885, y: -105.134315}
+        - {x: 34.45059, y: -105.134315}
+      physicsShape:
+      - - {x: -84, y: 204}
+        - {x: -84, y: -184.23589}
+        - {x: -61.153805, y: -204}
+        - {x: 1.4835566, y: -204}
+        - {x: 84, y: -144.68509}
+        - {x: 84, y: 168.42526}
+        - {x: 74.011024, y: 204}
+      - - {x: -47.96699, y: 102.50729}
+        - {x: -47.96699, y: 95.9155}
+        - {x: -41.373585, y: 89.3237}
+        - {x: -38.07688, y: 92.6196}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_69
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 178
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89, y: 38.367188}
+        - {x: 89, y: 157.01953}
+        - {x: 66.12088, y: 147.13184}
+        - {x: 46.34066, y: 206.45801}
+        - {x: 39.747253, y: 209}
+        - {x: -32.780216, y: 209}
+        - {x: -88.82417, y: 127.356445}
+        - {x: -88.82417, y: -208.8252}
+        - {x: 79.30769, y: -208.8252}
+        - {x: 89, y: -205.5293}
+        - {x: 89, y: -34.142582}
+        - {x: 62.824177, y: -20.958986}
+      physicsShape:
+      - - {x: 85.9011, y: 140.54004}
+        - {x: 66.12088, y: 140.54004}
+        - {x: 59.527473, y: 133.94824}
+        - {x: 49.637363, y: 97.69336}
+        - {x: 36.45055, y: 193.27441}
+        - {x: 23.263739, y: 209}
+        - {x: 0.18681537, y: 209}
+        - {x: -49.263733, y: 189.97852}
+        - {x: -82.23077, y: 25.183592}
+        - {x: -88.82417, y: -44.030277}
+        - {x: -88.82417, y: -208.8252}
+        - {x: 43.043957, y: -208.8252}
+        - {x: 89, y: -189.0498}
+        - {x: 89, y: 133.94824}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_70
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 12
+        width: 178
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.53842, y: 209}
+        - {x: -72.69227, y: 193.27441}
+        - {x: -89, y: 84.509766}
+        - {x: -89, y: -20.958986}
+        - {x: -85.87908, y: -24.254885}
+        - {x: -59.50545, y: -24.254885}
+        - {x: -52.912045, y: -17.663088}
+        - {x: -52.912045, y: 8.7041}
+        - {x: -52.912045, y: -63.805668}
+        - {x: -69.39556, y: -60.50977}
+        - {x: -89, y: -109.94825}
+        - {x: -89, y: -208.8252}
+        - {x: -10.054905, y: -208.8252}
+        - {x: 89, y: -162.68262}
+        - {x: 89, y: 209}
+      physicsShape:
+      - - {x: -13.351607, y: 209}
+        - {x: -75.98897, y: 186.68262}
+        - {x: -89, y: 160.31543}
+        - {x: -89, y: -208.8252}
+        - {x: -6.758201, y: -208.8252}
+        - {x: 89, y: -90.17286}
+        - {x: 89, y: 209}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_71
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 21
+        width: 178
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.85713, y: 204.5}
+        - {x: -88.82416, y: 154.48389}
+        - {x: -88.82416, y: -204.5}
+        - {x: 26.560453, y: -204.5}
+        - {x: 89, y: -175.10596}
+        - {x: 89, y: 190.73877}
+        - {x: 72.7143, y: 204.5}
+      physicsShape:
+      - - {x: 59.527485, y: -13.606935}
+        - {x: 89, y: 65.49463}
+        - {x: 89, y: 138.0044}
+        - {x: 66.120895, y: 134.7085}
+        - {x: 59.527485, y: 128.1167}
+        - {x: 49.637375, y: 91.86182}
+        - {x: 36.45056, y: 187.44287}
+        - {x: 16.670343, y: 204.5}
+        - {x: -88.82416, y: 204.5}
+        - {x: -88.82416, y: -204.5}
+        - {x: 16.670343, y: -204.5}
+        - {x: 89, y: -69.63721}
+        - {x: 89, y: -53.157715}
+        - {x: 72.7143, y: -30.086428}
+      - - {x: 33.15386, y: -69.63721}
+        - {x: 29.857157, y: -66.34131}
+        - {x: 16.670343, y: -79.5249}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_72
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 21
+        width: 168
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.670288, y: 204.5}
+        - {x: -84, y: 197.33057}
+        - {x: -84, y: -204.5}
+        - {x: 57.52751, y: -204.5}
+        - {x: 84, y: -198.17725}
+        - {x: 84, y: 180.85107}
+        - {x: 54.23081, y: 204.5}
+      - - {x: 34.45059, y: -96.004395}
+        - {x: 24.560478, y: -86.1167}
+        - {x: 21.263777, y: -89.4126}
+        - {x: 24.560478, y: -92.708496}
+        - {x: 34.45059, y: -82.8208}
+        - {x: 41.043995, y: -86.1167}
+        - {x: 31.153885, y: -96.004395}
+        - {x: 31.153885, y: -105.89209}
+        - {x: 34.45059, y: -105.89209}
+      physicsShape:
+      - - {x: 44.3407, y: -76.229004}
+        - {x: 27.857182, y: -115.779785}
+        - {x: 27.857182, y: -138.85107}
+        - {x: 41.043995, y: -155.33057}
+        - {x: 84, y: -158.62646}
+        - {x: 84, y: 190.73877}
+        - {x: 54.23081, y: 204.5}
+        - {x: -5.10985, y: 204.5}
+        - {x: -84, y: 177.55518}
+        - {x: -84, y: 35.831543}
+        - {x: -54.5604, y: -194.88135}
+        - {x: -34.780178, y: -204.5}
+        - {x: -8.406553, y: -204.5}
+        - {x: -1.8131465, y: -201.47314}
+        - {x: 27.857182, y: -122.37158}
+        - {x: 27.857182, y: -99.30029}
+      - - {x: -47.96699, y: 98.45361}
+        - {x: -47.96699, y: 91.86182}
+        - {x: -38.07688, y: 81.97412}
+        - {x: -21.593367, y: 85.27002}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_73
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 41
+        width: 148
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.98889, y: 194.5}
+        - {x: -73.98889, y: -155.10596}
+        - {x: -24.538345, y: -194.5}
+        - {x: 64.47264, y: -194.5}
+        - {x: 74, y: -171.58545}
+        - {x: 74, y: 194.5}
+      - - {x: -37.72516, y: 118.45362}
+        - {x: -41.021862, y: 118.45362}
+        - {x: -41.021862, y: 92.08643}
+        - {x: -37.72516, y: 92.08643}
+      physicsShape:
+      - - {x: -34.428455, y: 161.3003}
+        - {x: -34.428455, y: 82.19874}
+        - {x: -27.835049, y: 75.60694}
+        - {x: -34.428455, y: 78.90284}
+        - {x: -34.428455, y: 148.1167}
+        - {x: -41.021862, y: 154.7085}
+        - {x: -67.395485, y: 174.4839}
+        - {x: -73.98889, y: 161.3003}
+        - {x: -73.98889, y: -23.270016}
+        - {x: -11.351533, y: -194.5}
+        - {x: 74, y: -194.5}
+        - {x: 74, y: 194.5}
+        - {x: -41.021862, y: 194.5}
+        - {x: -54.208675, y: 194.2593}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final_74
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 21
+        width: 168
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.670288, y: 204.5}
+        - {x: -84, y: 197.33057}
+        - {x: -84, y: -204.5}
+        - {x: 57.52751, y: -204.5}
+        - {x: 84, y: -198.17725}
+        - {x: 84, y: 180.85107}
+        - {x: 54.23081, y: 204.5}
+      - - {x: 34.45059, y: -96.004395}
+        - {x: 24.560478, y: -86.1167}
+        - {x: 21.263777, y: -89.4126}
+        - {x: 24.560478, y: -92.708496}
+        - {x: 34.45059, y: -82.8208}
+        - {x: 41.043995, y: -86.1167}
+        - {x: 31.153885, y: -96.004395}
+        - {x: 31.153885, y: -105.89209}
+        - {x: 34.45059, y: -105.89209}
+      physicsShape:
+      - - {x: 44.3407, y: -76.229004}
+        - {x: 27.857182, y: -115.779785}
+        - {x: 27.857182, y: -138.85107}
+        - {x: 41.043995, y: -155.33057}
+        - {x: 84, y: -158.62646}
+        - {x: 84, y: 190.73877}
+        - {x: 54.23081, y: 204.5}
+        - {x: -5.10985, y: 204.5}
+        - {x: -84, y: 177.55518}
+        - {x: -84, y: 35.831543}
+        - {x: -54.5604, y: -194.88135}
+        - {x: -34.780178, y: -204.5}
+        - {x: -8.406553, y: -204.5}
+        - {x: -1.8131465, y: -201.47314}
+        - {x: 27.857182, y: -122.37158}
+        - {x: 27.857182, y: -99.30029}
+      - - {x: -47.96699, y: 98.45361}
+        - {x: -47.96699, y: 91.86182}
+        - {x: -38.07688, y: 81.97412}
+        - {x: -21.593367, y: 85.27002}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
