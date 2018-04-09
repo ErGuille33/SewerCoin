@@ -10,17 +10,17 @@ public class PlayerController : MonoBehaviour {
 	Rigidbody2D rb;
 	Transform tr;
 	public int maxsalud = 3, salud, vidas;
-	bool muerto, damaged;
+	bool damaged;
 	public float  speed;
 	public float jumpHeight;
 	float move;
 	public bool isJumping = false;
+	bool facingRight = true;
 
 
 	void Awake () {
 		salud = maxsalud;
 		vidas = 3;
-		muerto = false;
 	}
 
 
@@ -39,70 +39,41 @@ public class PlayerController : MonoBehaviour {
 	}
 
 	void MovimientoLateral(){
-			if (Input.GetKey("d")){
-				move = Input.GetAxis ("Horizontal");
-				tr.Translate( new Vector2 (speed*Time.deltaTime, 0f));
-				animor.SetFloat ("Speed", move);
-				tr.localScale = new Vector2 (Mathf.Abs (tr.localScale.x), tr.localScale.y);
+		float move = Input.GetAxis("Horizontal");
+		if (!gameObject.GetComponent <RayCast>().DetectaMuro(move))
+			rb.velocity = new Vector2(move*speed, rb.velocity.y);
 
-			}
-			if (Input.GetKey("a")){
-				move = - Input.GetAxis ("Horizontal");
-				tr.Translate( new Vector2 (-speed*Time.deltaTime, 0f));
-				animor.SetFloat ("Speed", move);
-				tr.localScale = new Vector2 (-Mathf.Abs (tr.localScale.x), tr.localScale.y);
-			}
-			if (!Input.GetKey ("a") && !Input.GetKey ("d")) {
-				move = 0;
-				animor.SetFloat ("Speed", move);
-			}
+		animor.SetFloat("Speed", Mathf.Abs(move));
+
+
+		if (move > 0 && !facingRight)
+			Flip();
+		else if (move < 0 && facingRight)
+			Flip();
+	}
+
+	void Flip()
+	{
+		facingRight = !facingRight;
+		Vector3 theScale = transform.localScale;
+		theScale.x *= -1;
+		transform.localScale = theScale;
+
 	}
 
 	void Salto(){
-		if (Input.GetKeyDown ("space") && !isJumping)
-		{ 
-			rb.AddForce(Vector2.up * jumpHeight);
-			animor.SetTrigger ("Saltar");
-			isJumping = true;
-		}
-	}
-		
-	private void OnTriggerEnter2D (Collider2D col){
-		if (col.gameObject.tag == "cocodrilo") {
-			salud = 0;
+		if (gameObject.GetComponent <RayCast>().DetectaPlataforma()){
+			if (Input.GetKeyDown ("space") && !isJumping) { 
+				rb.AddForce (Vector2.up * jumpHeight);
+				animor.SetTrigger ("Saltar");
+			}
 		}
 	}
 	private void OnCollisionEnter2D (Collision2D col) {
-		
-		if (col.gameObject.tag == "ground") {				//comprobar si está en suelo
+
+		if (col.gameObject.layer == 0) {				//comprobar si esta en suelo
 			isJumping = false;
 			noSaltoBomba ();
-		}
-
-		if (col.gameObject.tag == "platform") {				//comprobar si esta en suelo
-			isJumping = false;
-			noSaltoBomba ();
-		}
-
-		if ((col.gameObject.tag == "enemigo"||col.gameObject.tag == "smoke" || col.gameObject.tag == "Caca") && !damaged) {
-			salud--;
-			damaged = true;
-			print (salud);
-		}
-		if (col.gameObject.tag == "gota") {
-			Destroy (col.gameObject);
-			if (!damaged) {
-				salud--;
-				damaged = true;
-				print (salud);
-			}
-		}
-
-		if (damaged) {										//espera 3 segs para que se pueda danhar otra vez
-			Invoke ("Danhado", 3);
-		}
-		if (col.gameObject.tag == "instaKill") {
-			salud = 0;
 		}
 	}
 
@@ -125,6 +96,14 @@ public class PlayerController : MonoBehaviour {
 		SceneManager.LoadScene ("Pruebas");
 	}
 
+	public void QuitaVida(int cantDanio){
+		if (!damaged || cantDanio >= 3) {
+			salud -= cantDanio; 
+			damaged = true;
+			print (salud);
+			Invoke ("Danhado", 3);				//espera 3 segundos antes de volver a hacer daño
+		}
+	}
 		
 
 

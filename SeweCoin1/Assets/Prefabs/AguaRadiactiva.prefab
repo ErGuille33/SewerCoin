@@ -20,10 +20,11 @@ GameObject:
   m_Component:
   - component: {fileID: 4357555985952152}
   - component: {fileID: 212036762935457164}
+  - component: {fileID: 114895125372023066}
   - component: {fileID: 61247158098691352}
   m_Layer: 0
   m_Name: AguaRadiactivaSprite
-  m_TagString: instaKill
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -95,6 +96,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.31339514, y: 0.8619015}
   m_EdgeRadius: 0
+--- !u!114 &114895125372023066
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1182813478362874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5399a3c615688c144be318519c1a63ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cantDanio: 3
 --- !u!212 &212036762935457164
 SpriteRenderer:
   m_ObjectHideFlags: 1

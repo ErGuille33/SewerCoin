@@ -1,0 +1,2052 @@
+fileFormatVersion: 2
+guid: 8fe7dccd20fab9348b945bfb0cfb266a
+timeCreated: 1523298524
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteSheet-Final 1_0
+    21300002: SpriteSheet-Final 1_1
+    21300004: SpriteSheet-Final 1_2
+    21300006: SpriteSheet-Final 1_3
+    21300008: SpriteSheet-Final 1_4
+    21300010: SpriteSheet-Final 1_5
+    21300012: SpriteSheet-Final 1_6
+    21300014: SpriteSheet-Final 1_7
+    21300016: SpriteSheet-Final 1_8
+    21300018: SpriteSheet-Final 1_9
+    21300020: SpriteSheet-Final 1_10
+    21300022: SpriteSheet-Final 1_11
+    21300024: SpriteSheet-Final 1_12
+    21300026: SpriteSheet-Final 1_13
+    21300028: SpriteSheet-Final 1_14
+    21300030: SpriteSheet-Final 1_15
+    21300032: SpriteSheet-Final 1_16
+    21300034: SpriteSheet-Final 1_17
+    21300036: SpriteSheet-Final 1_18
+    21300038: SpriteSheet-Final 1_19
+    21300040: SpriteSheet-Final 1_20
+    21300042: SpriteSheet-Final 1_21
+    21300044: SpriteSheet-Final 1_22
+    21300046: SpriteSheet-Final 1_23
+    21300048: SpriteSheet-Final 1_24
+    21300050: SpriteSheet-Final 1_25
+    21300052: SpriteSheet-Final 1_26
+    21300054: SpriteSheet-Final 1_27
+    21300056: SpriteSheet-Final 1_28
+    21300058: SpriteSheet-Final 1_29
+    21300060: SpriteSheet-Final 1_30
+    21300062: SpriteSheet-Final 1_31
+    21300064: SpriteSheet-Final 1_32
+    21300066: SpriteSheet-Final 1_33
+    21300068: SpriteSheet-Final 1_34
+    21300070: SpriteSheet-Final 1_35
+    21300072: SpriteSheet-Final 1_36
+    21300074: SpriteSheet-Final 1_37
+    21300076: SpriteSheet-Final 1_38
+    21300078: SpriteSheet-Final 1_39
+    21300080: SpriteSheet-Final 1_40
+    21300082: SpriteSheet-Final 1_41
+    21300084: SpriteSheet-Final 1_42
+    21300086: SpriteSheet-Final 1_43
+    21300088: SpriteSheet-Final 1_44
+    21300090: SpriteSheet-Final 1_45
+    21300092: SpriteSheet-Final 1_46
+    21300094: SpriteSheet-Final 1_47
+    21300096: SpriteSheet-Final 1_48
+    21300098: SpriteSheet-Final 1_49
+    21300100: SpriteSheet-Final 1_50
+    21300102: SpriteSheet-Final 1_51
+    21300104: SpriteSheet-Final 1_52
+    21300106: SpriteSheet-Final 1_53
+    21300108: SpriteSheet-Final 1_54
+    21300110: SpriteSheet-Final 1_55
+    21300112: SpriteSheet-Final 1_56
+    21300114: SpriteSheet-Final 1_57
+    21300116: SpriteSheet-Final 1_58
+    21300118: SpriteSheet-Final 1_59
+    21300120: SpriteSheet-Final 1_60
+    21300122: SpriteSheet-Final 1_61
+    21300124: SpriteSheet-Final 1_62
+    21300126: SpriteSheet-Final 1_63
+    21300128: SpriteSheet-Final 1_64
+    21300130: SpriteSheet-Final 1_65
+    21300132: SpriteSheet-Final 1_66
+    21300134: SpriteSheet-Final 1_67
+    21300136: SpriteSheet-Final 1_68
+    21300138: SpriteSheet-Final 1_69
+    21300140: SpriteSheet-Final 1_70
+    21300142: SpriteSheet-Final 1_71
+    21300144: SpriteSheet-Final 1_72
+    21300146: SpriteSheet-Final 1_73
+    21300148: SpriteSheet-Final 1_74
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 6310
+        width: 99
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 6310
+        width: 189
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_2
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 6310
+        width: 207
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_3
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6310
+        width: 98
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_4
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 6310
+        width: 188
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_5
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 6310
+        width: 207
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5862
+        width: 99
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_7
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 5862
+        width: 189
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_8
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 5858
+        width: 208
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_9
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 5862
+        width: 99
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_10
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 5862
+        width: 188
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_11
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 5862
+        width: 207
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5410
+        width: 99
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 5410
+        width: 189
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_14
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 5410
+        width: 207
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_15
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 5410
+        width: 98
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_16
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 5410
+        width: 188
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_17
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 5410
+        width: 207
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4962
+        width: 185
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_19
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4962
+        width: 167
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_20
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4962
+        width: 184
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_21
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 4962
+        width: 167
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4510
+        width: 185
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_23
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4510
+        width: 167
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_24
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4510
+        width: 184
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_25
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 4510
+        width: 167
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4062
+        width: 185
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_27
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4062
+        width: 167
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_28
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4062
+        width: 186
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_29
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 4062
+        width: 167
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3611
+        width: 164
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3611
+        width: 240
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_32
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 3611
+        width: 237
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_33
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 3611
+        width: 240
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_34
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3611
+        width: 164
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3160
+        width: 166
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_36
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3160
+        width: 240
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_37
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 3160
+        width: 237
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_38
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 3160
+        width: 240
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_39
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3160
+        width: 166
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2711
+        width: 164
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_41
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2711
+        width: 240
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_42
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 2711
+        width: 237
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_43
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2711
+        width: 240
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_44
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2711
+        width: 164
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2260
+        width: 174
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_46
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2260
+        width: 177
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_47
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 2260
+        width: 200
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_48
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 2260
+        width: 177
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_49
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1811
+        width: 176
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_50
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1811
+        width: 177
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_51
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1811
+        width: 200
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_52
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1811
+        width: 177
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_53
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1360
+        width: 174
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_54
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1360
+        width: 177
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_55
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1360
+        width: 200
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_56
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1360
+        width: 177
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 911
+        width: 178
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_58
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 911
+        width: 178
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_59
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 921
+        width: 178
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_60
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 921
+        width: 168
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_61
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 941
+        width: 148
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_62
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 921
+        width: 168
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_63
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 460
+        width: 178
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_64
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 460
+        width: 178
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_65
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 470
+        width: 178
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_66
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 470
+        width: 168
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_67
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 490
+        width: 148
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_68
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 470
+        width: 168
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_69
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 178
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_70
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 12
+        width: 178
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_71
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 21
+        width: 178
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_72
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 21
+        width: 168
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_73
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 41
+        width: 148
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteSheet-Final 1_74
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 21
+        width: 168
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -1059.8901, y: -3009.1553}
+      - {x: -1079.6703, y: -2949.829}
+      - {x: -1099.4506, y: -2939.9414}
+      - {x: -1155.4945, y: -2939.9414}
+      - {x: -1198.3516, y: -2963.0127}
+      - {x: -1218.1318, y: -3091.5527}
+      - {x: -1218.1318, y: -3368.4082}
+      - {x: -1102.7472, y: -3368.4082}
+      - {x: -1030.2197, y: -3338.745}
+      - {x: -1030.2197, y: -3002.5635}
+      - {x: -1033.5165, y: -2999.2676}
+    - - {x: -723.62634, y: -2939.9414}
+      - {x: -769.7802, y: -2992.6758}
+      - {x: -769.7802, y: -3187.1338}
+      - {x: -766.4835, y: -3190.4297}
+      - {x: -736.8132, y: -3180.542}
+      - {x: -730.2198, y: -3173.9502}
+      - {x: -730.2198, y: -3147.583}
+      - {x: -730.2198, y: -3220.0928}
+      - {x: -746.70325, y: -3216.7969}
+      - {x: -769.7802, y: -3269.5312}
+      - {x: -769.7802, y: -3358.5205}
+      - {x: -763.18677, y: -3368.4082}
+      - {x: -664.2857, y: -3368.4082}
+      - {x: -581.8681, y: -3246.46}
+      - {x: -581.8681, y: -2969.6045}
+      - {x: -598.3516, y: -2939.9414}
+    - - {x: -258.7912, y: -2939.9414}
+      - {x: -288.46152, y: -2956.421}
+      - {x: -318.13187, y: -3022.3389}
+      - {x: -318.13187, y: -3358.5205}
+      - {x: -209.34065, y: -3358.5205}
+      - {x: -130.21977, y: -3345.337}
+      - {x: -130.21977, y: -2956.421}
+      - {x: -150, y: -2939.9414}
+    - - {x: 166.4835, y: -2939.9414}
+      - {x: 130.21977, y: -2969.6045}
+      - {x: 130.21977, y: -3134.3994}
+      - {x: 166.4835, y: -3358.5205}
+      - {x: 222.52747, y: -3358.5205}
+      - {x: 291.75824, y: -3322.2656}
+      - {x: 308.24176, y: -3286.0107}
+      - {x: 308.24176, y: -2986.084}
+      - {x: 295.05493, y: -2939.9414}
+    - - {x: 1119.2307, y: -2939.9414}
+      - {x: 1030.2197, y: -2972.9004}
+      - {x: 1030.2197, y: -3147.583}
+      - {x: 1063.1868, y: -3358.5205}
+      - {x: 1188.4615, y: -3358.5205}
+      - {x: 1208.2417, y: -3351.9287}
+      - {x: 1208.2417, y: -2943.2373}
+      - {x: 1198.3516, y: -2939.9414}
+    - - {x: 651.0989, y: -2939.9414}
+      - {x: 581.8681, y: -2963.0127}
+      - {x: 581.8681, y: -3127.8076}
+      - {x: 621.4285, y: -3338.745}
+      - {x: 726.92303, y: -3338.745}
+      - {x: 740.10986, y: -3312.378}
+      - {x: 740.10986, y: -2976.1963}
+      - {x: 717.03296, y: -2939.9414}
+    - - {x: -1218.1318, y: -2491.6992}
+      - {x: -1218.1318, y: -2920.166}
+      - {x: -1129.1208, y: -2920.166}
+      - {x: -1030.2197, y: -2827.8809}
+      - {x: -1030.2197, y: -2531.25}
+      - {x: -1066.4835, y: -2491.6992}
+    - - {x: -581.8681, y: -2514.7705}
+      - {x: -608.24176, y: -2491.6992}
+      - {x: -723.62634, y: -2491.6992}
+      - {x: -769.7802, y: -2574.0967}
+      - {x: -769.7802, y: -2903.6865}
+      - {x: -763.18677, y: -2920.166}
+      - {x: -720.32965, y: -2920.166}
+      - {x: -713.73627, y: -2916.87}
+      - {x: -628.022, y: -2837.7686}
+      - {x: -621.4285, y: -2831.1768}
+      - {x: -581.8681, y: -2785.0342}
+    - - {x: -182.96703, y: -2491.6992}
+      - {x: -262.0879, y: -2491.6992}
+      - {x: -295.05493, y: -2518.0664}
+      - {x: -318.13187, y: -2577.3926}
+      - {x: -318.13187, y: -2877.3193}
+      - {x: -291.75824, y: -2910.2783}
+      - {x: -179.67032, y: -2910.2783}
+      - {x: -153.29669, y: -2841.0645}
+      - {x: -130.21977, y: -2722.412}
+      - {x: -130.21977, y: -2524.6582}
+    - - {x: 130.21977, y: -2491.6992}
+      - {x: 130.21977, y: -2788.33}
+      - {x: 136.81319, y: -2910.2783}
+      - {x: 225.82417, y: -2910.2783}
+      - {x: 308.24176, y: -2857.544}
+      - {x: 308.24176, y: -2521.3623}
+      - {x: 298.35165, y: -2491.6992}
+    - - {x: 1099.4506, y: -2491.6992}
+      - {x: 1030.2197, y: -2514.7705}
+      - {x: 1030.2197, y: -2696.045}
+      - {x: 1059.8901, y: -2910.2783}
+      - {x: 1208.2417, y: -2910.2783}
+      - {x: 1208.2417, y: -2494.995}
+      - {x: 1198.3516, y: -2491.6992}
+    - - {x: 591.75824, y: -2491.6992}
+      - {x: 581.8681, y: -2494.995}
+      - {x: 581.8681, y: -2794.9219}
+      - {x: 647.8022, y: -2890.503}
+      - {x: 717.03296, y: -2890.503}
+      - {x: 736.8132, y: -2883.9111}
+      - {x: 740.10986, y: -2854.248}
+      - {x: 740.10986, y: -2541.1377}
+      - {x: 723.62634, y: -2491.6992}
+    - - {x: -1139.011, y: -2040.1611}
+      - {x: -1188.4615, y: -2053.3447}
+      - {x: -1218.1318, y: -2139.038}
+      - {x: -1218.1318, y: -2468.628}
+      - {x: -1030.2197, y: -2468.628}
+      - {x: -1030.2197, y: -2040.1611}
+    - - {x: -717.03296, y: -2040.1611}
+      - {x: -769.7802, y: -2145.63}
+      - {x: -769.7802, y: -2270.874}
+      - {x: -763.18677, y: -2287.3535}
+      - {x: -740.10986, y: -2280.7617}
+      - {x: -730.2198, y: -2270.874}
+      - {x: -730.2198, y: -2247.8027}
+      - {x: -730.2198, y: -2320.3125}
+      - {x: -746.70325, y: -2320.3125}
+      - {x: -769.7802, y: -2429.0771}
+      - {x: -769.7802, y: -2452.1484}
+      - {x: -766.4835, y: -2468.628}
+      - {x: -713.73627, y: -2468.628}
+      - {x: -581.8681, y: -2415.8936}
+      - {x: -581.8681, y: -2040.1611}
+    - - {x: -318.13187, y: -2040.1611}
+      - {x: -318.13187, y: -2458.7402}
+      - {x: -202.74725, y: -2458.7402}
+      - {x: -130.21977, y: -2320.3125}
+      - {x: -130.21977, y: -2073.12}
+      - {x: -179.67032, y: -2040.1611}
+    - - {x: 212.63736, y: -2040.1611}
+      - {x: 133.51648, y: -2066.5283}
+      - {x: 130.21977, y: -2073.12}
+      - {x: 130.21977, y: -2293.9453}
+      - {x: 153.29669, y: -2452.1484}
+      - {x: 173.07692, y: -2458.7402}
+      - {x: 248.9011, y: -2458.7402}
+      - {x: 308.24176, y: -2432.373}
+      - {x: 308.24176, y: -2043.457}
+      - {x: 298.35165, y: -2040.1611}
+    - - {x: 1112.6373, y: -2040.1611}
+      - {x: 1033.5165, y: -2066.5283}
+      - {x: 1030.2197, y: -2073.12}
+      - {x: 1030.2197, y: -2260.9863}
+      - {x: 1059.8901, y: -2458.7402}
+      - {x: 1208.2417, y: -2458.7402}
+      - {x: 1208.2417, y: -2043.457}
+      - {x: 1195.0549, y: -2040.1611}
+    - - {x: 628.022, y: -2040.1611}
+      - {x: 588.46155, y: -2069.8242}
+      - {x: 581.8681, y: -2092.8955}
+      - {x: 581.8681, y: -2237.915}
+      - {x: 637.91205, y: -2432.373}
+      - {x: 667.5824, y: -2438.9648}
+      - {x: 740.10986, y: -2438.9648}
+      - {x: 740.10986, y: -2040.1611}
+    - - {x: -1175.2747, y: -1591.919}
+      - {x: -1188.4615, y: -1605.1025}
+      - {x: -1228.022, y: -1614.9902}
+      - {x: -1237.9121, y: -1657.8369}
+      - {x: -1237.9121, y: -2020.3857}
+      - {x: -1053.2966, y: -2020.3857}
+      - {x: -1053.2966, y: -1644.6533}
+      - {x: -1129.1208, y: -1591.919}
+    - - {x: -713.73627, y: -1918.2129}
+      - {x: -654.39557, y: -2020.3857}
+      - {x: -618.13184, y: -2020.3857}
+      - {x: -601.6483, y: -2007.2021}
+      - {x: -601.6483, y: -1974.2432}
+      - {x: -641.2088, y: -1717.1631}
+      - {x: -693.956, y: -1591.919}
+      - {x: -730.2198, y: -1591.919}
+      - {x: -786.26373, y: -1624.8779}
+      - {x: -789.5604, y: -1717.1631}
+      - {x: -789.5604, y: -1878.6621}
+      - {x: -786.26373, y: -2020.3857}
+      - {x: -726.92303, y: -2020.3857}
+      - {x: -723.62634, y: -2017.0898}
+      - {x: -720.32965, y: -1921.5088}
+      - {x: -720.32965, y: -1908.3252}
+    - - {x: -364.2857, y: -1591.919}
+      - {x: -364.2857, y: -2020.3857}
+      - {x: -153.29669, y: -2020.3857}
+      - {x: -153.29669, y: -1690.7959}
+      - {x: -182.96703, y: -1591.919}
+    - - {x: 186.26373, y: -1918.2129}
+      - {x: 235.71428, y: -2020.3857}
+      - {x: 298.35165, y: -2020.3857}
+      - {x: 298.35165, y: -1885.2539}
+      - {x: 232.41757, y: -1591.919}
+      - {x: 120.329666, y: -1591.919}
+      - {x: 110.43956, y: -1598.5107}
+      - {x: 110.43956, y: -2020.3857}
+      - {x: 173.07692, y: -2020.3857}
+      - {x: 179.67032, y: -1994.0186}
+      - {x: 179.67032, y: -1908.3252}
+    - - {x: -1122.5275, y: -1868.7744}
+      - {x: -1112.6373, y: -1865.4785}
+      - {x: -1112.6373, y: -1855.5908}
+      - {x: -1122.5275, y: -1852.2949}
+      - {x: -1129.1208, y: -1858.8867}
+    - - {x: -670.8791, y: -1868.7744}
+      - {x: -660.989, y: -1865.4785}
+      - {x: -660.989, y: -1855.5908}
+      - {x: -670.8791, y: -1852.2949}
+      - {x: -677.47253, y: -1858.8867}
+    - - {x: -222.52747, y: -1868.7744}
+      - {x: -212.63736, y: -1865.4785}
+      - {x: -212.63736, y: -1855.5908}
+      - {x: -222.52747, y: -1852.2949}
+      - {x: -229.12088, y: -1858.8867}
+    - - {x: 229.12088, y: -1868.7744}
+      - {x: 239.01099, y: -1865.4785}
+      - {x: 239.01099, y: -1855.5908}
+      - {x: 229.12088, y: -1852.2949}
+      - {x: 222.52747, y: -1858.8867}
+    - - {x: -1155.4945, y: -1140.3809}
+      - {x: -1201.6483, y: -1140.3809}
+      - {x: -1241.2087, y: -1160.1562}
+      - {x: -1241.2087, y: -1568.8477}
+      - {x: -1059.8901, y: -1568.8477}
+      - {x: -1053.2966, y: -1565.5518}
+      - {x: -1053.2966, y: -1502.9297}
+      - {x: -1135.7142, y: -1150.2686}
+    - - {x: -693.956, y: -1140.3809}
+      - {x: -789.5604, y: -1140.3809}
+      - {x: -789.5604, y: -1562.2559}
+      - {x: -786.26373, y: -1568.8477}
+      - {x: -601.6483, y: -1568.8477}
+      - {x: -601.6483, y: -1318.3594}
+      - {x: -611.53845, y: -1255.7373}
+    - - {x: -324.72525, y: -1140.3809}
+      - {x: -364.2857, y: -1150.2686}
+      - {x: -364.2857, y: -1568.8477}
+      - {x: -153.29669, y: -1568.8477}
+      - {x: -153.29669, y: -1489.7461}
+      - {x: -189.56044, y: -1140.3809}
+    - - {x: 202.74725, y: -1140.3809}
+      - {x: 159.8901, y: -1140.3809}
+      - {x: 120.329666, y: -1163.4521}
+      - {x: 110.43956, y: -1203.0029}
+      - {x: 110.43956, y: -1430.4199}
+      - {x: 123.62637, y: -1568.8477}
+      - {x: 298.35165, y: -1568.8477}
+      - {x: 298.35165, y: -1245.8496}
+      - {x: 225.82417, y: -1146.9727}
+    - - {x: -1125.8241, y: -1417.2363}
+      - {x: -1115.9341, y: -1413.9404}
+      - {x: -1115.9341, y: -1404.0527}
+      - {x: -1125.8241, y: -1400.7568}
+      - {x: -1132.4176, y: -1407.3486}
+    - - {x: -670.8791, y: -1417.2363}
+      - {x: -660.989, y: -1413.9404}
+      - {x: -660.989, y: -1404.0527}
+      - {x: -670.8791, y: -1400.7568}
+      - {x: -677.47253, y: -1407.3486}
+    - - {x: -222.52747, y: -1417.2363}
+      - {x: -212.63736, y: -1413.9404}
+      - {x: -212.63736, y: -1404.0527}
+      - {x: -222.52747, y: -1400.7568}
+      - {x: -229.12088, y: -1407.3486}
+    - - {x: 229.12088, y: -1417.2363}
+      - {x: 239.01099, y: -1413.9404}
+      - {x: 239.01099, y: -1404.0527}
+      - {x: 229.12088, y: -1400.7568}
+      - {x: 222.52747, y: -1407.3486}
+    - - {x: -1195.0549, y: -692.1387}
+      - {x: -1237.9121, y: -708.61816}
+      - {x: -1237.9121, y: -1120.6055}
+      - {x: -1066.4835, y: -1120.6055}
+      - {x: -1056.5934, y: -1117.3096}
+      - {x: -1053.2966, y: -1117.3096}
+      - {x: -1053.2966, y: -1008.5449}
+      - {x: -1145.6044, y: -692.1387}
+    - - {x: -713.73627, y: -1018.4326}
+      - {x: -654.39557, y: -1120.6055}
+      - {x: -601.6483, y: -1120.6055}
+      - {x: -601.6483, y: -955.81055}
+      - {x: -674.1758, y: -698.73047}
+      - {x: -684.0659, y: -692.1387}
+      - {x: -733.5165, y: -692.1387}
+      - {x: -789.5604, y: -708.61816}
+      - {x: -789.5604, y: -1114.0137}
+      - {x: -779.6703, y: -1120.6055}
+      - {x: -726.92303, y: -1120.6055}
+      - {x: -720.32965, y: -1094.2383}
+      - {x: -720.32965, y: -1008.5449}
+    - - {x: -159.8901, y: -1117.3096}
+      - {x: -153.29669, y: -1104.126}
+      - {x: -153.29669, y: -1057.9834}
+      - {x: -179.67032, y: -889.8926}
+      - {x: -192.85713, y: -843.75}
+      - {x: -222.52747, y: -827.2705}
+      - {x: -242.30768, y: -705.32227}
+      - {x: -245.60439, y: -692.1387}
+      - {x: -288.46152, y: -692.1387}
+      - {x: -334.6154, y: -711.91406}
+      - {x: -364.2857, y: -823.9746}
+      - {x: -364.2857, y: -978.88184}
+      - {x: -341.20877, y: -1097.5342}
+      - {x: -324.72525, y: -1120.6055}
+      - {x: -275.27472, y: -1120.6055}
+      - {x: -268.6813, y: -1094.2383}
+      - {x: -212.63736, y: -1120.6055}
+      - {x: -166.4835, y: -1120.6055}
+    - - {x: 186.26373, y: -1018.4326}
+      - {x: 235.71428, y: -1120.6055}
+      - {x: 298.35165, y: -1120.6055}
+      - {x: 298.35165, y: -777.83203}
+      - {x: 239.01099, y: -692.1387}
+      - {x: 130.21977, y: -692.1387}
+      - {x: 110.43956, y: -702.02637}
+      - {x: 110.43956, y: -1008.5449}
+      - {x: 117.03297, y: -1120.6055}
+      - {x: 173.07692, y: -1120.6055}
+      - {x: 179.67032, y: -1094.2383}
+      - {x: 179.67032, y: -1008.5449}
+    - - {x: -1122.5275, y: -968.99414}
+      - {x: -1112.6373, y: -965.69824}
+      - {x: -1112.6373, y: -955.81055}
+      - {x: -1122.5275, y: -952.51465}
+      - {x: -1129.1208, y: -959.10645}
+    - - {x: -670.8791, y: -968.99414}
+      - {x: -660.989, y: -965.69824}
+      - {x: -660.989, y: -955.81055}
+      - {x: -670.8791, y: -952.51465}
+      - {x: -677.47253, y: -959.10645}
+    - - {x: -222.52747, y: -968.99414}
+      - {x: -212.63736, y: -965.69824}
+      - {x: -212.63736, y: -955.81055}
+      - {x: -222.52747, y: -952.51465}
+      - {x: -229.12088, y: -959.10645}
+    - - {x: 229.12088, y: -968.99414}
+      - {x: 239.01099, y: -965.69824}
+      - {x: 239.01099, y: -955.81055}
+      - {x: 229.12088, y: -952.51465}
+      - {x: 222.52747, y: -959.10645}
+    - - {x: -1188.4615, y: -240.60059}
+      - {x: -1228.022, y: -266.96777}
+      - {x: -1228.022, y: -669.0674}
+      - {x: -1053.2966, y: -669.0674}
+      - {x: -1053.2966, y: -299.92676}
+      - {x: -1096.1538, y: -240.60059}
+    - - {x: -637.91205, y: -402.0996}
+      - {x: -664.2857, y: -402.0996}
+      - {x: -670.8791, y: -405.3955}
+      - {x: -660.989, y: -395.5078}
+      - {x: -660.989, y: -365.84473}
+      - {x: -588.46155, y: -425.1709}
+      - {x: -578.5714, y: -461.42578}
+      - {x: -571.978, y: -468.01758}
+      - {x: -529.12085, y: -468.01758}
+      - {x: -529.12085, y: -408.6914}
+      - {x: -532.41754, y: -398.8037}
+      - {x: -578.5714, y: -309.81445}
+      - {x: -674.1758, y: -240.60059}
+      - {x: -720.32965, y: -240.60059}
+      - {x: -779.6703, y: -250.48828}
+      - {x: -779.6703, y: -669.0674}
+      - {x: -733.5165, y: -669.0674}
+      - {x: -720.32965, y: -665.7715}
+      - {x: -703.8461, y: -669.0674}
+      - {x: -608.24176, y: -669.0674}
+      - {x: -588.46155, y: -642.7002}
+      - {x: -585.1648, y: -438.3545}
+    - - {x: -229.12088, y: -240.60059}
+      - {x: -295.05493, y: -240.60059}
+      - {x: -324.72525, y: -253.78418}
+      - {x: -328.02197, y: -283.44727}
+      - {x: -328.02197, y: -669.0674}
+      - {x: -103.84615, y: -669.0674}
+      - {x: -80.769226, y: -566.89453}
+      - {x: -80.769226, y: -342.77344}
+      - {x: -123.62637, y: -299.92676}
+    - - {x: 262.0879, y: -402.0996}
+      - {x: 235.71428, y: -402.0996}
+      - {x: 229.12088, y: -405.3955}
+      - {x: 239.01099, y: -395.5078}
+      - {x: 239.01099, y: -365.84473}
+      - {x: 229.12088, y: -253.78418}
+      - {x: 229.12088, y: -240.60059}
+      - {x: 159.8901, y: -240.60059}
+      - {x: 120.329666, y: -257.08008}
+      - {x: 120.329666, y: -669.0674}
+      - {x: 324.72525, y: -669.0674}
+      - {x: 370.87912, y: -520.75195}
+      - {x: 370.87912, y: -438.3545}
+    - - {x: 687.3626, y: -402.0996}
+      - {x: 690.6593, y: -395.5078}
+      - {x: 690.6593, y: -250.48828}
+      - {x: 684.0659, y: -240.60059}
+      - {x: 604.945, y: -240.60059}
+      - {x: 571.978, y: -299.92676}
+      - {x: 571.978, y: -669.0674}
+      - {x: 746.70325, y: -669.0674}
+      - {x: 746.70325, y: -557.00684}
+      - {x: 736.8132, y: -474.60938}
+      - {x: 720.32965, y: -408.6914}
+      - {x: 713.73627, y: -402.0996}
+    - - {x: -1102.7472, y: -517.45605}
+      - {x: -1092.857, y: -514.16016}
+      - {x: -1092.857, y: -504.27246}
+      - {x: -1102.7472, y: -500.97656}
+      - {x: -1109.3406, y: -507.56836}
+    - - {x: -651.0989, y: -517.45605}
+      - {x: -641.2088, y: -514.16016}
+      - {x: -641.2088, y: -504.27246}
+      - {x: -651.0989, y: -500.97656}
+      - {x: -657.69226, y: -507.56836}
+    - - {x: -1228.022, y: -220.8252}
+      - {x: -1050, y: -220.8252}
+      - {x: -1050, y: 49.438477}
+      - {x: -1096.1538, y: 210.9375}
+      - {x: -1181.868, y: 210.9375}
+      - {x: -1228.022, y: 191.16211}
+    - - {x: -591.75824, y: 6.591797}
+      - {x: -634.61536, y: 56.030273}
+      - {x: -608.24176, y: 56.030273}
+      - {x: -581.8681, y: -16.479492}
+      - {x: -571.978, y: -19.77539}
+      - {x: -529.12085, y: -23.07129}
+      - {x: -529.12085, y: 121.94824}
+      - {x: -542.3077, y: 194.45801}
+      - {x: -595.05493, y: 210.9375}
+      - {x: -779.6703, y: 210.9375}
+      - {x: -779.6703, y: -220.8252}
+      - {x: -618.13184, y: -220.8252}
+      - {x: -608.24176, y: -217.5293}
+      - {x: -601.6483, y: -197.7539}
+      - {x: -624.7253, y: -105.46875}
+      - {x: -591.75824, y: -3.2958984}
+    - - {x: -196.15384, y: 210.9375}
+      - {x: -275.27472, y: 210.9375}
+      - {x: -328.02197, y: 194.45801}
+      - {x: -328.02197, y: -220.8252}
+      - {x: -97.25275, y: -220.8252}
+      - {x: -80.769226, y: -204.3457}
+      - {x: -80.769226, y: 145.01953}
+      - {x: -87.36263, y: 161.49902}
+    - - {x: 370.87912, y: -85.69336}
+      - {x: 370.87912, y: 52.734375}
+      - {x: 239.01099, y: 197.7539}
+      - {x: 215.93407, y: 210.9375}
+      - {x: 179.67032, y: 210.9375}
+      - {x: 133.51648, y: 177.97852}
+      - {x: 120.329666, y: 82.39746}
+      - {x: 120.329666, y: -220.8252}
+      - {x: 166.4835, y: -220.8252}
+      - {x: 179.67032, y: -217.5293}
+      - {x: 192.85713, y: -220.8252}
+      - {x: 281.86813, y: -220.8252}
+      - {x: 288.46152, y: -214.2334}
+    - - {x: 680.7692, y: 46.14258}
+      - {x: 690.6593, y: 59.32617}
+      - {x: 690.6593, y: 82.39746}
+      - {x: 680.7692, y: 194.45801}
+      - {x: 670.8791, y: 210.9375}
+      - {x: 604.945, y: 210.9375}
+      - {x: 571.978, y: 145.01953}
+      - {x: 571.978, y: -220.8252}
+      - {x: 750, y: -220.8252}
+      - {x: 750, y: -62.62207}
+      - {x: 726.92303, y: 69.21387}
+    - - {x: -1102.7472, y: -69.21387}
+      - {x: -1092.857, y: -65.91797}
+      - {x: -1092.857, y: -56.030273}
+      - {x: -1102.7472, y: -52.734375}
+      - {x: -1109.3406, y: -59.32617}
+    - - {x: -651.0989, y: -69.21387}
+      - {x: -641.2088, y: -65.91797}
+      - {x: -641.2088, y: -56.030273}
+      - {x: -651.0989, y: -52.734375}
+      - {x: -657.69226, y: -59.32617}
+    - - {x: 697.25275, y: -69.21387}
+      - {x: 707.1428, y: -65.91797}
+      - {x: 707.1428, y: -56.030273}
+      - {x: 697.25275, y: -52.734375}
+      - {x: 690.6593, y: -59.32617}
+    - - {x: -1053.2966, y: 234.00879}
+      - {x: -1053.2966, y: 520.75195}
+      - {x: -1076.3735, y: 659.1797}
+      - {x: -1188.4615, y: 659.1797}
+      - {x: -1228.022, y: 642.7002}
+      - {x: -1228.022, y: 230.71289}
+      - {x: -1181.868, y: 230.71289}
+      - {x: -1171.978, y: 234.00879}
+      - {x: -1148.9011, y: 230.71289}
+      - {x: -1059.8901, y: 230.71289}
+    - - {x: -591.75824, y: 448.2422}
+      - {x: -591.75824, y: 458.12988}
+      - {x: -598.3516, y: 464.72168}
+      - {x: -637.91205, y: 497.68066}
+      - {x: -664.2857, y: 497.68066}
+      - {x: -670.8791, y: 494.38477}
+      - {x: -660.989, y: 504.27246}
+      - {x: -660.989, y: 533.93555}
+      - {x: -588.46155, y: 474.60938}
+      - {x: -575.2747, y: 425.1709}
+      - {x: -529.12085, y: 425.1709}
+      - {x: -529.12085, y: 477.90527}
+      - {x: -568.6813, y: 583.374}
+      - {x: -660.989, y: 659.1797}
+      - {x: -750, y: 659.1797}
+      - {x: -779.6703, y: 652.5879}
+      - {x: -779.6703, y: 230.71289}
+      - {x: -733.5165, y: 230.71289}
+      - {x: -720.32965, y: 234.00879}
+      - {x: -703.8461, y: 230.71289}
+      - {x: -601.6483, y: 230.71289}
+      - {x: -588.46155, y: 240.60059}
+      - {x: -611.53845, y: 342.77344}
+    - - {x: -232.41757, y: 659.1797}
+      - {x: -285.16483, y: 659.1797}
+      - {x: -328.02197, y: 642.7002}
+      - {x: -328.02197, y: 230.71289}
+      - {x: -140.10988, y: 230.71289}
+      - {x: -80.769226, y: 339.47754}
+      - {x: -80.769226, y: 527.34375}
+      - {x: -117.03297, y: 609.7412}
+    - - {x: 235.71428, y: 497.68066}
+      - {x: 229.12088, y: 494.38477}
+      - {x: 239.01099, y: 504.27246}
+      - {x: 239.01099, y: 533.93555}
+      - {x: 229.12088, y: 645.9961}
+      - {x: 219.23076, y: 659.1797}
+      - {x: 150, y: 659.1797}
+      - {x: 120.329666, y: 603.1494}
+      - {x: 120.329666, y: 230.71289}
+      - {x: 321.42856, y: 230.71289}
+      - {x: 370.87912, y: 346.06934}
+      - {x: 370.87912, y: 507.56836}
+      - {x: 291.75824, y: 504.27246}
+    - - {x: 687.3626, y: 497.68066}
+      - {x: 690.6593, y: 504.27246}
+      - {x: 690.6593, y: 649.292}
+      - {x: 667.5824, y: 659.1797}
+      - {x: 571.978, y: 659.1797}
+      - {x: 571.978, y: 230.71289}
+      - {x: 746.70325, y: 230.71289}
+      - {x: 746.70325, y: 382.32422}
+      - {x: 726.92303, y: 497.68066}
+    - - {x: -1102.7472, y: 382.32422}
+      - {x: -1092.857, y: 385.62012}
+      - {x: -1092.857, y: 395.5078}
+      - {x: -1102.7472, y: 398.8037}
+      - {x: -1109.3406, y: 392.2119}
+    - - {x: -651.0989, y: 382.32422}
+      - {x: -641.2088, y: 385.62012}
+      - {x: -641.2088, y: 395.5078}
+      - {x: -651.0989, y: 398.8037}
+      - {x: -657.69226, y: 392.2119}
+    - - {x: -202.74725, y: 382.32422}
+      - {x: -192.85713, y: 385.62012}
+      - {x: -192.85713, y: 395.5078}
+      - {x: -202.74725, y: 398.8037}
+      - {x: -209.34065, y: 392.2119}
+    - - {x: 248.9011, y: 382.32422}
+      - {x: 258.7912, y: 385.62012}
+      - {x: 258.7912, y: 395.5078}
+      - {x: 248.9011, y: 398.8037}
+      - {x: 242.30768, y: 392.2119}
+    - - {x: 697.25275, y: 382.32422}
+      - {x: 707.1428, y: 385.62012}
+      - {x: 707.1428, y: 395.5078}
+      - {x: 697.25275, y: 398.8037}
+      - {x: 690.6593, y: 392.2119}
+    - - {x: -1030.2197, y: 682.251}
+      - {x: -1030.2197, y: 1034.9121}
+      - {x: -1096.1538, y: 1110.7178}
+      - {x: -1165.3845, y: 1110.7178}
+      - {x: -1198.3516, y: 1077.7588}
+      - {x: -1224.7252, y: 784.4238}
+      - {x: -1224.7252, y: 682.251}
+      - {x: -1168.6813, y: 682.251}
+      - {x: -1139.011, y: 774.53613}
+      - {x: -1132.4176, y: 728.39355}
+      - {x: -1115.9341, y: 682.251}
+    - - {x: -779.6703, y: 1110.7178}
+      - {x: -779.6703, y: 682.251}
+      - {x: -601.6483, y: 682.251}
+      - {x: -601.6483, y: 1031.6162}
+      - {x: -634.61536, y: 1110.7178}
+    - - {x: -225.82417, y: 1110.7178}
+      - {x: -318.13187, y: 1110.7178}
+      - {x: -347.8022, y: 1044.7998}
+      - {x: -347.8022, y: 807.4951}
+      - {x: -324.72525, y: 682.251}
+      - {x: -150, y: 682.251}
+      - {x: -150, y: 952.51465}
+      - {x: -156.5934, y: 988.76953}
+    - - {x: 163.18681, y: 1110.7178}
+      - {x: 120.329666, y: 1054.6875}
+      - {x: 120.329666, y: 682.251}
+      - {x: 298.35165, y: 682.251}
+      - {x: 298.35165, y: 1081.0547}
+      - {x: 252.1978, y: 1110.7178}
+    - - {x: -229.12088, y: 837.1582}
+      - {x: -222.52747, y: 830.5664}
+      - {x: -212.63736, y: 833.8623}
+      - {x: -212.63736, y: 843.75}
+      - {x: -219.23076, y: 850.3418}
+      - {x: -229.12088, y: 847.0459}
+    - - {x: -1112.6373, y: 1130.4932}
+      - {x: -1063.1868, y: 1130.4932}
+      - {x: -1036.8131, y: 1193.1152}
+      - {x: -1050, y: 1232.666}
+      - {x: -1059.8901, y: 1242.5537}
+      - {x: -1069.7802, y: 1265.625}
+      - {x: -1030.2197, y: 1351.3184}
+      - {x: -1030.2197, y: 1558.96}
+      - {x: -1224.7252, y: 1558.96}
+      - {x: -1224.7252, y: 1130.4932}
+      - {x: -1171.978, y: 1130.4932}
+      - {x: -1171.978, y: 1133.7891}
+      - {x: -1139.011, y: 1222.7783}
+      - {x: -1135.7142, y: 1179.9316}
+    - - {x: -779.6703, y: 1558.96}
+      - {x: -779.6703, y: 1130.4932}
+      - {x: -601.6483, y: 1130.4932}
+      - {x: -601.6483, y: 1519.4092}
+      - {x: -674.1758, y: 1558.96}
+    - - {x: -298.35165, y: 1558.96}
+      - {x: -328.02197, y: 1532.5928}
+      - {x: -347.8022, y: 1483.1543}
+      - {x: -347.8022, y: 1229.3701}
+      - {x: -334.6154, y: 1130.4932}
+      - {x: -159.8901, y: 1130.4932}
+      - {x: -153.29669, y: 1140.3809}
+      - {x: -153.29669, y: 1493.042}
+      - {x: -248.9011, y: 1558.96}
+    - - {x: 186.26373, y: 1558.96}
+      - {x: 120.329666, y: 1535.8887}
+      - {x: 120.329666, y: 1183.2275}
+      - {x: 126.92307, y: 1130.4932}
+      - {x: 298.35165, y: 1130.4932}
+      - {x: 298.35165, y: 1558.96}
+    - - {x: -651.0989, y: 1282.1045}
+      - {x: -641.2088, y: 1285.4004}
+      - {x: -641.2088, y: 1295.2881}
+      - {x: -651.0989, y: 1298.584}
+      - {x: -657.69226, y: 1291.9922}
+    - - {x: -222.52747, y: 1282.1045}
+      - {x: -212.63736, y: 1285.4004}
+      - {x: -212.63736, y: 1295.2881}
+      - {x: -222.52747, y: 1298.584}
+      - {x: -229.12088, y: 1291.9922}
+    - - {x: 248.9011, y: 1282.1045}
+      - {x: 258.7912, y: 1285.4004}
+      - {x: 258.7912, y: 1295.2881}
+      - {x: 248.9011, y: 1298.584}
+      - {x: 242.30768, y: 1291.9922}
+    - - {x: -1030.2197, y: 1582.0312}
+      - {x: -1030.2197, y: 1954.4678}
+      - {x: -1096.1538, y: 2010.498}
+      - {x: -1162.0879, y: 2010.498}
+      - {x: -1198.3516, y: 1984.1309}
+      - {x: -1224.7252, y: 1727.0508}
+      - {x: -1224.7252, y: 1582.0312}
+      - {x: -1168.6813, y: 1582.0312}
+      - {x: -1139.011, y: 1674.3164}
+      - {x: -1132.4176, y: 1628.1738}
+      - {x: -1115.9341, y: 1582.0312}
+    - - {x: -736.8132, y: 2010.498}
+      - {x: -779.6703, y: 1947.876}
+      - {x: -779.6703, y: 1582.0312}
+      - {x: -601.6483, y: 1582.0312}
+      - {x: -601.6483, y: 1898.4375}
+      - {x: -628.022, y: 2010.498}
+    - - {x: -285.16483, y: 2010.498}
+      - {x: -324.72525, y: 1984.1309}
+      - {x: -328.02197, y: 1974.2432}
+      - {x: -347.8022, y: 1901.7334}
+      - {x: -347.8022, y: 1786.377}
+      - {x: -324.72525, y: 1582.0312}
+      - {x: -153.29669, y: 1582.0312}
+      - {x: -153.29669, y: 1848.999}
+      - {x: -229.12088, y: 2010.498}
+    - - {x: 219.23076, y: 2010.498}
+      - {x: 179.67032, y: 2010.498}
+      - {x: 136.81319, y: 1974.2432}
+      - {x: 120.329666, y: 1918.2129}
+      - {x: 120.329666, y: 1582.0312}
+      - {x: 298.35165, y: 1582.0312}
+      - {x: 298.35165, y: 1937.9883}
+      - {x: 239.01099, y: 2000.6104}
+    - - {x: -651.0989, y: 1733.6426}
+      - {x: -641.2088, y: 1736.9385}
+      - {x: -641.2088, y: 1746.8262}
+      - {x: -651.0989, y: 1750.1221}
+      - {x: -657.69226, y: 1743.5303}
+    - - {x: -222.52747, y: 1733.6426}
+      - {x: -212.63736, y: 1736.9385}
+      - {x: -212.63736, y: 1746.8262}
+      - {x: -222.52747, y: 1750.1221}
+      - {x: -229.12088, y: 1743.5303}
+    - - {x: 248.9011, y: 1733.6426}
+      - {x: 258.7912, y: 1736.9385}
+      - {x: 258.7912, y: 1746.8262}
+      - {x: 248.9011, y: 1750.1221}
+      - {x: 242.30768, y: 1743.5303}
+    - - {x: -1096.1538, y: 2465.332}
+      - {x: -1102.7472, y: 2468.628}
+      - {x: -1142.3076, y: 2468.628}
+      - {x: -1204.9451, y: 2445.5566}
+      - {x: -1204.9451, y: 2106.079}
+      - {x: -1178.5714, y: 2030.2734}
+      - {x: -1109.3406, y: 2030.2734}
+      - {x: -1112.6373, y: 2066.5283}
+      - {x: -1096.1538, y: 2343.3838}
+    - - {x: -815.934, y: 2244.5068}
+      - {x: -815.934, y: 2030.2734}
+      - {x: -614.83514, y: 2030.2734}
+      - {x: -614.83514, y: 2356.5674}
+      - {x: -634.61536, y: 2468.628}
+      - {x: -697.25275, y: 2468.628}
+      - {x: -769.7802, y: 2448.8525}
+    - - {x: -347.8022, y: 2468.628}
+      - {x: -374.1758, y: 2432.373}
+      - {x: -374.1758, y: 2030.2734}
+      - {x: -156.5934, y: 2030.2734}
+      - {x: -156.5934, y: 2458.7402}
+      - {x: -159.8901, y: 2468.628}
+    - - {x: 189.56044, y: 2468.628}
+      - {x: 146.7033, y: 2458.7402}
+      - {x: 146.7033, y: 2086.3037}
+      - {x: 173.07692, y: 2030.2734}
+      - {x: 255.49449, y: 2030.2734}
+      - {x: 255.49449, y: 2468.628}
+    - - {x: 647.8022, y: 2468.628}
+      - {x: 578.5714, y: 2452.1484}
+      - {x: 535.7143, y: 2237.915}
+      - {x: 535.7143, y: 2030.2734}
+      - {x: 733.5165, y: 2030.2734}
+      - {x: 733.5165, y: 2468.628}
+    - - {x: 997.25275, y: 2468.628}
+      - {x: 974.1758, y: 2307.129}
+      - {x: 974.1758, y: 2030.2734}
+      - {x: 1191.7582, y: 2030.2734}
+      - {x: 1191.7582, y: 2402.71}
+      - {x: 1158.7911, y: 2468.628}
+    - - {x: -328.02197, y: 2916.87}
+      - {x: -384.06592, y: 2672.9736}
+      - {x: -384.06592, y: 2478.5156}
+      - {x: -166.4835, y: 2478.5156}
+      - {x: -166.4835, y: 2850.9521}
+      - {x: -186.26373, y: 2916.87}
+    - - {x: -1204.9451, y: 2554.3213}
+      - {x: -1178.5714, y: 2481.8115}
+      - {x: -1096.1538, y: 2481.8115}
+      - {x: -1096.1538, y: 2920.166}
+      - {x: -1171.978, y: 2920.166}
+      - {x: -1204.9451, y: 2910.2783}
+    - - {x: -815.934, y: 2689.4531}
+      - {x: -815.934, y: 2481.8115}
+      - {x: -614.83514, y: 2481.8115}
+      - {x: -614.83514, y: 2785.0342}
+      - {x: -637.91205, y: 2916.87}
+      - {x: -644.5055, y: 2920.166}
+      - {x: -703.8461, y: 2920.166}
+      - {x: -773.0769, y: 2903.6865}
+    - - {x: 173.07692, y: 2920.166}
+      - {x: 146.7033, y: 2883.9111}
+      - {x: 146.7033, y: 2557.6172}
+      - {x: 173.07692, y: 2481.8115}
+      - {x: 252.1978, y: 2481.8115}
+      - {x: 255.49449, y: 2551.0254}
+      - {x: 255.49449, y: 2920.166}
+    - - {x: 535.7143, y: 2481.8115}
+      - {x: 733.5165, y: 2481.8115}
+      - {x: 733.5165, y: 2794.9219}
+      - {x: 710.4395, y: 2920.166}
+      - {x: 670.8791, y: 2920.166}
+      - {x: 601.6483, y: 2887.207}
+      - {x: 535.7143, y: 2755.371}
+    - - {x: 1155.4945, y: 2920.166}
+      - {x: 1112.6373, y: 2920.166}
+      - {x: 1043.4066, y: 2890.503}
+      - {x: 974.1758, y: 2577.3926}
+      - {x: 974.1758, y: 2481.8115}
+      - {x: 1191.7582, y: 2481.8115}
+      - {x: 1191.7582, y: 2903.6865}
+      - {x: 1162.0879, y: 2916.87}
+    - - {x: -1096.1538, y: 3365.1123}
+      - {x: -1102.7472, y: 3368.4082}
+      - {x: -1142.3076, y: 3368.4082}
+      - {x: -1204.9451, y: 3345.337}
+      - {x: -1204.9451, y: 3005.8594}
+      - {x: -1178.5714, y: 2930.0537}
+      - {x: -1109.3406, y: 2930.0537}
+      - {x: -1112.6373, y: 2966.3086}
+      - {x: -1096.1538, y: 3243.164}
+    - - {x: -651.0989, y: 3368.4082}
+      - {x: -707.1428, y: 3368.4082}
+      - {x: -773.0769, y: 3355.2246}
+      - {x: -815.934, y: 3164.0625}
+      - {x: -815.934, y: 2930.0537}
+      - {x: -614.83514, y: 2930.0537}
+      - {x: -614.83514, y: 3246.46}
+      - {x: -641.2088, y: 3365.1123}
+    - - {x: -271.97803, y: 3368.4082}
+      - {x: -374.1758, y: 3269.5312}
+      - {x: -374.1758, y: 2930.0537}
+      - {x: -156.5934, y: 2930.0537}
+      - {x: -156.5934, y: 3368.4082}
+    - - {x: 255.49449, y: 3365.1123}
+      - {x: 252.1978, y: 3368.4082}
+      - {x: 212.63736, y: 3368.4082}
+      - {x: 159.8901, y: 3342.041}
+      - {x: 146.7033, y: 3318.9697}
+      - {x: 146.7033, y: 2986.084}
+      - {x: 156.5934, y: 2930.0537}
+      - {x: 239.01099, y: 2930.0537}
+      - {x: 245.60439, y: 2933.3496}
+      - {x: 239.01099, y: 2966.3086}
+      - {x: 255.49449, y: 3243.164}
+    - - {x: 637.91205, y: 3368.4082}
+      - {x: 571.978, y: 3355.2246}
+      - {x: 535.7143, y: 3150.879}
+      - {x: 535.7143, y: 2930.0537}
+      - {x: 733.5165, y: 2930.0537}
+      - {x: 733.5165, y: 3368.4082}
+    - - {x: 1191.7582, y: 3157.4707}
+      - {x: 1191.7582, y: 3193.7256}
+      - {x: 1158.7911, y: 3365.1123}
+      - {x: 1148.9011, y: 3368.4082}
+      - {x: 1106.044, y: 3368.4082}
+      - {x: 1053.2966, y: 3348.6328}
+      - {x: 974.1758, y: 3022.3389}
+      - {x: 974.1758, y: 2933.3496}
+      - {x: 990.6593, y: 2930.0537}
+      - {x: 1191.7582, y: 2930.0537}
+      - {x: 1191.7582, y: 2979.4922}
+      - {x: 1155.4945, y: 3068.4814}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

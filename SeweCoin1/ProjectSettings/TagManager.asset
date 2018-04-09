@@ -8,14 +8,9 @@ TagManager:
   - pared
   - platform
   - bloquePatrulla
-  - enemigo
-  - instaKill
-  - gota
   - tapa
-  - smoke
   - gotero
   - Caca
-  - cocodrilo
   layers:
   - Default
   - TransparentFX
@@ -25,10 +20,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemigos
+  - "Da\xF1os"
+  - Otros
   - 
   - 
   - 

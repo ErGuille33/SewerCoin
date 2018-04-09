@@ -24,9 +24,10 @@ GameObject:
   - component: {fileID: 58733100340594976}
   - component: {fileID: 50737407863777648}
   - component: {fileID: 114816053147266676}
+  - component: {fileID: 114986933943181152}
   m_Layer: 0
   m_Name: Gota
-  m_TagString: gota
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -131,3 +132,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f22e2fcbb86b3d4abe9e9edc122a39c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114986933943181152
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1986256165422926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5399a3c615688c144be318519c1a63ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cantDanio: 1
