@@ -29,8 +29,8 @@ public class ataque : MonoBehaviour {
 	}
 
 	void Update () {
-		playeranim.SetBool ("Melee", atacking);
-		if (Input.GetKeyDown ("j") && !atacking) {
+		playeranim.SetBool ("Melee", atackingAux);
+		if (Input.GetKeyDown ("j") && !atacking && gameObject.GetComponent <RayCast>().DetectaPlataforma()) {
 			atacking = true;
 			atackingAux = true;
 			tiempoAtaque = ataqueTiempAct;
@@ -47,7 +47,9 @@ public class ataque : MonoBehaviour {
 				Invoke ("DesactivaAtaque", tiempoCDAtack);
 			}
 		}
-		if (Input.GetKeyDown ("k") && !shooting) {
+		if (Input.GetKeyDown ("k") && !shooting && gameObject.GetComponent <RayCast>().DetectaPlataforma()) {
+			playeranim.SetTrigger ("Disparo");
+
 			shooting = true;
 			GameObject bala = Instantiate (balaprefab);
 			bala.transform.position = spawner.transform.position;
@@ -74,6 +76,14 @@ public class ataque : MonoBehaviour {
 
 	public bool SaltoBomba () {
 		return saltobomba;
+	}
+
+	public bool Atacando(){
+		return atackingAux;
+	}
+
+	public bool Disparando(){
+		return shooting;
 	}
 
 }

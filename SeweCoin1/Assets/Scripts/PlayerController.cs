@@ -32,6 +32,10 @@ public class PlayerController : MonoBehaviour {
 	}
 
 	void Update () {
+		animor.SetBool ("Saltando", !gameObject.GetComponent <RayCast> ().DetectaPlataforma ());
+		animor.SetFloat ("Salto", rb.velocity.y);
+		if (gameObject.GetComponent<ataque> ().Atacando ())
+			rb.velocity = new Vector2 (0, rb.velocity.y);
 		MovimientoLateral ();
 		Salto ();
 		if (salud <= 0)
@@ -40,7 +44,7 @@ public class PlayerController : MonoBehaviour {
 
 	void MovimientoLateral(){
 		float move = Input.GetAxis("Horizontal");
-		if (!gameObject.GetComponent <RayCast>().DetectaMuro(move))
+		if (!gameObject.GetComponent <RayCast>().DetectaMuro(move) && !gameObject.GetComponent<ataque> ().Atacando () && !gameObject.GetComponent<ataque> ().Disparando ())
 			rb.velocity = new Vector2(move*speed, rb.velocity.y);
 
 		animor.SetFloat("Speed", Mathf.Abs(move));
@@ -63,23 +67,20 @@ public class PlayerController : MonoBehaviour {
 
 	void Salto(){
 		if (gameObject.GetComponent <RayCast>().DetectaPlataforma()){
-			if (Input.GetKeyDown ("space") && !isJumping) { 
+			if (Input.GetKeyDown ("space")) { 
 				rb.AddForce (Vector2.up * jumpHeight);
-				animor.SetTrigger ("Saltar");
 			}
 		}
 	}
 	private void OnCollisionEnter2D (Collision2D col) {
 
 		if (col.gameObject.layer == 0) {				//comprobar si esta en suelo
-			isJumping = false;
 			noSaltoBomba ();
 		}
 	}
 
 	private void OnCollisionExit2D (Collision2D col) {
-		if (col.gameObject.tag == "platform") {				//comprobar si esta en suelo
-			isJumping = true;
+		if (col.gameObject.layer == 0) {				//comprobar si esta en suelo
 		}
 	}
 
