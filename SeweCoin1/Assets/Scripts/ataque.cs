@@ -22,13 +22,14 @@ public class ataque : MonoBehaviour {
 	Animator playeranim;//para la animacion de ataque de alarico
 
 	void Awake () {
-		//playeranim = GetComponentInChildren<Animator> ();
+		playeranim = GetComponentInChildren<Animator> ();
 		triggerAtaque.enabled = false; 
 		pc = GetComponent<PlayerController> ();
 		rb = GetComponent<Rigidbody2D> ();
 	}
 
 	void Update () {
+		playeranim.SetBool ("Melee", atacking);
 		if (Input.GetKeyDown ("j") && !atacking) {
 			atacking = true;
 			atackingAux = true;
