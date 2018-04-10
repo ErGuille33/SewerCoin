@@ -8,7 +8,7 @@ public class ataque : MonoBehaviour {
 	PlayerController pc;
 	Rigidbody2D rb;
 
-	bool atacking = false, atackingAux = false, shooting = false;//atackingAux sirve para poder poner cd al ataque y no spamearlo.
+	bool atacking = false, atackingAux = false, shooting = false, disparando;//atackingAux sirve para poder poner cd al ataque y no spamearlo.
 
 	public bool saltobomba = false;
 
@@ -50,10 +50,12 @@ public class ataque : MonoBehaviour {
 		if (Input.GetKeyDown ("k") && !shooting && gameObject.GetComponent <RayCast>().DetectaPlataforma()) {
 			playeranim.SetTrigger ("Disparo");
 
+			disparando = true;
 			shooting = true;
 			GameObject bala = Instantiate (balaprefab);
 			bala.transform.position = spawner.transform.position;
 			Invoke ("DesactivaCañon", cañonCD);
+			Invoke ("AnimDisparo", 1f);
 		}
 
 		if (pc.isJumping && Input.GetKey ("s") && Input.GetKeyDown ("j")) {
@@ -81,9 +83,12 @@ public class ataque : MonoBehaviour {
 	public bool Atacando(){
 		return atackingAux;
 	}
+	void AnimDisparo(){
+		disparando = false;
+	}
 
 	public bool Disparando(){
-		return shooting;
+		return disparando;
 	}
 
 }
