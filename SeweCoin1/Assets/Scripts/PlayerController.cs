@@ -79,10 +79,6 @@ public class PlayerController : MonoBehaviour {
 		}
 	}
 
-	private void OnCollisionExit2D (Collision2D col) {
-		if (col.gameObject.layer == 0) {				//comprobar si esta en suelo
-		}
-	}
 
 	void Danhado () {
 		damaged = false;
