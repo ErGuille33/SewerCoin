@@ -48,6 +48,7 @@ public class ataque : MonoBehaviour {
 			}
 		}
 		if (Input.GetKeyDown ("k") && !shooting && gameObject.GetComponent <RayCast>().DetectaPlataforma()) {
+			shooting = true;
 			playeranim.SetTrigger ("Disparo");
 			disparando = true;
 			Invoke ("CrearBala", tiempoDisparo);
@@ -88,7 +89,6 @@ public class ataque : MonoBehaviour {
 	}
 
 	void CrearBala(){
-		shooting = true;
 		GameObject bala = Instantiate (balaprefab);
 		bala.transform.position = spawner.transform.position;
 		Invoke ("DesactivaCañon", cañonCD);

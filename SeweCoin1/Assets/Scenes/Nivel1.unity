@@ -7612,6 +7612,14 @@ Prefab:
       propertyPath: tiempoDisparo
       value: 0.4
       objectReference: {fileID: 0}
+    - target: {fileID: 4062614951596818, guid: 9285882c3fe778048a60b08407a1ec32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4062614951596818, guid: 9285882c3fe778048a60b08407a1ec32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9285882c3fe778048a60b08407a1ec32, type: 2}
   m_IsPrefabParent: 0
