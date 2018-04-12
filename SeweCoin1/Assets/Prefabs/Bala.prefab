@@ -23,10 +23,11 @@ GameObject:
   - component: {fileID: 23825472973954842}
   - component: {fileID: 58676840704824510}
   - component: {fileID: 114783099065737612}
+  - component: {fileID: 114527703585208440}
   - component: {fileID: 50168115523584974}
   - component: {fileID: 114668860938022842}
   - component: {fileID: 114122070508373778}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bala
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -134,6 +135,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidad: 10
+--- !u!114 &114527703585208440
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1224323653460206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 437304f9f8ec8f04ba5ffeafe9208773, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cantidadDanio: 2
 --- !u!114 &114668860938022842
 MonoBehaviour:
   m_ObjectHideFlags: 1

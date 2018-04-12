@@ -12,7 +12,7 @@ public class ataque : MonoBehaviour {
 
 	public bool saltobomba = false;
 
-	public float ataqueTiempAct, tiempoCDAtack, impulsoy = 0f, cañonCD;//tiempo que esta el collider activo
+	public float ataqueTiempAct, tiempoCDAtack, impulsoy = 0f, cañonCD, tiempoDisparo;//tiempo que esta el collider activo
 	float tiempoAtaque = 0;
 
 	public Collider2D triggerAtaque;
@@ -49,13 +49,9 @@ public class ataque : MonoBehaviour {
 		}
 		if (Input.GetKeyDown ("k") && !shooting && gameObject.GetComponent <RayCast>().DetectaPlataforma()) {
 			playeranim.SetTrigger ("Disparo");
-
 			disparando = true;
-			shooting = true;
-			GameObject bala = Instantiate (balaprefab);
-			bala.transform.position = spawner.transform.position;
-			Invoke ("DesactivaCañon", cañonCD);
-			Invoke ("AnimDisparo", 1f);
+			Invoke ("CrearBala", tiempoDisparo);
+
 		}
 
 		if (pc.isJumping && Input.GetKey ("s") && Input.GetKeyDown ("j")) {
@@ -91,4 +87,11 @@ public class ataque : MonoBehaviour {
 		return disparando;
 	}
 
+	void CrearBala(){
+		shooting = true;
+		GameObject bala = Instantiate (balaprefab);
+		bala.transform.position = spawner.transform.position;
+		Invoke ("DesactivaCañon", cañonCD);
+		Invoke ("AnimDisparo", 1f);
+	}
 }

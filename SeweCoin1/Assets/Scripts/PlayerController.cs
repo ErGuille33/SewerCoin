@@ -36,6 +36,7 @@ public class PlayerController : MonoBehaviour {
 		animor.SetFloat ("Salto", rb.velocity.y);
 		if (gameObject.GetComponent<ataque> ().Atacando ())
 			rb.velocity = new Vector2 (0, rb.velocity.y);
+		animor.SetInteger ("Vida", salud);
 		MovimientoLateral ();
 		Salto ();
 		if (salud <= 0)
@@ -90,7 +91,7 @@ public class PlayerController : MonoBehaviour {
 
 	void Death () {
 		print ("muerto");
-		SceneManager.LoadScene ("Pruebas");
+		SceneManager.LoadScene ("Nivel1");
 	}
 
 	public void QuitaVida(int cantDanio){
