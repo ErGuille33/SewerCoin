@@ -11,6 +11,8 @@ TagManager:
   - tapa
   - gotero
   - Caca
+  - HealthUp
+  - LifeUp
   layers:
   - Default
   - TransparentFX

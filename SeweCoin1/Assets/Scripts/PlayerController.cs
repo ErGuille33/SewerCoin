@@ -42,6 +42,7 @@ public class PlayerController : MonoBehaviour {
 		if (salud <= 0)
 			Death ();
 	}
+		
 
 	void MovimientoLateral(){
 		float move = Input.GetAxis("Horizontal");
@@ -74,6 +75,15 @@ public class PlayerController : MonoBehaviour {
 		}
 	}
 	private void OnCollisionEnter2D (Collision2D col) {
+
+		if (col.gameObject.tag == "LifeUp") {
+			vidas++;
+		}
+
+		if (col.gameObject.tag == "HealthUp") {
+			if (salud != maxsalud) salud++;
+			print (salud);
+		}
 
 		if (col.gameObject.layer == 0) {				//comprobar si esta en suelo
 			noSaltoBomba ();
