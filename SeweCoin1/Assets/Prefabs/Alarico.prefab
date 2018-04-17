@@ -185,7 +185,7 @@ Animator:
   m_GameObject: {fileID: 1163932200657432}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 3937d13882f9c554ea27b0cb6cd90204, type: 2}
+  m_Controller: {fileID: 9100000, guid: 9a5c20407f517064eb248e1b6f39befc, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -255,6 +255,7 @@ MonoBehaviour:
   tiempoCDAtack: 1
   impulsoy: 2000
   "ca\xF1onCD": 4
+  tiempoDisparo: 0
   triggerAtaque: {fileID: 61453197482527668}
   balaprefab: {fileID: 1224323653460206, guid: fb651f2443ef52948adbe8a3049154df, type: 2}
   spawner: {fileID: 1795383376197816}
