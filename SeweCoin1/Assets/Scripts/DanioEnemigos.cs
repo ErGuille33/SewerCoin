@@ -4,13 +4,10 @@ using UnityEngine;
 
 public class DanioEnemigos : MonoBehaviour {
 
-	public int cantDanio, knockbackx, knockbacky;
+	public int cantDanio;
 	Rigidbody2D rb;
-	public GameObject player;
+	public float knockbackx, knockbacky;
 
-	void Awake () {
-		rb = player.GetComponent<Rigidbody2D> ();
-	}
 
 	void OnCollisionEnter2D(Collision2D col){
 		if (col.gameObject.tag == "Player") {
@@ -20,6 +17,7 @@ public class DanioEnemigos : MonoBehaviour {
 	}
 
 	void OnTriggerEnter2D(Collider2D col){
+		rb = col.GetComponent<Rigidbody2D> ();
 		if (col.gameObject.tag == "Player") {
 			if (gameObject.transform.position.x > col.gameObject.transform.position.x)
 				rb.AddForce (new Vector2 (-knockbackx, knockbacky), ForceMode2D.Impulse);
