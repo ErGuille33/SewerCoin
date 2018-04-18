@@ -16,14 +16,8 @@ public class Disparo : MonoBehaviour {
 		else
 			rb.velocity = new Vector3 (-velocidad, 0f, 0f);
 	}
-
-	void Update () {
-	}
-
+		
 	void OnTriggerEnter2D (Collider2D col){
-		/*if(col.gameObject.tag == "enemigo"){
-			Destroy (col.gameObject);
-		}*/
 		Destroy(this.gameObject);
 	}
 }

@@ -5,6 +5,11 @@ using UnityEngine;
 public class VidaEnemigos : MonoBehaviour {
 
 	public int vida;
+	public bool dead;
+
+	void Awake () {
+		dead = false;
+	}
 
 	public void Quitavida(int daño){
 		vida = vida - daño;
@@ -12,6 +17,8 @@ public class VidaEnemigos : MonoBehaviour {
 			if (gameObject.tag == "Caca") 
 				gameObject.GetComponent<CacaMov> ().Dividir();
 			Destroy (gameObject);
+			dead = true;
+			print (dead);
 
 		}
 	}

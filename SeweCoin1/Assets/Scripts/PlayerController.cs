@@ -10,7 +10,8 @@ public class PlayerController : MonoBehaviour {
 	Rigidbody2D rb;
 	Transform tr;
 	public int maxsalud = 3, salud, vidas;
-	bool damaged;
+	bool damaged, parar = false;
+	public string escena;
 	public float  speed;
 	public float jumpHeight;
 	float move;
@@ -37,8 +38,10 @@ public class PlayerController : MonoBehaviour {
 		if (gameObject.GetComponent<ataque> ().Atacando ())
 			rb.velocity = new Vector2 (0, rb.velocity.y);
 		animor.SetInteger ("Vida", salud);
-		MovimientoLateral ();
-		Salto ();
+		if (!parar) {
+			MovimientoLateral ();
+			Salto ();
+		}
 		if (salud <= 0)
 			Death ();
 	}
@@ -101,7 +104,7 @@ public class PlayerController : MonoBehaviour {
 
 	void Death () {
 		print ("muerto");
-		SceneManager.LoadScene ("Nivel1");
+		SceneManager.LoadScene (escena);
 	}
 
 	public void QuitaVida(int cantDanio){
@@ -112,7 +115,18 @@ public class PlayerController : MonoBehaviour {
 			Invoke ("Danhado", 3);				//espera 3 segundos antes de volver a hacer daño
 		}
 	}
-		
+
+	public void CancelaMov(float tiempo){
+		if (!parar) {
+			Invoke ("PuedeMov", tiempo);
+			parar = true;
+		}
+	}
+
+	void PuedeMov(){
+		if (parar)
+			parar = false;
+	}
 
 
 }
