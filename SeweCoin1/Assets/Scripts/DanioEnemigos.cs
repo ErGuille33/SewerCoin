@@ -19,6 +19,7 @@ public class DanioEnemigos : MonoBehaviour {
 	void OnTriggerEnter2D(Collider2D col){
 		rb = col.GetComponent<Rigidbody2D> ();
 		if (col.gameObject.tag == "Player") {
+			col.GetComponent<PlayerController> ().CancelaMov(0.9f);
 			if (gameObject.transform.position.x > col.gameObject.transform.position.x)
 				col.GetComponent<Rigidbody2D> ().velocity = new Vector2 (-knockbackx, knockbacky);
 			else
@@ -31,4 +32,5 @@ public class DanioEnemigos : MonoBehaviour {
 		if (col.gameObject.tag == "Player")
 			col.gameObject.GetComponent<PlayerController> ().QuitaVida (cantDanio);
 	}
+					
 }

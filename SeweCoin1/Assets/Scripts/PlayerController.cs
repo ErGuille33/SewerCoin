@@ -123,7 +123,7 @@ public class PlayerController : MonoBehaviour {
 		}
 	}
 
-	void PuedeMov(){
+	public void PuedeMov(){
 		if (parar)
 			parar = false;
 	}
