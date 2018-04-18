@@ -5,13 +5,13 @@ using UnityEngine;
 public class Jhonny : MonoBehaviour {
 
 	public GameObject ratas, balas;
-	bool disparo = true, izquierda = false, visible = false;
-	void OnBecameVisible(){
+	bool disparo = true, izquierda = false;
+	/*void OnBecameVisible(){
 		if (!visible) {
 			Invoke ("Disparo", 1f);
 			visible = true;
 		}
-	}
+	}*/
 
 	void InvocarRatas(){
 		int cont = 0;
@@ -75,4 +75,17 @@ public class Jhonny : MonoBehaviour {
 			Mover2();
 		}
 	}
+
+	public void CancelaDisparo(float tiempo){
+		if (disparo) {
+			Invoke ("PuedeMov", tiempo-0.5f);
+			disparo = false;
+		}
+	}
+
+	void PuedeMov(){
+		Disparo ();
+		disparo = true;
+	}
+
 }

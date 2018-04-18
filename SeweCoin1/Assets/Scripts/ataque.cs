@@ -10,7 +10,7 @@ public class ataque : MonoBehaviour {
 
 	bool atacking = false, atackingAux = false, shooting = false, disparando;//atackingAux sirve para poder poner cd al ataque y no spamearlo.
 
-	public bool saltobomba = false;
+	public bool saltobomba = false, disparo;
 
 	public float ataqueTiempAct, tiempoCDAtack, impulsoy = 0f, cañonCD, tiempoDisparo;//tiempo que esta el collider activo
 	float tiempoAtaque = 0;
@@ -47,7 +47,7 @@ public class ataque : MonoBehaviour {
 				Invoke ("DesactivaAtaque", tiempoCDAtack);
 			}
 		}
-		if (Input.GetKeyDown ("k") && !shooting && gameObject.GetComponent <RayCast>().DetectaPlataforma()) {
+		if (Input.GetKeyDown ("k") && !shooting && gameObject.GetComponent <RayCast>().DetectaPlataforma() && disparo) {
 			shooting = true;
 			playeranim.SetTrigger ("Disparo");
 			disparando = true;
