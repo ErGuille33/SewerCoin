@@ -20,9 +20,9 @@ public class DanioEnemigos : MonoBehaviour {
 		rb = col.GetComponent<Rigidbody2D> ();
 		if (col.gameObject.tag == "Player") {
 			if (gameObject.transform.position.x > col.gameObject.transform.position.x)
-				rb.AddForce (new Vector2 (-knockbackx, knockbacky), ForceMode2D.Impulse);
+				col.GetComponent<Rigidbody2D> ().velocity = new Vector2 (-knockbackx, knockbacky);
 			else
-				rb.AddForce (new Vector2 (knockbackx, knockbacky), ForceMode2D.Impulse);
+				col.GetComponent<Rigidbody2D> ().velocity = new Vector2 (knockbackx, knockbacky);
 			col.gameObject.GetComponent<PlayerController> ().QuitaVida (cantDanio);
 		}
 	}
