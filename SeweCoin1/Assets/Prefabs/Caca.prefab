@@ -248,5 +248,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cantDanio: 1
-  knockbackx: 0
-  knockbacky: 0
+  knockbackx: 10
+  knockbacky: 10
