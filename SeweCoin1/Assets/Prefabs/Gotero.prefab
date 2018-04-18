@@ -111,4 +111,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnTime: 2
-  gotaPrefab: {fileID: 0}
+  gotaPrefab: {fileID: 1986256165422926, guid: c2cd2511505468446839ab0d624a4986, type: 2}

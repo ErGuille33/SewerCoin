@@ -25,7 +25,7 @@ GameObject:
   - component: {fileID: 50737407863777648}
   - component: {fileID: 114816053147266676}
   - component: {fileID: 114986933943181152}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Gota
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -146,4 +146,3 @@ MonoBehaviour:
   cantDanio: 1
   knockbackx: 0
   knockbacky: 0
-  player: {fileID: 0}
