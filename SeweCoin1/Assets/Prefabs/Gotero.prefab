@@ -21,7 +21,6 @@ GameObject:
   - component: {fileID: 4245953638558106}
   - component: {fileID: 33527709437053554}
   - component: {fileID: 23572715365631062}
-  - component: {fileID: 70041864264478004}
   - component: {fileID: 114023425325142002}
   m_Layer: 0
   m_Name: Gotero
@@ -36,9 +35,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1387345467688634}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.73, y: -1.01, z: 0.29880357}
-  m_LocalScale: {x: 0.44687495, y: 0.48874947, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 21.26, y: -1.08, z: 0}
+  m_LocalScale: {x: 1.076322, y: 0.42429432, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -84,21 +83,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1387345467688634}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
---- !u!70 &70041864264478004
-CapsuleCollider2D:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1387345467688634}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.00000005960465, y: 0}
-  m_Size: {x: 1.0000002, y: 1.9999999}
-  m_Direction: 0
 --- !u!114 &114023425325142002
 MonoBehaviour:
   m_ObjectHideFlags: 1
