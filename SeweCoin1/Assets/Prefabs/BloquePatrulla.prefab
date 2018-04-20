@@ -20,7 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4438868097727508}
   - component: {fileID: 61214122569505574}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: BloquePatrulla
   m_TagString: bloquePatrulla
   m_Icon: {fileID: 0}

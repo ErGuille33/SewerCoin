@@ -5,11 +5,16 @@ using UnityEngine;
 public class Switches : MonoBehaviour {
 
 	public Collider2D ataque;
+	public float tiempo;
 
 	public GameObject puerta;
 
 	void OnTriggerEnter2D (Collider2D col) {
 		if (col == ataque)
-			Destroy (puerta);
+			Invoke ("Destroy", tiempo);
+	}
+
+	void Destroy(){
+		Destroy (puerta);
 	}
 }

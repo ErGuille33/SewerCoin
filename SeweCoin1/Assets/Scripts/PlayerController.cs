@@ -12,11 +12,11 @@ public class PlayerController : MonoBehaviour {
 	public int maxsalud = 3, salud, vidas;
 	bool damaged, parar = false;
 	public string escena;
-	public float  speed;
-	public float jumpHeight;
+	public float  speed, jumpHeight, tempInvencible;
 	float move;
 	public bool isJumping = false;
 	bool facingRight = true;
+
 
 
 	void Awake () {
@@ -114,7 +114,7 @@ public class PlayerController : MonoBehaviour {
 			salud = GameManager.instance.SumaSalud (-cantDanio); 
 			damaged = true;
 			print (salud);
-			Invoke ("Danhado", 3);				//espera 3 segundos antes de volver a hacer daño
+			Invoke ("Danhado", tempInvencible);				//espera 3 segundos antes de volver a hacer daño
 		}
 	}
 
