@@ -6,6 +6,7 @@ public class GameManager : MonoBehaviour {
 
 	public static GameManager instance = null;
 	bool pause;
+	int salud = 3, vida = 3;
 
 	//Awake is always called before any Start functions
 	void Awake()
@@ -36,5 +37,15 @@ public class GameManager : MonoBehaviour {
 			Time.timeScale = 1;
 		}
 		
+	}
+
+	public int SumaSalud(int numero){
+		salud += numero;
+		return salud;
+	}
+
+	public int SumaVida(int numero){
+		vida += numero;
+		return vida;
 	}
 }

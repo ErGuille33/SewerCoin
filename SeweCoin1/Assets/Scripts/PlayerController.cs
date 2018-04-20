@@ -71,20 +71,22 @@ public class PlayerController : MonoBehaviour {
 	}
 
 	void Salto(){
-		if (gameObject.GetComponent <RayCast>().DetectaPlataforma()){
+		if (gameObject.GetComponent <RayCast> ().DetectaPlataforma ()) {
+			isJumping = true;
 			if (Input.GetKeyDown ("space")) { 
 				rb.AddForce (Vector2.up * jumpHeight);
 			}
-		}
+		} else
+			isJumping = false;
 	}
 	private void OnCollisionEnter2D (Collision2D col) {
 
 		if (col.gameObject.tag == "LifeUp") {
-			vidas++;
+			vidas = GameManager.instance.SumaVida(1);
 		}
 
 		if (col.gameObject.tag == "HealthUp") {
-			if (salud != maxsalud) salud++;
+			if (salud != maxsalud) salud = GameManager.instance.SumaSalud(1);
 			print (salud);
 		}
 
@@ -109,7 +111,7 @@ public class PlayerController : MonoBehaviour {
 
 	public void QuitaVida(int cantDanio){
 		if (!damaged || cantDanio >= 3) {
-			salud -= cantDanio; 
+			salud = GameManager.instance.SumaSalud (-cantDanio); 
 			damaged = true;
 			print (salud);
 			Invoke ("Danhado", 3);				//espera 3 segundos antes de volver a hacer daño

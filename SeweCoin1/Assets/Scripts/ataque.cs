@@ -36,6 +36,7 @@ public class ataque : MonoBehaviour {
 			tiempoAtaque = ataqueTiempAct;
 			triggerAtaque.enabled = true;
 
+
 		}
 
 		if (atacking && atackingAux) {
@@ -54,8 +55,8 @@ public class ataque : MonoBehaviour {
 			Invoke ("CrearBala", tiempoDisparo);
 
 		}
-
-		if (pc.isJumping && Input.GetKey ("s") && Input.GetKeyDown ("j")) {
+		print (pc.isJumping);
+ 		if (!pc.isJumping && Input.GetKey ("s") && Input.GetKeyDown ("j")) {
 			rb.AddForce (new Vector2 (0f, -impulsoy), ForceMode2D.Impulse);
 			saltobomba = true;
 		}
