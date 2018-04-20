@@ -25,7 +25,6 @@ GameObject:
   - component: {fileID: 61352958675750618}
   - component: {fileID: 114043616313404220}
   - component: {fileID: 114954111511776378}
-  - component: {fileID: 114462473251190654}
   m_Layer: 9
   m_Name: Rato
   m_TagString: Untagged
@@ -221,18 +220,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vida: 1
---- !u!114 &114462473251190654
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1901892120670698}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5399a3c615688c144be318519c1a63ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cantDanio: 1
+  dead: 0
 --- !u!114 &114772860012772072
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -245,6 +233,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cantDanio: 1
+  knockbackx: 4
+  knockbacky: 4
 --- !u!114 &114954111511776378
 MonoBehaviour:
   m_ObjectHideFlags: 1
