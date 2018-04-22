@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour {
 
@@ -16,12 +17,14 @@ public class PlayerController : MonoBehaviour {
 	float move;
 	public bool isJumping = false;
 	bool facingRight = true;
+	Text vidasUI;
 
 
 
 	void Awake () {
 		salud = maxsalud;
-		vidas = 3;
+		//vidas = 3;
+		vidasUI = GameObject.Find ("VidasUI").GetComponent<Text>();
 	}
 
 
@@ -42,7 +45,7 @@ public class PlayerController : MonoBehaviour {
 			MovimientoLateral ();
 			Salto ();
 		}
-		if (salud <= 0)
+		if (salud == 0)
 			Death ();
 	}
 		
@@ -106,7 +109,14 @@ public class PlayerController : MonoBehaviour {
 
 	void Death () {
 		print ("muerto");
-		SceneManager.LoadScene (escena);
+		salud = -1;
+		vidas = GameManager.instance.SumaVida (-1);
+		vidasUI.enabled = true;
+		vidasUI.text = vidas  + " vidas";
+		parar = false;
+		animor.SetFloat ("Speed", 0);
+		CancelaMov (2);
+		Invoke ("CambiarEscena", 2);
 	}
 
 	public void QuitaVida(int cantDanio){
@@ -130,5 +140,9 @@ public class PlayerController : MonoBehaviour {
 			parar = false;
 	}
 
-
+	void CambiarEscena(){
+		vidasUI.enabled = false;
+		salud = maxsalud;
+		SceneManager.LoadScene (escena);
+	}
 }

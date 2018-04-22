@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311992, g: 0.38074034, b: 0.35872713, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -166,6 +166,31 @@ Prefab:
         type: 2}
       propertyPath: escena
       value: Boss1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114663550635480986, guid: 9285882c3fe778048a60b08407a1ec32,
+        type: 2}
+      propertyPath: distanciaMuro
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114663550635480986, guid: 9285882c3fe778048a60b08407a1ec32,
+        type: 2}
+      propertyPath: distanciaPlataforma
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114232048780291462, guid: 9285882c3fe778048a60b08407a1ec32,
+        type: 2}
+      propertyPath: salud
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 114232048780291462, guid: 9285882c3fe778048a60b08407a1ec32,
+        type: 2}
+      propertyPath: vidas
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 114232048780291462, guid: 9285882c3fe778048a60b08407a1ec32,
+        type: 2}
+      propertyPath: tempInvencible
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9285882c3fe778048a60b08407a1ec32, type: 2}
@@ -394,6 +419,48 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jhonny: {fileID: 2015953880}
   mover: 2
+--- !u!1001 &676782526
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4258402315021952, guid: 484c2af0730db0c468409a27213859c5, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 33.732525
+      objectReference: {fileID: 0}
+    - target: {fileID: 4258402315021952, guid: 484c2af0730db0c468409a27213859c5, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -10.166874
+      objectReference: {fileID: 0}
+    - target: {fileID: 4258402315021952, guid: 484c2af0730db0c468409a27213859c5, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4258402315021952, guid: 484c2af0730db0c468409a27213859c5, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4258402315021952, guid: 484c2af0730db0c468409a27213859c5, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4258402315021952, guid: 484c2af0730db0c468409a27213859c5, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4258402315021952, guid: 484c2af0730db0c468409a27213859c5, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4258402315021952, guid: 484c2af0730db0c468409a27213859c5, type: 2}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 484c2af0730db0c468409a27213859c5, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &716964551
 GameObject:
   m_ObjectHideFlags: 0
