@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour {
 
@@ -29,6 +30,11 @@ public class GameManager : MonoBehaviour {
 	}
 
 	void Update(){
+		/* Activar esta parte cuando haya una escena menu
+		if (vida <= 0)
+			SceneManager.LoadScene ();*/
+		if (salud == 0)
+			salud = 3;
 		if (Input.GetKeyDown ("p") && pause == false) {
 			pause = true;
 			Time.timeScale = 0;
@@ -48,4 +54,6 @@ public class GameManager : MonoBehaviour {
 		vida += numero;
 		return vida;
 	}
+
+
 }

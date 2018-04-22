@@ -25,7 +25,7 @@ GameObject:
   - component: {fileID: 95438616222774300}
   - component: {fileID: 114892747531844836}
   - component: {fileID: 114232048780291462}
-  - component: {fileID: 114663550635480986}
+  - component: {fileID: 114152948110054306}
   m_Layer: 8
   m_Name: Alarico
   m_TagString: Player
@@ -85,8 +85,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1163932200657432}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.73, y: -3.02, z: 0}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_LocalPosition: {x: 36.83, y: 37, z: 0}
+  m_LocalScale: {x: 0.72187483, y: 0.7031249, z: 1}
   m_Children:
   - {fileID: 4938866696367972}
   - {fileID: 4062614951596818}
@@ -149,7 +149,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.66, y: 4}
+  m_Size: {x: 1.66, y: 3.7}
   m_EdgeRadius: 0
 --- !u!61 &61453197482527668
 BoxCollider2D:
@@ -193,6 +193,24 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114152948110054306
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1163932200657432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f607a904d95724ba0f5848f937e6b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  capas:
+    serializedVersion: 2
+    m_Bits: 1
+  distanciaMuro: 0.5
+  distanciaPlataforma: 1
+  angleMuro: 0
+  anglePlataforma: 0
 --- !u!114 &114232048780291462
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -207,8 +225,10 @@ MonoBehaviour:
   maxsalud: 3
   salud: 0
   vidas: 0
+  escena: Nivel1
   speed: 10
   jumpHeight: 45000
+  tempInvencible: 2
   isJumping: 0
 --- !u!114 &114649939729204796
 MonoBehaviour:
@@ -222,23 +242,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cantidadDanio: 1
---- !u!114 &114663550635480986
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1163932200657432}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e8f607a904d95724ba0f5848f937e6b5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  capas:
-    serializedVersion: 2
-    m_Bits: 1
-  distancia: 1
-  angleMuro: 180
-  anglePlataforma: 0
 --- !u!114 &114892747531844836
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -251,6 +254,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   saltobomba: 0
+  disparo: 0
   ataqueTiempAct: 0.5
   tiempoCDAtack: 1
   impulsoy: 2000
