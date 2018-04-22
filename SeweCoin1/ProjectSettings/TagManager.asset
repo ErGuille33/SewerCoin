@@ -13,6 +13,7 @@ TagManager:
   - Caca
   - HealthUp
   - LifeUp
+  - award
   layers:
   - Default
   - TransparentFX

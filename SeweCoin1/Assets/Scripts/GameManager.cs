@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour {
 	public static GameManager instance = null;
 	bool pause;
 	int salud = 3, vida = 3;
+	bool[] coleccionables = new bool [10];
 
 	//Awake is always called before any Start functions
 	void Awake()
@@ -26,6 +27,10 @@ public class GameManager : MonoBehaviour {
 
 		//Sets this to not be destroyed when reloading scene
 		DontDestroyOnLoad(gameObject);
+
+
+		for (int i = 0; i < 10; i++)		//declarar todos los awards a false
+			coleccionables [i] = false;
 
 	}
 
@@ -54,6 +59,8 @@ public class GameManager : MonoBehaviour {
 		vida += numero;
 		return vida;
 	}
-
-
+		
+	public void ActivaAward (int e) {
+		coleccionables [e] = true;
+	}
 }
