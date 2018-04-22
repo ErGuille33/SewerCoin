@@ -24,9 +24,9 @@ GameObject:
   - component: {fileID: 61684274041920708}
   - component: {fileID: 114529017508055370}
   - component: {fileID: 114855494798899916}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Cajas
-  m_TagString: Untagged
+  m_TagString: Caja
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40,7 +40,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4439260272875214}
   - component: {fileID: 212514070250302082}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}

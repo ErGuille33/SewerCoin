@@ -114,6 +114,7 @@ public class PlayerController : MonoBehaviour {
 		vidasUI.enabled = true;
 		vidasUI.text = vidas  + " vidas";
 		parar = false;
+		animor.SetFloat ("Speed", 0);
 		CancelaMov (2);
 		Invoke ("CambiarEscena", 2);
 	}
