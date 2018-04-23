@@ -58,7 +58,7 @@ Transform:
   m_GameObject: {fileID: 1573091625859826}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 14.98, y: 3.37, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4850682600342976}
   m_Father: {fileID: 0}
@@ -222,7 +222,6 @@ MonoBehaviour:
   cantDanio: 1
   knockbackx: 0
   knockbacky: 0
-  player: {fileID: 0}
 --- !u!114 &114487165594154364
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -251,3 +250,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vida: 1
+  dead: 0

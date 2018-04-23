@@ -24,11 +24,13 @@ public class CameraController : MonoBehaviour {
 	void FixedUpdate () {
 		 posX = Mathf.SmoothDamp (transform.position.x, player.transform.position.x, ref velocity.x, smoothTimeX);
 		 transform.position = new Vector3 (posX, posY, transform.position.z);
+		posY = Mathf.SmoothDamp (transform.position.y, player.transform.position.y, ref velocity.y, smoothTimeY);
+		transform.position = new Vector3 (posX, posY, transform.position.z);
 
 	}
 
 
-	void Update(){
+	/*void Update(){
 		Vector3 viewPosition = cam.WorldToViewportPoint(player.transform.position);
 		if (viewPosition.y > 1f) {
 			posY = posY + alturaCamara;
@@ -38,6 +40,6 @@ public class CameraController : MonoBehaviour {
 			posY = posY - alturaCamara;
 			transform.position = new Vector3 (transform.position.x, posY, transform.position.z);
 		}// move down
-	}
+	}*/
 	}
 
