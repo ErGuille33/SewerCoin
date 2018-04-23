@@ -10,6 +10,7 @@ public class Cocodrilo : MonoBehaviour {
 	public Collider2D Trigger;
 	public enum estado { desactivado, activado };
 	estado est;
+	Animator cocoAnim;
 
 	void Awake () {
 		est = estado.desactivado;
@@ -17,6 +18,7 @@ public class Cocodrilo : MonoBehaviour {
 		Trigger.enabled = false;
 		preAtaq = tempA;
 		posAtaq = tempB;
+		cocoAnim = GetComponentInChildren<Animator>();
 
 	}
 
@@ -24,6 +26,7 @@ public class Cocodrilo : MonoBehaviour {
 
 		switch (est) {
 		case estado.desactivado:
+			cocoAnim.SetTrigger ("Desactivado");
 			Trigger.enabled = false;
 			if (sobreCoco == true) {
 				if (preAtaq > 0)
@@ -35,6 +38,7 @@ public class Cocodrilo : MonoBehaviour {
 			}
 			break;
 		case estado.activado:
+			cocoAnim.SetTrigger ("Activado");
 			Trigger.enabled = true;
 			if (posAtaq > 0)
 				posAtaq -= Time.deltaTime;
