@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour {
 
 	public static GameManager instance = null;
 	bool pause;
+	string escenaS;
 	int salud = 3, vida = 3;
 	bool[] coleccionables = new bool [10];
 
@@ -38,7 +39,7 @@ public class GameManager : MonoBehaviour {
 		/* Activar esta parte cuando haya una escena menu
 		if (vida <= 0)
 			SceneManager.LoadScene ();*/
-		if (salud == 0)
+		if (salud <= 0)
 			salud = 3;
 		if (Input.GetKeyDown ("p") && pause == false) {
 			pause = true;
@@ -65,6 +66,13 @@ public class GameManager : MonoBehaviour {
 	}
 
 	public void CargaEscena (string escena){
-		SceneManager.LoadScene (escena);
+		SceneManager.LoadScene ("Vida");
+		escenaS = escena;
+		Invoke ("CargaEscena1", 2);
+
+	}
+
+	void CargaEscena1(){
+		SceneManager.LoadScene (escenaS);
 	}
 }
