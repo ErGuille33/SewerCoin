@@ -111,12 +111,14 @@ public class PlayerController : MonoBehaviour {
 		print ("muerto");
 		salud = -1;
 		vidas = GameManager.instance.SumaVida (-1);
-		vidasUI.enabled = true;
-		vidasUI.text = vidas  + " vidas";
-		parar = false;
 		animor.SetFloat ("Speed", 0);
-		CancelaMov (2);
-		Invoke ("CambiarEscena", 0);
+		if (vidas <= 0) {
+			SceneManager.LoadScene ("MenuPrincipal");
+			vidas = GameManager.instance.SumaVida (3);
+			salud = 3;
+		}
+		else 
+			GameManager.instance.CargaEscenaVidas (escena);
 	}
 
 	public void QuitaVida(int cantDanio){
@@ -138,11 +140,5 @@ public class PlayerController : MonoBehaviour {
 	public void PuedeMov(){
 		if (parar)
 			parar = false;
-	}
-
-	void CambiarEscena(){
-		vidasUI.enabled = false;
-		salud = maxsalud;
-		SceneManager.LoadScene (escena);
 	}
 }

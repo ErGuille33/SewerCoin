@@ -43,9 +43,6 @@ public class GameManager : MonoBehaviour {
 	}
 
 	void Update(){
-		/* Activar esta parte cuando haya una escena menu
-		if (vida <= 0)
-			SceneManager.LoadScene ();*/
 		if (salud <= 0)
 			salud = 3;
 		if (Input.GetKeyDown ("p") && pause == false) {
@@ -76,14 +73,14 @@ public class GameManager : MonoBehaviour {
 		coleccionables [e] = true;
 	}
 
-	public void CargaEscena (string escena){
-		SceneManager.LoadScene ("Vida");
+	public void CargaEscenaVidas (string escena){
+		SceneManager.LoadScene ("Vidas");
 		escenaS = escena;
-		Invoke ("CargaEscena1", 2);
+		Invoke ("CargaEscena", 2);
 
 	}
 
-	void CargaEscena1(){
+	public void CargaEscena(){
 		SceneManager.LoadScene (escenaS);
 	}
 }
