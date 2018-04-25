@@ -55,7 +55,6 @@ public class ataque : MonoBehaviour {
 			Invoke ("CrearBala", tiempoDisparo);
 
 		}
-		print (pc.isJumping);
  		if (!pc.isJumping && Input.GetKey ("s") && Input.GetKeyDown ("j")) {
 			rb.AddForce (new Vector2 (0f, -impulsoy), ForceMode2D.Impulse);
 			saltobomba = true;

@@ -72,7 +72,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1795383376197816}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.19, y: 0.73, z: 0}
+  m_LocalPosition: {x: 1.19, y: 0.29, z: 0}
   m_LocalScale: {x: 1.3391333, y: 2.7198932, z: 1}
   m_Children: []
   m_Father: {fileID: 4144952283983422}
@@ -85,7 +85,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1163932200657432}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -37.6, y: 100.7, z: 0}
+  m_LocalPosition: {x: -134.92, y: 29.1, z: 0}
   m_LocalScale: {x: 0.72187483, y: 0.7031249, z: 1}
   m_Children:
   - {fileID: 4938866696367972}
@@ -223,9 +223,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxsalud: 3
-  salud: 0
+  salud: 3
   vidas: 0
-  escena: Nivel1
+  escena: Nivel2
   speed: 10
   jumpHeight: 45000
   tempInvencible: 2
@@ -254,12 +254,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   saltobomba: 0
-  disparo: 0
+  disparo: 1
   ataqueTiempAct: 0.5
   tiempoCDAtack: 1
   impulsoy: 2000
   "ca\xF1onCD": 4
-  tiempoDisparo: 0
+  tiempoDisparo: 0.4
   triggerAtaque: {fileID: 61453197482527668}
   balaprefab: {fileID: 1224323653460206, guid: fb651f2443ef52948adbe8a3049154df, type: 2}
   spawner: {fileID: 1795383376197816}

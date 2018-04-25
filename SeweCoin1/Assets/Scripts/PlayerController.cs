@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour {
 			MovimientoLateral ();
 			Salto ();
 		}
-		if (salud == 0)
+		if (salud <= 0)
 			Death ();
 	}
 		
@@ -116,7 +116,7 @@ public class PlayerController : MonoBehaviour {
 		parar = false;
 		animor.SetFloat ("Speed", 0);
 		CancelaMov (2);
-		Invoke ("CambiarEscena", 2);
+		Invoke ("CambiarEscena", 0);
 	}
 
 	public void QuitaVida(int cantDanio){

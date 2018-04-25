@@ -8,8 +8,11 @@ public class GameManager : MonoBehaviour {
 	public static GameManager instance = null;
 	bool pause;
 	string escenaS;
+	public bool timeractivado;
 	int salud = 3, vida = 3;
 	bool[] coleccionables = new bool [10];
+	float timer;
+	public int enemigosmatados;
 
 	//Awake is always called before any Start functions
 	void Awake()
@@ -33,6 +36,10 @@ public class GameManager : MonoBehaviour {
 		for (int i = 0; i < 10; i++)		//declarar todos los awards a false
 			coleccionables [i] = false;
 
+		timeractivado = false;
+		enemigosmatados = 0;
+
+		timer = 0f;
 	}
 
 	void Update(){
@@ -47,6 +54,10 @@ public class GameManager : MonoBehaviour {
 		} else if (Input.GetKeyDown ("p") && pause == true) {
 			pause = false;
 			Time.timeScale = 1;
+		}
+
+		if (timeractivado == true) {
+			timer += Time.deltaTime;
 		}
 		
 	}
