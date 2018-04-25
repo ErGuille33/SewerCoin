@@ -26,19 +26,21 @@ public class Cocodrilo : MonoBehaviour {
 
 		switch (est) {
 		case estado.desactivado:
-			cocoAnim.SetTrigger ("Desactivado");
+			cocoAnim.SetBool ("Activa2",false);
 			Trigger.enabled = false;
 			if (sobreCoco == true) {
 				if (preAtaq > 0)
 					preAtaq -= Time.deltaTime;
 				else {
 					print ("Activado");
-					est = estado.activado;
+					cocoAnim.SetBool ("Activa2",true);
+					Invoke ("ActivaTrigger",0.4f);
+
 				}
 			}
 			break;
 		case estado.activado:
-			cocoAnim.SetTrigger ("Activado");
+			//cocoAnim.SetTrigger ("Activado");
 			Trigger.enabled = true;
 			if (posAtaq > 0)
 				posAtaq -= Time.deltaTime;
@@ -58,5 +60,9 @@ public class Cocodrilo : MonoBehaviour {
 		if (col.gameObject.tag == "Player") {
 			sobreCoco = true;
 		}
+	}
+	private void ActivaTrigger()
+	{
+		est = estado.activado;
 	}
 }

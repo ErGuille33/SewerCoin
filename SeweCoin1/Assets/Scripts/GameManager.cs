@@ -45,7 +45,7 @@ public class GameManager : MonoBehaviour {
 		/* Activar esta parte cuando haya una escena menu
 		if (vida <= 0)
 			SceneManager.LoadScene ();*/
-		if (salud == 0)
+		if (salud <= 0)
 			salud = 3;
 		if (Input.GetKeyDown ("p") && pause == false) {
 			pause = true;
