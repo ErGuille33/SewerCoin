@@ -7,7 +7,6 @@ public class GameManager : MonoBehaviour {
 
 	public static GameManager instance = null;
 	bool pause;
-	string escenaS;
 	public bool timeractivado;
 	int salud = 3, vida = 3;
 	bool[] coleccionables = new bool [10];
@@ -73,14 +72,7 @@ public class GameManager : MonoBehaviour {
 		coleccionables [e] = true;
 	}
 
-	public void CargaEscenaVidas (string escena){
-		SceneManager.LoadScene ("Vidas");
-		escenaS = escena;
-		Invoke ("CargaEscena", 2);
-
-	}
-
-	public void CargaEscena(){
-		SceneManager.LoadScene (escenaS);
+	public void CargaEscena(string escena){
+		SceneManager.LoadScene (escena);
 	}
 }
