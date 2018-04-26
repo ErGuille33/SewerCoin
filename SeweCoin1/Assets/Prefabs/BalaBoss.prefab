@@ -146,7 +146,6 @@ MonoBehaviour:
   cantDanio: 1
   knockbackx: 0
   knockbacky: 0
-  player: {fileID: 1163932200657432, guid: 9285882c3fe778048a60b08407a1ec32, type: 2}
 --- !u!114 &114708246169708404
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -159,6 +158,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vida: 1
+  dead: 0
 --- !u!212 &212149186194260784
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -193,7 +193,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: fd42fe17049a23d4ba900ce15363f2e3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b20cba54821aa034d9cd09fea51282db, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

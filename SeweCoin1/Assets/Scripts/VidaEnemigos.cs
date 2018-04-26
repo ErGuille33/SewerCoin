@@ -16,6 +16,8 @@ public class VidaEnemigos : MonoBehaviour {
 		if (vida <= 0) {
 			if (gameObject.tag == "Caca") 
 				gameObject.GetComponent<CacaMov> ().Dividir();
+			if (gameObject.tag == "Caja")
+				gameObject.GetComponent<Cajas>().Spawn();
 			Destroy (gameObject);
 			GameManager.instance.enemigosmatados++;
 			dead = true;

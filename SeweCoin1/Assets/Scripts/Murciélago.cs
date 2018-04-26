@@ -46,9 +46,11 @@ public class Murciélago : MonoBehaviour {
 		case estado.movimiento:
 			Movement();
 			break;
-
 		}
-
+		if (speedX < 0)
+			gameObject.GetComponent<SpriteRenderer> ().flipX = false;
+		else
+			gameObject.GetComponent<SpriteRenderer> ().flipX = true;
 
 	}
 	void Movement(){
@@ -69,7 +71,7 @@ public class Murciélago : MonoBehaviour {
 	}
 	void OnCollisionEnter2D (Collision2D col) 
 	{
-		if (col.gameObject.tag == "pared") {
+		if (col.gameObject.layer == 0) {
 			speedX = -speedX;
 		}
 	}

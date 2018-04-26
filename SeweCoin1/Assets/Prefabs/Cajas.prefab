@@ -54,7 +54,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1557287175997038}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0050001144, y: -0.38, z: 0}
+  m_LocalPosition: {x: -0.0050001144, y: 0.96, z: 0}
   m_LocalScale: {x: 1.7535913, y: 1.7663165, z: 0}
   m_Children: []
   m_Father: {fileID: 4635732833241882}
@@ -67,8 +67,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1029116950724248}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.810685, y: -22.819677, z: 0.140625}
-  m_LocalScale: {x: 0.13086154, y: 1.4999999, z: 0}
+  m_LocalPosition: {x: 20.888165, y: -13.74, z: 0.488706}
+  m_LocalScale: {x: 1.5, y: 1.4999999, z: 0}
   m_Children:
   - {fileID: 4439260272875214}
   m_Father: {fileID: 0}
@@ -127,7 +127,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.3884183}
+  m_Offset: {x: 0, y: 0.95}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13dcba66c98c9f344b9e5e3725b2ae5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objeto: {fileID: 0}
+  objeto: {fileID: 1901892120670698, guid: 6bad7c0ea7841e84bbc9eb041befc645, type: 2}
 --- !u!114 &114855494798899916
 MonoBehaviour:
   m_ObjectHideFlags: 1

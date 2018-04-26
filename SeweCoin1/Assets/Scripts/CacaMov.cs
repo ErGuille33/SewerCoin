@@ -12,7 +12,6 @@ public class CacaMov : MonoBehaviour {
 	Transform jugador;
 
 	public GameObject caquitas;
-	//public int vida;
 	public float impulso, tiempo, separacioncaquitas;
 
 	void Start () {
@@ -25,8 +24,10 @@ public class CacaMov : MonoBehaviour {
 		Cambios ();
 		if (jugador.position.x - transform.position.x < 0) {
 			izquierda = true;
+			gameObject.GetComponent<SpriteRenderer> ().flipX = false;
 		} else {
 			izquierda = false;
+			gameObject.GetComponent<SpriteRenderer> ().flipX = true;
 		}
 	}
 

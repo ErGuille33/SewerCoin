@@ -42,8 +42,8 @@ public class GameManager : MonoBehaviour {
 	}
 
 	void Update(){
-		if (vida <= 0)
-			SceneManager.LoadScene ("MenuPrincipal");
+		/*if (vida <= 0)
+			SceneManager.LoadScene ("MenuPrincipal");*/
 		if (salud <= 0)
 			salud = 3;
 		if (timeractivado == true) {

@@ -17,13 +17,13 @@ public class PlayerController : MonoBehaviour {
 	float move;
 	public bool isJumping = false;
 	bool facingRight = true;
-	GameObject vidasUI;
+	GameObject vidasUIF;
 
 	void Awake () {
 		salud = maxsalud;
-		//vidas = 3;
-		vidasUI = GameObject.Find("VidasUIF");
-		vidasUI.SetActive (false);
+		vidasUIF = GameObject.Find("VidasUIF");
+		Invoke ("DesactivaVidaUI", 2);
+		CancelaMov (2f);
 	}
 
 
@@ -111,14 +111,8 @@ public class PlayerController : MonoBehaviour {
 		salud = 3;
 		vidas = GameManager.instance.SumaVida (-1);
 		animor.SetFloat ("Speed", 0);
-		vidasUI.SetActive (true);
-		Invoke ("DesactivaVidaUI", 2);
-		CancelaMov (2f);
-		if (vidas <= 0) {
-			SceneManager.LoadScene ("MenuPrincipal");
-			vidas = GameManager.instance.SumaVida (3);
-			salud = 3;
-		}
+		GameManager.instance.CargaEscena (escena);
+		vidasUIF.SetActive (true);
 	}
 
 	public void QuitaVida(int cantDanio){
@@ -131,10 +125,14 @@ public class PlayerController : MonoBehaviour {
 	}
 
 	void DesactivaVidaUI(){
-		vidasUI.SetActive (false);
+		vidasUIF.SetActive (false);
 		vidas = GameManager.instance.SumaVida (0);
 		salud = GameManager.instance.SumaSalud (0);
-		GameManager.instance.CargaEscena (escena);
+		if (vidas <= 0) {
+			SceneManager.LoadScene ("MenuPrincipal");
+			vidas = GameManager.instance.SumaVida (3);
+			salud = 3;
+		}
 	}
 
 	public void CancelaMov(float tiempo){
@@ -151,6 +149,6 @@ public class PlayerController : MonoBehaviour {
 
 	void CambiarEscena(){
 		salud = maxsalud;
-		SceneManager.LoadScene (escena);
+		GameManager.instance.CargaEscena (escena);
 	}
 }

@@ -1,14 +1,198 @@
 fileFormatVersion: 2
 guid: c38a4a9684d90054684c5407ab47783f
-timeCreated: 1523989876
+timeCreated: 1524763608
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_0
+    21300002: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_1
+    21300004: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_2
+    21300006: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_3
+    21300008: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_4
+    21300010: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_5
+    21300012: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_6
+    21300014: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_7
+    21300016: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_8
+    21300018: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_9
+    21300020: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_10
+    21300022: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_11
+    21300024: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_12
+    21300026: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_13
+    21300028: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_14
+    21300030: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_15
+    21300032: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_16
+    21300034: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_17
+    21300036: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_18
+    21300038: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_19
+    21300040: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_20
+    21300042: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_21
+    21300044: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_22
+    21300046: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_23
+    21300048: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_24
+    21300050: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_25
+    21300052: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_26
+    21300054: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_27
+    21300056: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_28
+    21300058: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_29
+    21300060: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_30
+    21300062: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_31
+    21300064: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_32
+    21300066: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_33
+    21300068: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_34
+    21300070: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_35
+    21300072: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_36
+    21300074: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_37
+    21300076: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_38
+    21300078: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_39
+    21300080: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_40
+    21300082: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_41
+    21300084: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_42
+    21300086: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_43
+    21300088: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_44
+    21300090: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_45
+    21300092: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_46
+    21300094: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_47
+    21300096: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_48
+    21300098: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_49
+    21300100: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_50
+    21300102: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_51
+    21300104: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_52
+    21300106: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_53
+    21300108: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_54
+    21300110: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_55
+    21300112: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_56
+    21300114: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_57
+    21300116: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_58
+    21300118: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_59
+    21300120: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_60
+    21300122: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_61
+    21300124: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_62
+    21300126: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_63
+    21300128: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_64
+    21300130: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_65
+    21300132: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_66
+    21300134: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_67
+    21300136: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_68
+    21300138: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_69
+    21300140: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_70
+    21300142: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_71
+    21300144: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_72
+    21300146: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_73
+    21300148: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_74
+    21300150: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_75
+    21300152: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_76
+    21300154: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_77
+    21300156: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_78
+    21300158: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_79
+    21300160: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_80
+    21300162: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_81
+    21300164: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_82
+    21300166: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_83
+    21300168: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_84
+    21300170: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_85
+    21300172: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_86
+    21300174: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_87
+    21300176: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_88
+    21300178: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_89
+    21300180: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_90
+    21300182: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_91
+    21300184: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_92
+    21300186: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_93
+    21300188: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_94
+    21300190: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_95
+    21300192: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_96
+    21300194: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_97
+    21300196: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_98
+    21300198: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_99
+    21300200: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_100
+    21300202: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_101
+    21300204: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_102
+    21300206: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_103
+    21300208: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_104
+    21300210: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_105
+    21300212: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_106
+    21300214: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_107
+    21300216: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_108
+    21300218: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_109
+    21300220: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_110
+    21300222: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_111
+    21300224: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_112
+    21300226: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_113
+    21300228: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_114
+    21300230: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_115
+    21300232: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_116
+    21300234: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_117
+    21300236: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_118
+    21300238: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_119
+    21300240: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_120
+    21300242: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_121
+    21300244: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_122
+    21300246: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_123
+    21300248: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_124
+    21300250: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_125
+    21300252: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_126
+    21300254: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_127
+    21300256: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_128
+    21300258: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_129
+    21300260: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_130
+    21300262: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_131
+    21300264: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_132
+    21300266: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_133
+    21300268: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_134
+    21300270: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_135
+    21300272: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_136
+    21300274: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_137
+    21300276: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_138
+    21300278: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_139
+    21300280: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_140
+    21300282: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_141
+    21300284: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_142
+    21300286: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_143
+    21300288: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_144
+    21300290: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_145
+    21300292: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_146
+    21300294: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_147
+    21300296: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_148
+    21300298: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_149
+    21300300: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_150
+    21300302: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_151
+    21300304: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_152
+    21300306: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_153
+    21300308: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_154
+    21300310: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_155
+    21300312: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_156
+    21300314: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_157
+    21300316: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_158
+    21300318: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_159
+    21300320: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_160
+    21300322: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_161
+    21300324: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_162
+    21300326: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_163
+    21300328: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_164
+    21300330: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_165
+    21300332: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_166
+    21300334: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_167
+    21300336: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_168
+    21300338: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_169
+    21300340: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_170
+    21300342: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_171
+    21300344: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_172
+    21300346: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_173
+    21300348: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_174
+    21300350: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_175
+    21300352: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_176
+    21300354: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_177
+    21300356: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_178
+    21300358: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_179
+    21300360: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_180
+    21300362: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_181
+    21300364: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_182
+    21300366: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_183
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -34,23 +218,23 @@ TextureImporter:
     filterMode: -1
     aniso: -1
     mipBias: -1
-    wrapU: -1
-    wrapV: -1
+    wrapU: 1
+    wrapV: 1
     wrapW: -1
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.75}
+  spriteBorder: {x: 0, y: 344, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
@@ -66,11 +250,5645 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
-    outline: []
-    physicsShape: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 669
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 669
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 669
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 669
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 669
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 669
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 669
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_7
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 669
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_8
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 669
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 669
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_10
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 669
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_11
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 669
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_12
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 669
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_13
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 669
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 605
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 605
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 635
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 605
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 636
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 605
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 604
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_21
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 604
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 605
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_23
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 605
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_24
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 635
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_25
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 605
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_26
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 636
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_27
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 605
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_28
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 604
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_29
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 604
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 605
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 605
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_32
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 622
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 605
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_34
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 605
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_35
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 622
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 541
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 576
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 576
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 541
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_40
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 577
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 575
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_42
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 541
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_43
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 575
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_44
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 577
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_45
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 541
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_46
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 540
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_47
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 541
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_48
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 576
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_49
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 576
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_50
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 541
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_51
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 577
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_52
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 575
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_53
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 541
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_54
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 575
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_55
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 577
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_56
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 541
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_57
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 540
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 541
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_59
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 560
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 541
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_61
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 541
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_62
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 541
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_63
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 560
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_64
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 541
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_65
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 541
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 476
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_67
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 476
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_68
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 476
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_69
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 476
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_70
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 476
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_71
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 476
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_72
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 476
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_73
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 476
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_74
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 476
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_75
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 476
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 413
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_77
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 413
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_78
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 413
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_79
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 413
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_80
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 413
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_81
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 413
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_82
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 413
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_83
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 413
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_84
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 413
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_85
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 413
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_86
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 413
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_87
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 413
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 349
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_89
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 349
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_90
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 349
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_91
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 349
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_92
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 349
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_93
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 349
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_94
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 349
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_95
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 347
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_96
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 349
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_97
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 349
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_98
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 349
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_99
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 349
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_100
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 349
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_101
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 349
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_102
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 349
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_103
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 347
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_104
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 283
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_105
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 284
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_106
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 283
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_107
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 285
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_108
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 284
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_109
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 284
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_110
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 283
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_111
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 285
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_112
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 284
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_113
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 284
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_114
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 283
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_115
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_117
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 285
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_118
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 284
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_119
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 284
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_120
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 284
+        width: 53
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_121
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 283
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_122
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 284
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_123
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 283
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_124
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 285
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_125
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 284
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_126
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 284
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_127
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 283
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_128
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 285
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_129
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 284
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_130
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 284
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_131
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 283
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_132
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_133
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_134
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 285
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_135
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 284
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_136
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 284
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_137
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 284
+        width: 53
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_138
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 218
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_139
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 213
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_140
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 214
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_141
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 227
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_142
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_143
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 211
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_144
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 213
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_145
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 216
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_146
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 227
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_147
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 218
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_148
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 213
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_149
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 214
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_150
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 227
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_151
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 224
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_152
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 211
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_153
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 213
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_154
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 216
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_155
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 227
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_156
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 219
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_157
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 220
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_158
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 223
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_159
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 219
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_160
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 219
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_161
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 220
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_162
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 223
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_163
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 219
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_164
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 167
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_165
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 166
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_166
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 166
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_167
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 162
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_168
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 161
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_169
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 161
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_170
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 131
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_171
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 131
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_172
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 126
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_173
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 126
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_174
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_175
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 25
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_176
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 22
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_177
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 27
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_178
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 15
+        width: 119
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_179
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 44
+        width: 93
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_180
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 49
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_181
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 38
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_182
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 7
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - The Binding of Isaac Rebirth - Dingle & Dangle_183
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 7
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -336, y: -242.5}
+      - {x: -360, y: -242.5}
+      - {x: -408, y: -303.5}
+      - {x: -408, y: -346.5}
+      - {x: -378, y: -359.5}
+      - {x: -304, y: -359.5}
+      - {x: -292, y: -341.5}
+      - {x: -292, y: -293.5}
+      - {x: -330, y: -246.5}
+    - - {x: 124, y: -311.5}
+      - {x: 118, y: -311.5}
+      - {x: 116, y: -313.5}
+      - {x: 116, y: -315.5}
+      - {x: 116, y: -313.5}
+      - {x: 122, y: -296.5}
+      - {x: 80, y: -241.5}
+      - {x: 52, y: -241.5}
+      - {x: 17, y: -270.5}
+      - {x: 17, y: -338.5}
+      - {x: 45, y: -355.5}
+      - {x: 98, y: -355.5}
+      - {x: 136, y: -344.5}
+      - {x: 140, y: -337.5}
+      - {x: 140, y: -322.5}
+      - {x: 127, y: -312.5}
+    - - {x: 96, y: -347.5}
+      - {x: 95, y: -350.5}
+      - {x: 95, y: -355.5}
+      - {x: 105, y: -355.5}
+      - {x: 107, y: -354.5}
+      - {x: 107, y: -347.5}
+    - - {x: -273, y: -304.5}
+      - {x: -273, y: -340.5}
+      - {x: -143, y: -340.5}
+      - {x: -143, y: -304.5}
+    - - {x: 135, y: -309.5}
+      - {x: 132, y: -315.5}
+      - {x: 132, y: -320.5}
+      - {x: 136, y: -322.5}
+      - {x: 144, y: -324.5}
+      - {x: 157, y: -324.5}
+      - {x: 159, y: -323.5}
+      - {x: 159, y: -321.5}
+      - {x: 158, y: -319.5}
+      - {x: 144, y: -309.5}
+    - - {x: 184, y: -282.5}
+      - {x: 184, y: -311.5}
+      - {x: 186, y: -316.5}
+      - {x: 195, y: -318.5}
+      - {x: 307, y: -318.5}
+      - {x: 323, y: -316.5}
+      - {x: 323, y: -285.5}
+      - {x: 319, y: -282.5}
+    - - {x: 126, y: -211.5}
+      - {x: 123, y: -218.5}
+      - {x: 122, y: -223.5}
+      - {x: 121, y: -229.5}
+      - {x: 125, y: -236.5}
+      - {x: 132, y: -236.5}
+      - {x: 138, y: -233.5}
+      - {x: 138, y: -212.5}
+      - {x: 131, y: -207.5}
+      - {x: 130, y: -207.5}
+    - - {x: 160, y: -207.5}
+      - {x: 155, y: -210.5}
+      - {x: 153, y: -224.5}
+      - {x: 153, y: -230.5}
+      - {x: 160, y: -236.5}
+      - {x: 169, y: -236.5}
+      - {x: 170, y: -231.5}
+      - {x: 170, y: -210.5}
+      - {x: 165, y: -207.5}
+    - - {x: -408, y: -202.5}
+      - {x: -409, y: -202.5}
+      - {x: -413, y: -206.5}
+      - {x: -416, y: -213.5}
+      - {x: -417, y: -216.5}
+      - {x: -417, y: -228.5}
+      - {x: -412, y: -231.5}
+      - {x: -404, y: -231.5}
+      - {x: -401, y: -227.5}
+      - {x: -401, y: -207.5}
+    - - {x: -380, y: -202.5}
+      - {x: -384, y: -205.5}
+      - {x: -385, y: -218.5}
+      - {x: -385, y: -226.5}
+      - {x: -379, y: -231.5}
+      - {x: -371, y: -231.5}
+      - {x: -369, y: -226.5}
+      - {x: -369, y: -205.5}
+      - {x: -374, y: -202.5}
+    - - {x: 149, y: -197.5}
+      - {x: 153, y: -201.5}
+      - {x: 170, y: -201.5}
+      - {x: 172, y: -200.5}
+      - {x: 172, y: -187.5}
+      - {x: 167, y: -179.5}
+      - {x: 159, y: -179.5}
+      - {x: 152, y: -182.5}
+      - {x: 149, y: -190.5}
+    - - {x: 181, y: -198.5}
+      - {x: 186, y: -201.5}
+      - {x: 200, y: -201.5}
+      - {x: 205, y: -200.5}
+      - {x: 205, y: -186.5}
+      - {x: 202, y: -179.5}
+      - {x: 192, y: -179.5}
+      - {x: 181, y: -191.5}
+    - - {x: 119, y: -195.5}
+      - {x: 122, y: -200.5}
+      - {x: 134, y: -200.5}
+      - {x: 139, y: -197.5}
+      - {x: 139, y: -184.5}
+      - {x: 138, y: -182.5}
+      - {x: 132, y: -177.5}
+      - {x: 125, y: -177.5}
+      - {x: 119, y: -185.5}
+    - - {x: -382, y: -174.5}
+      - {x: -389, y: -183.5}
+      - {x: -389, y: -189.5}
+      - {x: -382, y: -196.5}
+      - {x: -371, y: -196.5}
+      - {x: -367, y: -194.5}
+      - {x: -367, y: -183.5}
+      - {x: -371, y: -174.5}
+    - - {x: -346, y: -174.5}
+      - {x: -357, y: -183.5}
+      - {x: -357, y: -194.5}
+      - {x: -353, y: -196.5}
+      - {x: -336, y: -196.5}
+      - {x: -334, y: -192.5}
+      - {x: -334, y: -181.5}
+      - {x: -340, y: -175.5}
+    - - {x: -408, y: -172.5}
+      - {x: -414, y: -172.5}
+      - {x: -419, y: -181.5}
+      - {x: -419, y: -194.5}
+      - {x: -416, y: -195.5}
+      - {x: -403, y: -195.5}
+      - {x: -400, y: -191.5}
+      - {x: -400, y: -180.5}
+    - - {x: -315, y: -121.5}
+      - {x: -321, y: -135.5}
+      - {x: -321, y: -150.5}
+      - {x: -320, y: -151.5}
+      - {x: -272, y: -151.5}
+      - {x: -271, y: -143.5}
+      - {x: -271, y: -130.5}
+      - {x: -279, y: -121.5}
+    - - {x: 228, y: -121.5}
+      - {x: 205, y: -121.5}
+      - {x: 199, y: -133.5}
+      - {x: 199, y: -151.5}
+      - {x: 249, y: -151.5}
+      - {x: 249, y: -131.5}
+      - {x: 239, y: -122.5}
+    - - {x: -451, y: -126.5}
+      - {x: -451, y: -142.5}
+      - {x: -442, y: -149.5}
+      - {x: -412, y: -149.5}
+      - {x: -407, y: -147.5}
+      - {x: -407, y: -126.5}
+    - - {x: -210, y: -136.5}
+      - {x: -210, y: -130.5}
+      - {x: -214, y: -127.5}
+      - {x: -245, y: -127.5}
+      - {x: -249, y: -128.5}
+      - {x: -243, y: -134.5}
+      - {x: -239, y: -137.5}
+      - {x: -242, y: -134.5}
+      - {x: -249, y: -133.5}
+      - {x: -256, y: -136.5}
+      - {x: -256, y: -142.5}
+      - {x: -239, y: -149.5}
+      - {x: -220, y: -149.5}
+      - {x: -210, y: -143.5}
+      - {x: -212, y: -140.5}
+      - {x: -215, y: -139.5}
+      - {x: -214, y: -139.5}
+    - - {x: 108, y: -126.5}
+      - {x: 73, y: -126.5}
+      - {x: 69, y: -129.5}
+      - {x: 69, y: -144.5}
+      - {x: 79, y: -149.5}
+      - {x: 105, y: -149.5}
+      - {x: 108, y: -148.5}
+      - {x: 112, y: -144.5}
+      - {x: 113, y: -142.5}
+      - {x: 113, y: -129.5}
+    - - {x: 310, y: -136.5}
+      - {x: 310, y: -132.5}
+      - {x: 297, y: -127.5}
+      - {x: 277, y: -127.5}
+      - {x: 275, y: -130.5}
+      - {x: 275, y: -132.5}
+      - {x: 277, y: -134.5}
+      - {x: 281, y: -137.5}
+      - {x: 278, y: -134.5}
+      - {x: 271, y: -133.5}
+      - {x: 264, y: -136.5}
+      - {x: 264, y: -142.5}
+      - {x: 281, y: -149.5}
+      - {x: 300, y: -149.5}
+      - {x: 310, y: -143.5}
+      - {x: 308, y: -140.5}
+      - {x: 305, y: -139.5}
+      - {x: 306, y: -139.5}
+    - - {x: -350, y: -136.5}
+      - {x: -342, y: -135.5}
+      - {x: -337, y: -132.5}
+      - {x: -337, y: -129.5}
+      - {x: -339, y: -122.5}
+      - {x: -343, y: -121.5}
+      - {x: -371, y: -121.5}
+      - {x: -386, y: -129.5}
+      - {x: -386, y: -145.5}
+      - {x: -384, y: -148.5}
+      - {x: -356, y: -148.5}
+      - {x: -337, y: -144.5}
+      - {x: -337, y: -141.5}
+      - {x: -342, y: -136.5}
+      - {x: -349, y: -136.5}
+      - {x: -353, y: -139.5}
+    - - {x: 167, y: -139.5}
+      - {x: 170, y: -136.5}
+      - {x: 178, y: -135.5}
+      - {x: 183, y: -131.5}
+      - {x: 183, y: -126.5}
+      - {x: 173, y: -121.5}
+      - {x: 150, y: -121.5}
+      - {x: 142, y: -127.5}
+      - {x: 143, y: -130.5}
+      - {x: 139, y: -130.5}
+      - {x: 135, y: -133.5}
+      - {x: 134, y: -134.5}
+      - {x: 134, y: -143.5}
+      - {x: 137, y: -148.5}
+      - {x: 179, y: -148.5}
+      - {x: 183, y: -138.5}
+      - {x: 178, y: -136.5}
+      - {x: 171, y: -136.5}
+    - - {x: -195, y: -125.5}
+      - {x: -197, y: -131.5}
+      - {x: -197, y: -142.5}
+      - {x: -191, y: -144.5}
+      - {x: -176, y: -146.5}
+      - {x: -152, y: -146.5}
+      - {x: -147, y: -136.5}
+      - {x: -147, y: -128.5}
+      - {x: -155, y: -125.5}
+    - - {x: 363, y: -127.5}
+      - {x: 352, y: -125.5}
+      - {x: 331, y: -125.5}
+      - {x: 323, y: -133.5}
+      - {x: 323, y: -141.5}
+      - {x: 329, y: -144.5}
+      - {x: 338, y: -143.5}
+      - {x: 349, y: -145.5}
+      - {x: 353, y: -146.5}
+      - {x: 367, y: -146.5}
+      - {x: 373, y: -135.5}
+      - {x: 373, y: -128.5}
+      - {x: 368, y: -126.5}
+    - - {x: -505, y: -129.5}
+      - {x: -511, y: -131.5}
+      - {x: -511, y: -143.5}
+      - {x: -510, y: -144.5}
+      - {x: -471, y: -144.5}
+      - {x: -468, y: -138.5}
+      - {x: -468, y: -131.5}
+      - {x: -470, y: -129.5}
+    - - {x: 11, y: -129.5}
+      - {x: 9, y: -134.5}
+      - {x: 9, y: -142.5}
+      - {x: 11, y: -144.5}
+      - {x: 47, y: -144.5}
+      - {x: 52, y: -142.5}
+      - {x: 52, y: -129.5}
+    - - {x: -355, y: -118.5}
+      - {x: -357, y: -120.5}
+      - {x: -357, y: -122.5}
+      - {x: -355, y: -124.5}
+      - {x: -353, y: -124.5}
+      - {x: -351, y: -122.5}
+      - {x: -351, y: -120.5}
+      - {x: -353, y: -118.5}
+    - - {x: 163, y: -124.5}
+      - {x: 168, y: -124.5}
+      - {x: 169, y: -123.5}
+      - {x: 169, y: -120.5}
+      - {x: 168, y: -118.5}
+      - {x: 165, y: -118.5}
+      - {x: 163, y: -119.5}
+    - - {x: -482, y: -60.5}
+      - {x: -509, y: -60.5}
+      - {x: -519, y: -66.5}
+      - {x: -519, y: -75.5}
+      - {x: -517, y: -79.5}
+      - {x: -465, y: -79.5}
+      - {x: -463, y: -76.5}
+      - {x: -463, y: -65.5}
+    - - {x: -399, y: -65.5}
+      - {x: -415, y: -63.5}
+      - {x: -448, y: -63.5}
+      - {x: -457, y: -67.5}
+      - {x: -457, y: -73.5}
+      - {x: -454, y: -79.5}
+      - {x: -413, y: -79.5}
+      - {x: -400, y: -77.5}
+      - {x: -397, y: -74.5}
+      - {x: -397, y: -69.5}
+    - - {x: -391, y: -64.5}
+      - {x: -394, y: -67.5}
+      - {x: -394, y: -73.5}
+      - {x: -392, y: -79.5}
+      - {x: -344, y: -79.5}
+      - {x: -343, y: -76.5}
+      - {x: -343, y: -67.5}
+      - {x: -344, y: -64.5}
+    - - {x: -287, y: -65.5}
+      - {x: -293, y: -65.5}
+      - {x: -297, y: -68.5}
+      - {x: -297, y: -73.5}
+      - {x: -293, y: -79.5}
+      - {x: -285, y: -79.5}
+      - {x: -278, y: -76.5}
+      - {x: -278, y: -71.5}
+      - {x: -281, y: -66.5}
+    - - {x: 51, y: -60.5}
+      - {x: 7, y: -60.5}
+      - {x: 1, y: -63.5}
+      - {x: 1, y: -79.5}
+      - {x: 55, y: -79.5}
+      - {x: 57, y: -77.5}
+      - {x: 57, y: -68.5}
+      - {x: 55, y: -64.5}
+    - - {x: 118, y: -63.5}
+      - {x: 72, y: -63.5}
+      - {x: 63, y: -66.5}
+      - {x: 63, y: -76.5}
+      - {x: 65, y: -79.5}
+      - {x: 122, y: -79.5}
+      - {x: 123, y: -77.5}
+      - {x: 123, y: -69.5}
+      - {x: 122, y: -64.5}
+    - - {x: 126, y: -70.5}
+      - {x: 126, y: -73.5}
+      - {x: 131, y: -78.5}
+      - {x: 136, y: -79.5}
+      - {x: 174, y: -79.5}
+      - {x: 177, y: -78.5}
+      - {x: 177, y: -70.5}
+      - {x: 171, y: -64.5}
+      - {x: 131, y: -64.5}
+    - - {x: 233, y: -65.5}
+      - {x: 227, y: -65.5}
+      - {x: 223, y: -68.5}
+      - {x: 223, y: -73.5}
+      - {x: 227, y: -79.5}
+      - {x: 235, y: -79.5}
+      - {x: 242, y: -76.5}
+      - {x: 242, y: -71.5}
+      - {x: 239, y: -66.5}
+    - - {x: -331, y: -67.5}
+      - {x: -331, y: -75.5}
+      - {x: -330, y: -78.5}
+      - {x: -306, y: -78.5}
+      - {x: -302, y: -77.5}
+      - {x: -302, y: -68.5}
+      - {x: -303, y: -67.5}
+    - - {x: -273, y: -67.5}
+      - {x: -277, y: -69.5}
+      - {x: -277, y: -73.5}
+      - {x: -275, y: -78.5}
+      - {x: -259, y: -78.5}
+      - {x: -258, y: -75.5}
+      - {x: -258, y: -71.5}
+      - {x: -262, y: -67.5}
+    - - {x: -230, y: -68.5}
+      - {x: -231, y: -71.5}
+      - {x: -231, y: -75.5}
+      - {x: -227, y: -78.5}
+      - {x: -222, y: -78.5}
+      - {x: -221, y: -75.5}
+      - {x: -221, y: -71.5}
+      - {x: -225, y: -68.5}
+    - - {x: -206, y: -68.5}
+      - {x: -211, y: -70.5}
+      - {x: -211, y: -76.5}
+      - {x: -210, y: -78.5}
+      - {x: -197, y: -78.5}
+      - {x: -196, y: -76.5}
+      - {x: -196, y: -74.5}
+      - {x: -202, y: -68.5}
+    - - {x: -162, y: -70.5}
+      - {x: -165, y: -73.5}
+      - {x: -165, y: -74.5}
+      - {x: -161, y: -78.5}
+      - {x: -160, y: -78.5}
+      - {x: -157, y: -75.5}
+      - {x: -157, y: -73.5}
+      - {x: -160, y: -70.5}
+    - - {x: 190, y: -67.5}
+      - {x: 189, y: -70.5}
+      - {x: 189, y: -76.5}
+      - {x: 190, y: -78.5}
+      - {x: 214, y: -78.5}
+      - {x: 218, y: -74.5}
+      - {x: 218, y: -71.5}
+      - {x: 216, y: -67.5}
+    - - {x: 243, y: -76.5}
+      - {x: 244, y: -78.5}
+      - {x: 259, y: -78.5}
+      - {x: 262, y: -77.5}
+      - {x: 262, y: -73.5}
+      - {x: 258, y: -67.5}
+      - {x: 245, y: -67.5}
+      - {x: 243, y: -68.5}
+    - - {x: 290, y: -68.5}
+      - {x: 289, y: -71.5}
+      - {x: 289, y: -75.5}
+      - {x: 293, y: -78.5}
+      - {x: 298, y: -78.5}
+      - {x: 299, y: -75.5}
+      - {x: 299, y: -71.5}
+      - {x: 295, y: -68.5}
+    - - {x: 320, y: -68.5}
+      - {x: 313, y: -68.5}
+      - {x: 309, y: -70.5}
+      - {x: 309, y: -73.5}
+      - {x: 311, y: -77.5}
+      - {x: 315, y: -78.5}
+      - {x: 322, y: -78.5}
+      - {x: 324, y: -76.5}
+      - {x: 324, y: -72.5}
+    - - {x: 358, y: -70.5}
+      - {x: 355, y: -73.5}
+      - {x: 355, y: -74.5}
+      - {x: 359, y: -78.5}
+      - {x: 360, y: -78.5}
+      - {x: 363, y: -75.5}
+      - {x: 363, y: -73.5}
+      - {x: 360, y: -70.5}
+    - - {x: -339, y: -66.5}
+      - {x: -343, y: -70.5}
+      - {x: -343, y: -73.5}
+      - {x: -339, y: -77.5}
+      - {x: -335, y: -77.5}
+      - {x: -332, y: -74.5}
+      - {x: -332, y: -69.5}
+      - {x: -335, y: -66.5}
+    - - {x: -255, y: -69.5}
+      - {x: -258, y: -72.5}
+      - {x: -258, y: -74.5}
+      - {x: -255, y: -77.5}
+      - {x: -253, y: -77.5}
+      - {x: -250, y: -74.5}
+      - {x: -250, y: -72.5}
+      - {x: -253, y: -69.5}
+    - - {x: -191, y: -70.5}
+      - {x: -194, y: -73.5}
+      - {x: -194, y: -74.5}
+      - {x: -191, y: -77.5}
+      - {x: -190, y: -77.5}
+      - {x: -187, y: -74.5}
+      - {x: -187, y: -73.5}
+      - {x: -190, y: -70.5}
+    - - {x: 181, y: -66.5}
+      - {x: 177, y: -70.5}
+      - {x: 177, y: -73.5}
+      - {x: 181, y: -77.5}
+      - {x: 185, y: -77.5}
+      - {x: 188, y: -74.5}
+      - {x: 188, y: -69.5}
+      - {x: 185, y: -66.5}
+    - - {x: 265, y: -69.5}
+      - {x: 262, y: -72.5}
+      - {x: 262, y: -74.5}
+      - {x: 265, y: -77.5}
+      - {x: 267, y: -77.5}
+      - {x: 270, y: -74.5}
+      - {x: 270, y: -72.5}
+      - {x: 267, y: -69.5}
+    - - {x: 329, y: -70.5}
+      - {x: 326, y: -73.5}
+      - {x: 326, y: -74.5}
+      - {x: 329, y: -77.5}
+      - {x: 330, y: -77.5}
+      - {x: 333, y: -74.5}
+      - {x: 333, y: -73.5}
+      - {x: 330, y: -70.5}
+    - - {x: -247, y: -69.5}
+      - {x: -250, y: -72.5}
+      - {x: -250, y: -73.5}
+      - {x: -247, y: -76.5}
+      - {x: -240, y: -76.5}
+      - {x: -239, y: -74.5}
+      - {x: -239, y: -72.5}
+      - {x: -243, y: -69.5}
+    - - {x: -217, y: -69.5}
+      - {x: -220, y: -72.5}
+      - {x: -220, y: -73.5}
+      - {x: -217, y: -76.5}
+      - {x: -215, y: -76.5}
+      - {x: -212, y: -73.5}
+      - {x: -212, y: -72.5}
+      - {x: -215, y: -69.5}
+    - - {x: -186, y: -72.5}
+      - {x: -186, y: -73.5}
+      - {x: -185, y: -76.5}
+      - {x: -180, y: -76.5}
+      - {x: -178, y: -75.5}
+      - {x: -178, y: -72.5}
+      - {x: -181, y: -69.5}
+      - {x: -183, y: -69.5}
+    - - {x: -152, y: -69.5}
+      - {x: -155, y: -72.5}
+      - {x: -155, y: -73.5}
+      - {x: -152, y: -76.5}
+      - {x: -151, y: -76.5}
+      - {x: -148, y: -73.5}
+      - {x: -148, y: -72.5}
+      - {x: -151, y: -69.5}
+    - - {x: -142, y: -69.5}
+      - {x: -145, y: -72.5}
+      - {x: -145, y: -75.5}
+      - {x: -143, y: -76.5}
+      - {x: -138, y: -76.5}
+      - {x: -137, y: -73.5}
+      - {x: -137, y: -72.5}
+      - {x: -140, y: -69.5}
+    - - {x: 270, y: -73.5}
+      - {x: 271, y: -76.5}
+      - {x: 281, y: -76.5}
+      - {x: 281, y: -73.5}
+      - {x: 278, y: -69.5}
+      - {x: 273, y: -69.5}
+      - {x: 270, y: -71.5}
+    - - {x: 303, y: -69.5}
+      - {x: 300, y: -72.5}
+      - {x: 300, y: -73.5}
+      - {x: 303, y: -76.5}
+      - {x: 305, y: -76.5}
+      - {x: 308, y: -73.5}
+      - {x: 308, y: -72.5}
+      - {x: 305, y: -69.5}
+    - - {x: 334, y: -72.5}
+      - {x: 334, y: -73.5}
+      - {x: 335, y: -76.5}
+      - {x: 340, y: -76.5}
+      - {x: 342, y: -75.5}
+      - {x: 342, y: -72.5}
+      - {x: 339, y: -69.5}
+      - {x: 337, y: -69.5}
+    - - {x: 368, y: -69.5}
+      - {x: 365, y: -72.5}
+      - {x: 365, y: -73.5}
+      - {x: 368, y: -76.5}
+      - {x: 369, y: -76.5}
+      - {x: 372, y: -73.5}
+      - {x: 372, y: -72.5}
+      - {x: 369, y: -69.5}
+    - - {x: 378, y: -69.5}
+      - {x: 375, y: -72.5}
+      - {x: 375, y: -75.5}
+      - {x: 377, y: -76.5}
+      - {x: 382, y: -76.5}
+      - {x: 383, y: -73.5}
+      - {x: 383, y: -72.5}
+      - {x: 380, y: -69.5}
+    - - {x: -55, y: 7.5}
+      - {x: -69, y: -2.5}
+      - {x: -69, y: -11.5}
+      - {x: -67, y: -15.5}
+      - {x: -19, y: -15.5}
+      - {x: -16, y: -11.5}
+      - {x: -16, y: -2.5}
+      - {x: -32, y: 7.5}
+    - - {x: 486, y: 7.5}
+      - {x: 466, y: 7.5}
+      - {x: 451, y: -0.5}
+      - {x: 451, y: -12.5}
+      - {x: 453, y: -15.5}
+      - {x: 501, y: -15.5}
+      - {x: 504, y: -8.5}
+      - {x: 504, y: -5.5}
+      - {x: 489, y: 6.5}
+    - - {x: -496, y: 24.5}
+      - {x: -508, y: 21.5}
+      - {x: -517, y: 3.5}
+      - {x: -517, y: -11.5}
+      - {x: -515, y: -13.5}
+      - {x: -464, y: -13.5}
+      - {x: -464, y: 11.5}
+      - {x: -480, y: 24.5}
+    - - {x: -450, y: -11.5}
+      - {x: -448, y: -13.5}
+      - {x: -410, y: -13.5}
+      - {x: -404, y: -10.5}
+      - {x: -404, y: 12.5}
+      - {x: -415, y: 31.5}
+      - {x: -429, y: 31.5}
+      - {x: -450, y: 19.5}
+    - - {x: -386, y: 5.5}
+      - {x: -386, y: -12.5}
+      - {x: -384, y: -13.5}
+      - {x: -351, y: -13.5}
+      - {x: -340, y: -10.5}
+      - {x: -340, y: 8.5}
+      - {x: -349, y: 28.5}
+      - {x: -371, y: 28.5}
+      - {x: -377, y: 26.5}
+    - - {x: -322, y: -11.5}
+      - {x: -320, y: -13.5}
+      - {x: -281, y: -13.5}
+      - {x: -275, y: -11.5}
+      - {x: -275, y: 3.5}
+      - {x: -285, y: 22.5}
+      - {x: -311, y: 22.5}
+      - {x: -320, y: 19.5}
+      - {x: -322, y: 8.5}
+    - - {x: -229, y: 17.5}
+      - {x: -250, y: 17.5}
+      - {x: -258, y: 1.5}
+      - {x: -258, y: -11.5}
+      - {x: -253, y: -13.5}
+      - {x: -214, y: -13.5}
+      - {x: -211, y: -9.5}
+      - {x: -211, y: -3.5}
+      - {x: -213, y: 3.5}
+    - - {x: -186, y: 13.5}
+      - {x: -194, y: -0.5}
+      - {x: -194, y: -12.5}
+      - {x: -191, y: -13.5}
+      - {x: -147, y: -13.5}
+      - {x: -147, y: -1.5}
+      - {x: -162, y: 13.5}
+    - - {x: -103, y: 8.5}
+      - {x: -118, y: 8.5}
+      - {x: -125, y: 4.5}
+      - {x: -131, y: -4.5}
+      - {x: -131, y: -10.5}
+      - {x: -125, y: -13.5}
+      - {x: -85, y: -13.5}
+      - {x: -82, y: -9.5}
+      - {x: -82, y: -3.5}
+      - {x: -95, y: 7.5}
+    - - {x: 44, y: 24.5}
+      - {x: 22, y: 24.5}
+      - {x: 3, y: 13.5}
+      - {x: 3, y: -8.5}
+      - {x: 13, y: -13.5}
+      - {x: 45, y: -13.5}
+      - {x: 56, y: -5.5}
+      - {x: 56, y: 2.5}
+      - {x: 55, y: 7.5}
+    - - {x: 104, y: 31.5}
+      - {x: 89, y: 31.5}
+      - {x: 70, y: 21.5}
+      - {x: 70, y: -13.5}
+      - {x: 112, y: -13.5}
+      - {x: 116, y: -9.5}
+      - {x: 116, y: 6.5}
+      - {x: 111, y: 19.5}
+    - - {x: 151, y: 28.5}
+      - {x: 134, y: 11.5}
+      - {x: 134, y: -9.5}
+      - {x: 136, y: -13.5}
+      - {x: 176, y: -13.5}
+      - {x: 180, y: -10.5}
+      - {x: 180, y: 6.5}
+      - {x: 171, y: 28.5}
+    - - {x: 206, y: 22.5}
+      - {x: 198, y: 5.5}
+      - {x: 198, y: -11.5}
+      - {x: 205, y: -13.5}
+      - {x: 242, y: -13.5}
+      - {x: 245, y: -8.5}
+      - {x: 245, y: 9.5}
+      - {x: 230, y: 22.5}
+    - - {x: 273, y: 17.5}
+      - {x: 262, y: 10.5}
+      - {x: 262, y: -9.5}
+      - {x: 270, y: -13.5}
+      - {x: 305, y: -13.5}
+      - {x: 309, y: -11.5}
+      - {x: 309, y: 5.5}
+      - {x: 304, y: 17.5}
+    - - {x: 360, y: 10.5}
+      - {x: 355, y: 13.5}
+      - {x: 334, y: 13.5}
+      - {x: 326, y: -0.5}
+      - {x: 326, y: -12.5}
+      - {x: 330, y: -13.5}
+      - {x: 369, y: -13.5}
+      - {x: 372, y: -12.5}
+      - {x: 373, y: -9.5}
+      - {x: 373, y: -3.5}
+    - - {x: 396, y: 8.5}
+      - {x: 389, y: -3.5}
+      - {x: 389, y: -11.5}
+      - {x: 391, y: -13.5}
+      - {x: 438, y: -13.5}
+      - {x: 438, y: -4.5}
+      - {x: 427, y: 8.5}
+    - - {x: -505, y: 50.5}
+      - {x: -474, y: 50.5}
+      - {x: -468, y: 51.5}
+      - {x: -468, y: 73.5}
+      - {x: -476, y: 95.5}
+      - {x: -499, y: 95.5}
+      - {x: -514, y: 84.5}
+      - {x: -514, y: 55.5}
+    - - {x: -417, y: 85.5}
+      - {x: -436, y: 85.5}
+      - {x: -454, y: 66.5}
+      - {x: -454, y: 50.5}
+      - {x: -398, y: 50.5}
+      - {x: -398, y: 66.5}
+      - {x: -402, y: 76.5}
+    - - {x: -371, y: 90.5}
+      - {x: -384, y: 81.5}
+      - {x: -388, y: 67.5}
+      - {x: -388, y: 53.5}
+      - {x: -385, y: 50.5}
+      - {x: -345, y: 50.5}
+      - {x: -337, y: 52.5}
+      - {x: -337, y: 73.5}
+      - {x: -356, y: 90.5}
+    - - {x: -324, y: 56.5}
+      - {x: -320, y: 50.5}
+      - {x: -277, y: 50.5}
+      - {x: -273, y: 52.5}
+      - {x: -273, y: 74.5}
+      - {x: -286, y: 90.5}
+      - {x: -301, y: 90.5}
+      - {x: -320, y: 82.5}
+      - {x: -324, y: 76.5}
+    - - {x: -237, y: 91.5}
+      - {x: -260, y: 79.5}
+      - {x: -260, y: 50.5}
+      - {x: -212, y: 50.5}
+      - {x: -209, y: 59.5}
+      - {x: -209, y: 66.5}
+      - {x: -222, y: 91.5}
+    - - {x: -159, y: 90.5}
+      - {x: -173, y: 90.5}
+      - {x: -192, y: 82.5}
+      - {x: -196, y: 72.5}
+      - {x: -196, y: 59.5}
+      - {x: -192, y: 51.5}
+      - {x: -188, y: 50.5}
+      - {x: -154, y: 50.5}
+      - {x: -145, y: 57.5}
+      - {x: -145, y: 66.5}
+      - {x: -148, y: 71.5}
+    - - {x: 40, y: 95.5}
+      - {x: 25, y: 95.5}
+      - {x: 6, y: 85.5}
+      - {x: 6, y: 50.5}
+      - {x: 48, y: 50.5}
+      - {x: 52, y: 54.5}
+      - {x: 52, y: 70.5}
+      - {x: 47, y: 83.5}
+    - - {x: 86, y: 85.5}
+      - {x: 66, y: 74.5}
+      - {x: 66, y: 55.5}
+      - {x: 75, y: 50.5}
+      - {x: 118, y: 50.5}
+      - {x: 122, y: 57.5}
+      - {x: 122, y: 69.5}
+      - {x: 110, y: 85.5}
+    - - {x: 158, y: 90.5}
+      - {x: 144, y: 86.5}
+      - {x: 132, y: 69.5}
+      - {x: 132, y: 54.5}
+      - {x: 140, y: 50.5}
+      - {x: 172, y: 50.5}
+      - {x: 179, y: 51.5}
+      - {x: 183, y: 59.5}
+      - {x: 183, y: 69.5}
+      - {x: 164, y: 90.5}
+    - - {x: 213, y: 90.5}
+      - {x: 196, y: 75.5}
+      - {x: 196, y: 56.5}
+      - {x: 201, y: 50.5}
+      - {x: 235, y: 50.5}
+      - {x: 242, y: 51.5}
+      - {x: 247, y: 56.5}
+      - {x: 247, y: 68.5}
+      - {x: 235, y: 90.5}
+    - - {x: 297, y: 91.5}
+      - {x: 279, y: 91.5}
+      - {x: 260, y: 75.5}
+      - {x: 260, y: 56.5}
+      - {x: 271, y: 50.5}
+      - {x: 303, y: 50.5}
+      - {x: 306, y: 51.5}
+      - {x: 311, y: 57.5}
+      - {x: 311, y: 66.5}
+      - {x: 299, y: 90.5}
+    - - {x: 341, y: 90.5}
+      - {x: 324, y: 75.5}
+      - {x: 324, y: 56.5}
+      - {x: 329, y: 50.5}
+      - {x: 363, y: 50.5}
+      - {x: 370, y: 51.5}
+      - {x: 375, y: 56.5}
+      - {x: 375, y: 68.5}
+      - {x: 363, y: 90.5}
+    - - {x: -501, y: 166.5}
+      - {x: -511, y: 144.5}
+      - {x: -511, y: 115.5}
+      - {x: -508, y: 113.5}
+      - {x: -476, y: 113.5}
+      - {x: -473, y: 118.5}
+      - {x: -473, y: 144.5}
+      - {x: -484, y: 166.5}
+    - - {x: -433, y: 152.5}
+      - {x: -444, y: 150.5}
+      - {x: -453, y: 132.5}
+      - {x: -453, y: 113.5}
+      - {x: -400, y: 113.5}
+      - {x: -400, y: 137.5}
+      - {x: -416, y: 152.5}
+    - - {x: -379, y: 159.5}
+      - {x: -386, y: 145.5}
+      - {x: -386, y: 116.5}
+      - {x: -378, y: 113.5}
+      - {x: -350, y: 113.5}
+      - {x: -340, y: 119.5}
+      - {x: -340, y: 143.5}
+      - {x: -345, y: 159.5}
+    - - {x: -315, y: 159.5}
+      - {x: -322, y: 145.5}
+      - {x: -322, y: 116.5}
+      - {x: -314, y: 113.5}
+      - {x: -286, y: 113.5}
+      - {x: -276, y: 119.5}
+      - {x: -276, y: 143.5}
+      - {x: -281, y: 159.5}
+    - - {x: -246, y: 158.5}
+      - {x: -248, y: 155.5}
+      - {x: -258, y: 135.5}
+      - {x: -258, y: 115.5}
+      - {x: -256, y: 113.5}
+      - {x: -212, y: 113.5}
+      - {x: -212, y: 144.5}
+      - {x: -224, y: 158.5}
+    - - {x: 26, y: 166.5}
+      - {x: 12, y: 158.5}
+      - {x: 9, y: 142.5}
+      - {x: 9, y: 119.5}
+      - {x: 15, y: 113.5}
+      - {x: 35, y: 113.5}
+      - {x: 47, y: 118.5}
+      - {x: 47, y: 141.5}
+      - {x: 36, y: 166.5}
+    - - {x: 85, y: 152.5}
+      - {x: 67, y: 135.5}
+      - {x: 67, y: 113.5}
+      - {x: 120, y: 113.5}
+      - {x: 120, y: 134.5}
+      - {x: 102, y: 152.5}
+    - - {x: 153, y: 159.5}
+      - {x: 145, y: 154.5}
+      - {x: 134, y: 136.5}
+      - {x: 134, y: 113.5}
+      - {x: 177, y: 113.5}
+      - {x: 180, y: 116.5}
+      - {x: 180, y: 136.5}
+      - {x: 169, y: 159.5}
+    - - {x: 217, y: 159.5}
+      - {x: 209, y: 154.5}
+      - {x: 198, y: 136.5}
+      - {x: 198, y: 113.5}
+      - {x: 241, y: 113.5}
+      - {x: 244, y: 116.5}
+      - {x: 244, y: 136.5}
+      - {x: 233, y: 159.5}
+    - - {x: 282, y: 158.5}
+      - {x: 264, y: 145.5}
+      - {x: 262, y: 134.5}
+      - {x: 262, y: 117.5}
+      - {x: 271, y: 113.5}
+      - {x: 304, y: 113.5}
+      - {x: 308, y: 119.5}
+      - {x: 308, y: 140.5}
+      - {x: 293, y: 158.5}
+    - - {x: -102, y: 231.5}
+      - {x: -113, y: 224.5}
+      - {x: -122, y: 214.5}
+      - {x: -127, y: 200.5}
+      - {x: -127, y: 186.5}
+      - {x: -117, y: 177.5}
+      - {x: -83, y: 177.5}
+      - {x: -80, y: 186.5}
+      - {x: -80, y: 210.5}
+      - {x: -95, y: 231.5}
+    - - {x: 419, y: 231.5}
+      - {x: 395, y: 216.5}
+      - {x: 393, y: 203.5}
+      - {x: 393, y: 187.5}
+      - {x: 400, y: 177.5}
+      - {x: 437, y: 177.5}
+      - {x: 440, y: 184.5}
+      - {x: 440, y: 214.5}
+      - {x: 424, y: 231.5}
+    - - {x: -479, y: 206.5}
+      - {x: -506, y: 206.5}
+      - {x: -519, y: 192.5}
+      - {x: -519, y: 178.5}
+      - {x: -464, y: 178.5}
+      - {x: -459, y: 182.5}
+      - {x: -459, y: 190.5}
+      - {x: -465, y: 200.5}
+    - - {x: -419, y: 221.5}
+      - {x: -432, y: 221.5}
+      - {x: -450, y: 199.5}
+      - {x: -450, y: 178.5}
+      - {x: -405, y: 178.5}
+      - {x: -404, y: 184.5}
+      - {x: -404, y: 202.5}
+      - {x: -415, y: 219.5}
+    - - {x: -352, y: 217.5}
+      - {x: -372, y: 217.5}
+      - {x: -380, y: 216.5}
+      - {x: -388, y: 196.5}
+      - {x: -388, y: 181.5}
+      - {x: -384, y: 178.5}
+      - {x: -342, y: 178.5}
+      - {x: -337, y: 182.5}
+      - {x: -337, y: 197.5}
+    - - {x: -285, y: 223.5}
+      - {x: -296, y: 223.5}
+      - {x: -312, y: 209.5}
+      - {x: -315, y: 194.5}
+      - {x: -315, y: 185.5}
+      - {x: -311, y: 179.5}
+      - {x: -302, y: 178.5}
+      - {x: -277, y: 178.5}
+      - {x: -269, y: 184.5}
+      - {x: -269, y: 197.5}
+      - {x: -280, y: 220.5}
+    - - {x: -236, y: 230.5}
+      - {x: -253, y: 230.5}
+      - {x: -256, y: 222.5}
+      - {x: -256, y: 184.5}
+      - {x: -249, y: 178.5}
+      - {x: -210, y: 178.5}
+      - {x: -205, y: 187.5}
+      - {x: -205, y: 201.5}
+      - {x: -216, y: 223.5}
+    - - {x: -173, y: 222.5}
+      - {x: -177, y: 221.5}
+      - {x: -187, y: 204.5}
+      - {x: -187, y: 180.5}
+      - {x: -181, y: 178.5}
+      - {x: -143, y: 178.5}
+      - {x: -140, y: 181.5}
+      - {x: -140, y: 199.5}
+      - {x: -154, y: 222.5}
+    - - {x: -55, y: 218.5}
+      - {x: -68, y: 205.5}
+      - {x: -68, y: 183.5}
+      - {x: -63, y: 178.5}
+      - {x: -21, y: 178.5}
+      - {x: -17, y: 184.5}
+      - {x: -17, y: 201.5}
+      - {x: -32, y: 218.5}
+    - - {x: 11, y: 206.5}
+      - {x: 1, y: 196.5}
+      - {x: 1, y: 182.5}
+      - {x: 8, y: 178.5}
+      - {x: 53, y: 178.5}
+      - {x: 61, y: 185.5}
+      - {x: 61, y: 198.5}
+      - {x: 42, y: 206.5}
+    - - {x: 85, y: 221.5}
+      - {x: 70, y: 205.5}
+      - {x: 70, y: 184.5}
+      - {x: 75, y: 178.5}
+      - {x: 109, y: 178.5}
+      - {x: 116, y: 181.5}
+      - {x: 116, y: 202.5}
+      - {x: 108, y: 221.5}
+    - - {x: 152, y: 217.5}
+      - {x: 134, y: 208.5}
+      - {x: 132, y: 195.5}
+      - {x: 132, y: 184.5}
+      - {x: 137, y: 178.5}
+      - {x: 173, y: 178.5}
+      - {x: 180, y: 179.5}
+      - {x: 183, y: 182.5}
+      - {x: 183, y: 196.5}
+      - {x: 174, y: 217.5}
+    - - {x: 239, y: 223.5}
+      - {x: 220, y: 223.5}
+      - {x: 214, y: 221.5}
+      - {x: 205, y: 205.5}
+      - {x: 205, y: 181.5}
+      - {x: 212, y: 178.5}
+      - {x: 248, y: 178.5}
+      - {x: 251, y: 186.5}
+      - {x: 251, y: 206.5}
+    - - {x: 282, y: 230.5}
+      - {x: 266, y: 230.5}
+      - {x: 264, y: 218.5}
+      - {x: 264, y: 214.5}
+      - {x: 267, y: 212.5}
+      - {x: 270, y: 184.5}
+      - {x: 280, y: 178.5}
+      - {x: 311, y: 178.5}
+      - {x: 315, y: 187.5}
+      - {x: 315, y: 199.5}
+      - {x: 298, y: 225.5}
+    - - {x: 333, y: 179.5}
+      - {x: 334, y: 178.5}
+      - {x: 373, y: 178.5}
+      - {x: 380, y: 181.5}
+      - {x: 380, y: 200.5}
+      - {x: 366, y: 222.5}
+      - {x: 351, y: 222.5}
+      - {x: 344, y: 220.5}
+      - {x: 333, y: 200.5}
+    - - {x: 461, y: 218.5}
+      - {x: 452, y: 202.5}
+      - {x: 452, y: 180.5}
+      - {x: 456, y: 178.5}
+      - {x: 498, y: 178.5}
+      - {x: 503, y: 182.5}
+      - {x: 503, y: 196.5}
+      - {x: 487, y: 218.5}
+    - - {x: -462, y: 205.5}
+      - {x: -465, y: 202.5}
+      - {x: -465, y: 200.5}
+      - {x: -462, y: 197.5}
+      - {x: -460, y: 197.5}
+      - {x: -457, y: 200.5}
+      - {x: -457, y: 202.5}
+      - {x: -460, y: 205.5}
+    - - {x: 58, y: 205.5}
+      - {x: 55, y: 202.5}
+      - {x: 55, y: 200.5}
+      - {x: 58, y: 197.5}
+      - {x: 60, y: 197.5}
+      - {x: 63, y: 200.5}
+      - {x: 63, y: 202.5}
+      - {x: 60, y: 205.5}
+    - - {x: -460, y: 212.5}
+      - {x: -457, y: 213.5}
+      - {x: -457, y: 216.5}
+      - {x: -460, y: 217.5}
+      - {x: -462, y: 215.5}
+    - - {x: -175, y: 232.5}
+      - {x: -187, y: 232.5}
+      - {x: -188, y: 230.5}
+      - {x: -188, y: 223.5}
+      - {x: -188, y: 225.5}
+      - {x: -194, y: 230.5}
+      - {x: -197, y: 232.5}
+      - {x: -202, y: 223.5}
+      - {x: -202, y: 215.5}
+      - {x: -200, y: 212.5}
+      - {x: -180, y: 212.5}
+      - {x: -173, y: 216.5}
+      - {x: -173, y: 229.5}
+    - - {x: 345, y: 232.5}
+      - {x: 333, y: 232.5}
+      - {x: 332, y: 230.5}
+      - {x: 332, y: 223.5}
+      - {x: 332, y: 225.5}
+      - {x: 326, y: 230.5}
+      - {x: 323, y: 232.5}
+      - {x: 318, y: 222.5}
+      - {x: 318, y: 215.5}
+      - {x: 321, y: 212.5}
+      - {x: 340, y: 212.5}
+      - {x: 347, y: 216.5}
+      - {x: 347, y: 229.5}
+    - - {x: -324, y: 231.5}
+      - {x: -326, y: 230.5}
+      - {x: -330, y: 223.5}
+      - {x: -330, y: 215.5}
+      - {x: -329, y: 213.5}
+      - {x: -322, y: 213.5}
+      - {x: -316, y: 221.5}
+      - {x: -316, y: 226.5}
+      - {x: -319, y: 231.5}
+    - - {x: -303, y: 231.5}
+      - {x: -316, y: 231.5}
+      - {x: -320, y: 222.5}
+      - {x: -320, y: 216.5}
+      - {x: -319, y: 213.5}
+      - {x: -305, y: 213.5}
+      - {x: -301, y: 215.5}
+      - {x: -301, y: 228.5}
+    - - {x: 196, y: 231.5}
+      - {x: 193, y: 230.5}
+      - {x: 190, y: 220.5}
+      - {x: 190, y: 214.5}
+      - {x: 193, y: 213.5}
+      - {x: 200, y: 213.5}
+      - {x: 204, y: 219.5}
+      - {x: 204, y: 226.5}
+      - {x: 200, y: 231.5}
+    - - {x: 204, y: 231.5}
+      - {x: 200, y: 221.5}
+      - {x: 200, y: 213.5}
+      - {x: 219, y: 213.5}
+      - {x: 219, y: 231.5}
+    - - {x: -262, y: 232.5}
+      - {x: -266, y: 225.5}
+      - {x: -266, y: 217.5}
+      - {x: -264, y: 214.5}
+      - {x: -256, y: 214.5}
+      - {x: -252, y: 222.5}
+      - {x: -252, y: 229.5}
+      - {x: -258, y: 232.5}
+    - - {x: 260, y: 232.5}
+      - {x: 257, y: 231.5}
+      - {x: 254, y: 221.5}
+      - {x: 254, y: 215.5}
+      - {x: 257, y: 214.5}
+      - {x: 264, y: 214.5}
+      - {x: 268, y: 220.5}
+      - {x: 268, y: 227.5}
+      - {x: 264, y: 232.5}
+    - - {x: -101, y: 287.5}
+      - {x: -109, y: 287.5}
+      - {x: -117, y: 281.5}
+      - {x: -125, y: 271.5}
+      - {x: -130, y: 262.5}
+      - {x: -130, y: 246.5}
+      - {x: -123, y: 241.5}
+      - {x: -90, y: 241.5}
+      - {x: -84, y: 246.5}
+      - {x: -84, y: 263.5}
+      - {x: -95, y: 285.5}
+    - - {x: -37, y: 287.5}
+      - {x: -45, y: 287.5}
+      - {x: -53, y: 281.5}
+      - {x: -61, y: 271.5}
+      - {x: -66, y: 262.5}
+      - {x: -66, y: 246.5}
+      - {x: -59, y: 241.5}
+      - {x: -26, y: 241.5}
+      - {x: -20, y: 246.5}
+      - {x: -20, y: 263.5}
+      - {x: -31, y: 285.5}
+    - - {x: 407, y: 287.5}
+      - {x: 401, y: 283.5}
+      - {x: 390, y: 264.5}
+      - {x: 390, y: 245.5}
+      - {x: 391, y: 241.5}
+      - {x: 429, y: 241.5}
+      - {x: 436, y: 247.5}
+      - {x: 436, y: 264.5}
+      - {x: 425, y: 287.5}
+    - - {x: 471, y: 287.5}
+      - {x: 465, y: 283.5}
+      - {x: 454, y: 264.5}
+      - {x: 454, y: 245.5}
+      - {x: 455, y: 241.5}
+      - {x: 493, y: 241.5}
+      - {x: 500, y: 247.5}
+      - {x: 500, y: 264.5}
+      - {x: 489, y: 287.5}
+    - - {x: -497, y: 273.5}
+      - {x: -519, y: 265.5}
+      - {x: -519, y: 244.5}
+      - {x: -517, y: 242.5}
+      - {x: -467, y: 242.5}
+      - {x: -459, y: 244.5}
+      - {x: -459, y: 257.5}
+      - {x: -471, y: 273.5}
+    - - {x: -454, y: 242.5}
+      - {x: -403, y: 242.5}
+      - {x: -398, y: 243.5}
+      - {x: -398, y: 257.5}
+      - {x: -413, y: 276.5}
+      - {x: -442, y: 276.5}
+      - {x: -454, y: 259.5}
+    - - {x: -342, y: 283.5}
+      - {x: -353, y: 283.5}
+      - {x: -369, y: 279.5}
+      - {x: -388, y: 267.5}
+      - {x: -388, y: 244.5}
+      - {x: -387, y: 242.5}
+      - {x: -341, y: 242.5}
+      - {x: -336, y: 249.5}
+      - {x: -336, y: 278.5}
+    - - {x: -294, y: 283.5}
+      - {x: -314, y: 279.5}
+      - {x: -325, y: 257.5}
+      - {x: -325, y: 244.5}
+      - {x: -318, y: 242.5}
+      - {x: -275, y: 242.5}
+      - {x: -267, y: 253.5}
+      - {x: -267, y: 276.5}
+      - {x: -270, y: 283.5}
+    - - {x: -260, y: 280.5}
+      - {x: -260, y: 248.5}
+      - {x: -252, y: 242.5}
+      - {x: -217, y: 242.5}
+      - {x: -206, y: 250.5}
+      - {x: -201, y: 262.5}
+      - {x: -201, y: 280.5}
+    - - {x: -177, y: 281.5}
+      - {x: -182, y: 276.5}
+      - {x: -197, y: 260.5}
+      - {x: -197, y: 246.5}
+      - {x: -195, y: 242.5}
+      - {x: -147, y: 242.5}
+      - {x: -136, y: 257.5}
+      - {x: -136, y: 273.5}
+      - {x: -160, y: 281.5}
+    - - {x: 13, y: 273.5}
+      - {x: 10, y: 270.5}
+      - {x: 1, y: 257.5}
+      - {x: 1, y: 242.5}
+      - {x: 53, y: 242.5}
+      - {x: 61, y: 244.5}
+      - {x: 61, y: 268.5}
+      - {x: 49, y: 273.5}
+    - - {x: 92, y: 276.5}
+      - {x: 75, y: 271.5}
+      - {x: 66, y: 258.5}
+      - {x: 66, y: 242.5}
+      - {x: 116, y: 242.5}
+      - {x: 122, y: 248.5}
+      - {x: 122, y: 257.5}
+      - {x: 106, y: 276.5}
+    - - {x: 149, y: 283.5}
+      - {x: 143, y: 281.5}
+      - {x: 132, y: 259.5}
+      - {x: 132, y: 244.5}
+      - {x: 137, y: 242.5}
+      - {x: 182, y: 242.5}
+      - {x: 184, y: 246.5}
+      - {x: 184, y: 278.5}
+      - {x: 181, y: 283.5}
+    - - {x: 229, y: 283.5}
+      - {x: 222, y: 281.5}
+      - {x: 195, y: 264.5}
+      - {x: 195, y: 245.5}
+      - {x: 196, y: 242.5}
+      - {x: 246, y: 242.5}
+      - {x: 253, y: 252.5}
+      - {x: 253, y: 276.5}
+      - {x: 250, y: 283.5}
+    - - {x: 301, y: 280.5}
+      - {x: 274, y: 280.5}
+      - {x: 260, y: 267.5}
+      - {x: 260, y: 247.5}
+      - {x: 264, y: 242.5}
+      - {x: 306, y: 242.5}
+      - {x: 319, y: 255.5}
+      - {x: 319, y: 269.5}
+      - {x: 316, y: 272.5}
+    - - {x: 334, y: 281.5}
+      - {x: 323, y: 259.5}
+      - {x: 323, y: 243.5}
+      - {x: 326, y: 242.5}
+      - {x: 372, y: 242.5}
+      - {x: 384, y: 258.5}
+      - {x: 384, y: 274.5}
+      - {x: 373, y: 281.5}
+    - - {x: -209, y: 283.5}
+      - {x: -213, y: 279.5}
+      - {x: -213, y: 278.5}
+      - {x: -208, y: 273.5}
+      - {x: -205, y: 273.5}
+      - {x: -201, y: 277.5}
+      - {x: -201, y: 279.5}
+      - {x: -205, y: 283.5}
+    - - {x: 311, y: 283.5}
+      - {x: 307, y: 279.5}
+      - {x: 307, y: 278.5}
+      - {x: 312, y: 273.5}
+      - {x: 315, y: 273.5}
+      - {x: 319, y: 277.5}
+      - {x: 319, y: 279.5}
+      - {x: 315, y: 283.5}
+    - - {x: -141, y: 282.5}
+      - {x: -144, y: 279.5}
+      - {x: -144, y: 278.5}
+      - {x: -141, y: 275.5}
+      - {x: -139, y: 275.5}
+      - {x: -136, y: 278.5}
+      - {x: -136, y: 279.5}
+      - {x: -139, y: 282.5}
+    - - {x: 379, y: 282.5}
+      - {x: 376, y: 279.5}
+      - {x: 376, y: 278.5}
+      - {x: 379, y: 275.5}
+      - {x: 381, y: 275.5}
+      - {x: 384, y: 278.5}
+      - {x: 384, y: 279.5}
+      - {x: 381, y: 282.5}
+    - - {x: -484, y: 351.5}
+      - {x: -495, y: 351.5}
+      - {x: -511, y: 337.5}
+      - {x: -514, y: 322.5}
+      - {x: -514, y: 313.5}
+      - {x: -510, y: 307.5}
+      - {x: -501, y: 306.5}
+      - {x: -476, y: 306.5}
+      - {x: -468, y: 312.5}
+      - {x: -468, y: 325.5}
+      - {x: -479, y: 348.5}
+    - - {x: -431, y: 352.5}
+      - {x: -449, y: 333.5}
+      - {x: -449, y: 310.5}
+      - {x: -446, y: 306.5}
+      - {x: -414, y: 306.5}
+      - {x: -409, y: 307.5}
+      - {x: -404, y: 315.5}
+      - {x: -404, y: 330.5}
+      - {x: -416, y: 352.5}
+    - - {x: -373, y: 350.5}
+      - {x: -386, y: 331.5}
+      - {x: -386, y: 311.5}
+      - {x: -384, y: 306.5}
+      - {x: -349, y: 306.5}
+      - {x: -339, y: 312.5}
+      - {x: -339, y: 327.5}
+      - {x: -348, y: 350.5}
+    - - {x: -311, y: 360.5}
+      - {x: -318, y: 357.5}
+      - {x: -318, y: 306.5}
+      - {x: -284, y: 306.5}
+      - {x: -280, y: 310.5}
+      - {x: -280, y: 338.5}
+      - {x: -288, y: 360.5}
+    - - {x: -209, y: 324.5}
+      - {x: -224, y: 343.5}
+      - {x: -236, y: 343.5}
+      - {x: -251, y: 339.5}
+      - {x: -261, y: 324.5}
+      - {x: -261, y: 314.5}
+      - {x: -257, y: 307.5}
+      - {x: -247, y: 306.5}
+      - {x: -223, y: 306.5}
+      - {x: -211, y: 309.5}
+      - {x: -207, y: 314.5}
+      - {x: -207, y: 319.5}
+    - - {x: -173, y: 346.5}
+      - {x: -185, y: 344.5}
+      - {x: -196, y: 325.5}
+      - {x: -196, y: 308.5}
+      - {x: -194, y: 306.5}
+      - {x: -145, y: 306.5}
+      - {x: -145, y: 331.5}
+      - {x: -163, y: 346.5}
+    - - {x: -110, y: 351.5}
+      - {x: -127, y: 336.5}
+      - {x: -130, y: 323.5}
+      - {x: -130, y: 313.5}
+      - {x: -126, y: 307.5}
+      - {x: -117, y: 306.5}
+      - {x: -91, y: 306.5}
+      - {x: -84, y: 310.5}
+      - {x: -84, y: 331.5}
+      - {x: -92, y: 351.5}
+    - - {x: 40, y: 351.5}
+      - {x: 21, y: 351.5}
+      - {x: 15, y: 349.5}
+      - {x: 6, y: 333.5}
+      - {x: 6, y: 309.5}
+      - {x: 13, y: 306.5}
+      - {x: 49, y: 306.5}
+      - {x: 52, y: 314.5}
+      - {x: 52, y: 334.5}
+    - - {x: 101, y: 352.5}
+      - {x: 85, y: 352.5}
+      - {x: 72, y: 339.5}
+      - {x: 71, y: 330.5}
+      - {x: 71, y: 308.5}
+      - {x: 72, y: 306.5}
+      - {x: 114, y: 306.5}
+      - {x: 116, y: 311.5}
+      - {x: 116, y: 334.5}
+      - {x: 114, y: 341.5}
+    - - {x: 134, y: 307.5}
+      - {x: 135, y: 306.5}
+      - {x: 174, y: 306.5}
+      - {x: 181, y: 309.5}
+      - {x: 181, y: 328.5}
+      - {x: 167, y: 350.5}
+      - {x: 152, y: 350.5}
+      - {x: 145, y: 348.5}
+      - {x: 134, y: 328.5}
+    - - {x: 202, y: 306.5}
+      - {x: 234, y: 306.5}
+      - {x: 240, y: 309.5}
+      - {x: 240, y: 342.5}
+      - {x: 232, y: 359.5}
+      - {x: 230, y: 360.5}
+      - {x: 211, y: 360.5}
+      - {x: 202, y: 357.5}
+    - - {x: 280, y: 343.5}
+      - {x: 268, y: 340.5}
+      - {x: 259, y: 321.5}
+      - {x: 259, y: 310.5}
+      - {x: 268, y: 306.5}
+      - {x: 305, y: 306.5}
+      - {x: 311, y: 307.5}
+      - {x: 313, y: 313.5}
+      - {x: 313, y: 323.5}
+      - {x: 296, y: 343.5}
+    - - {x: 342, y: 346.5}
+      - {x: 324, y: 329.5}
+      - {x: 324, y: 306.5}
+      - {x: 375, y: 306.5}
+      - {x: 375, y: 327.5}
+      - {x: 357, y: 346.5}
+    - - {x: 424, y: 351.5}
+      - {x: 405, y: 351.5}
+      - {x: 399, y: 349.5}
+      - {x: 390, y: 333.5}
+      - {x: 390, y: 309.5}
+      - {x: 397, y: 306.5}
+      - {x: 433, y: 306.5}
+      - {x: 436, y: 314.5}
+      - {x: 436, y: 334.5}
+    physicsShape:
+    - - {x: -292, y: -333.5}
+      - {x: -292, y: -315.5}
+      - {x: -295, y: -310.5}
+      - {x: -313, y: -289.5}
+      - {x: -313, y: -279.5}
+      - {x: -332, y: -248.5}
+      - {x: -340, y: -243.5}
+      - {x: -343, y: -242.5}
+      - {x: -352, y: -242.5}
+      - {x: -362, y: -247.5}
+      - {x: -366, y: -264.5}
+      - {x: -375, y: -271.5}
+      - {x: -385, y: -280.5}
+      - {x: -391, y: -295.5}
+      - {x: -405, y: -310.5}
+      - {x: -408, y: -316.5}
+      - {x: -408, y: -341.5}
+      - {x: -388, y: -354.5}
+      - {x: -365, y: -359.5}
+      - {x: -325, y: -359.5}
+      - {x: -319, y: -356.5}
+      - {x: -310, y: -352.5}
+      - {x: -293, y: -340.5}
+    - - {x: 135, y: -330.5}
+      - {x: 135, y: -320.5}
+      - {x: 123, y: -311.5}
+      - {x: 118, y: -311.5}
+      - {x: 116, y: -313.5}
+      - {x: 116, y: -315.5}
+      - {x: 118, y: -317.5}
+      - {x: 116, y: -316.5}
+      - {x: 116, y: -298.5}
+      - {x: 101, y: -287.5}
+      - {x: 94, y: -277.5}
+      - {x: 83, y: -263.5}
+      - {x: 65, y: -253.5}
+      - {x: 70, y: -248.5}
+      - {x: 68, y: -241.5}
+      - {x: 59, y: -241.5}
+      - {x: 50, y: -244.5}
+      - {x: 27, y: -267.5}
+      - {x: 20, y: -276.5}
+      - {x: 17, y: -291.5}
+      - {x: 17, y: -320.5}
+      - {x: 18, y: -323.5}
+      - {x: 23, y: -329.5}
+      - {x: 42, y: -341.5}
+      - {x: 47, y: -344.5}
+      - {x: 59, y: -355.5}
+      - {x: 82, y: -355.5}
+      - {x: 83, y: -351.5}
+      - {x: 106, y: -344.5}
+      - {x: 128, y: -343.5}
+    - - {x: 99, y: -347.5}
+      - {x: 95, y: -348.5}
+      - {x: 95, y: -353.5}
+      - {x: 96, y: -354.5}
+      - {x: 99, y: -355.5}
+      - {x: 104, y: -355.5}
+      - {x: 107, y: -352.5}
+      - {x: 107, y: -350.5}
+      - {x: 106, y: -347.5}
+    - - {x: -186, y: -324.5}
+      - {x: -191, y: -320.5}
+      - {x: -196, y: -320.5}
+      - {x: -189, y: -319.5}
+      - {x: -186, y: -322.5}
+      - {x: -186, y: -325.5}
+      - {x: -185, y: -326.5}
+      - {x: -185, y: -339.5}
+      - {x: -158, y: -340.5}
+      - {x: -146, y: -336.5}
+      - {x: -143, y: -329.5}
+      - {x: -143, y: -325.5}
+      - {x: -147, y: -324.5}
+      - {x: -150, y: -324.5}
+      - {x: -147, y: -321.5}
+      - {x: -147, y: -318.5}
+      - {x: -149, y: -316.5}
+      - {x: -145, y: -315.5}
+      - {x: -143, y: -315.5}
+      - {x: -143, y: -304.5}
+      - {x: -236, y: -304.5}
+      - {x: -236, y: -332.5}
+      - {x: -235, y: -338.5}
+      - {x: -231, y: -340.5}
+      - {x: -186, y: -340.5}
+      - {x: -185, y: -334.5}
+      - {x: -185, y: -327.5}
+    - - {x: -237, y: -304.5}
+      - {x: -247, y: -304.5}
+      - {x: -248, y: -305.5}
+      - {x: -254, y: -304.5}
+      - {x: -273, y: -304.5}
+      - {x: -273, y: -318.5}
+      - {x: -268, y: -335.5}
+      - {x: -266, y: -337.5}
+      - {x: -239, y: -337.5}
+      - {x: -235, y: -336.5}
+      - {x: -235, y: -305.5}
+    - - {x: 132, y: -334.5}
+      - {x: 138, y: -334.5}
+      - {x: 140, y: -333.5}
+      - {x: 140, y: -327.5}
+      - {x: 136, y: -327.5}
+      - {x: 132, y: -329.5}
+    - - {x: -259, y: -320.5}
+      - {x: -258, y: -323.5}
+      - {x: -259, y: -324.5}
+    - - {x: 134, y: -309.5}
+      - {x: 132, y: -312.5}
+      - {x: 132, y: -318.5}
+      - {x: 135, y: -324.5}
+      - {x: 158, y: -324.5}
+      - {x: 159, y: -322.5}
+      - {x: 159, y: -315.5}
+      - {x: 146, y: -309.5}
+    - - {x: 279, y: -316.5}
+      - {x: 281, y: -312.5}
+      - {x: 281, y: -305.5}
+      - {x: 280, y: -302.5}
+      - {x: 275, y: -298.5}
+      - {x: 270, y: -298.5}
+      - {x: 277, y: -297.5}
+      - {x: 280, y: -300.5}
+      - {x: 280, y: -303.5}
+      - {x: 281, y: -304.5}
+      - {x: 281, y: -311.5}
+      - {x: 282, y: -314.5}
+      - {x: 295, y: -313.5}
+      - {x: 317, y: -314.5}
+      - {x: 323, y: -308.5}
+      - {x: 323, y: -304.5}
+      - {x: 319, y: -302.5}
+      - {x: 316, y: -302.5}
+      - {x: 319, y: -299.5}
+      - {x: 319, y: -296.5}
+      - {x: 317, y: -294.5}
+      - {x: 322, y: -295.5}
+      - {x: 323, y: -292.5}
+      - {x: 323, y: -282.5}
+      - {x: 302, y: -282.5}
+      - {x: 291, y: -298.5}
+      - {x: 288, y: -282.5}
+      - {x: 185, y: -282.5}
+      - {x: 184, y: -283.5}
+      - {x: 184, y: -300.5}
+      - {x: 187, y: -315.5}
+      - {x: 203, y: -318.5}
+      - {x: 242, y: -318.5}
+      - {x: 246, y: -316.5}
+      - {x: 251, y: -316.5}
+      - {x: 255, y: -315.5}
+      - {x: 263, y: -316.5}
+    - - {x: 198, y: -298.5}
+      - {x: 199, y: -301.5}
+      - {x: 198, y: -302.5}
+    - - {x: 126, y: -211.5}
+      - {x: 123, y: -218.5}
+      - {x: 122, y: -223.5}
+      - {x: 121, y: -229.5}
+      - {x: 125, y: -236.5}
+      - {x: 132, y: -236.5}
+      - {x: 138, y: -233.5}
+      - {x: 138, y: -212.5}
+      - {x: 131, y: -207.5}
+      - {x: 130, y: -207.5}
+    - - {x: 160, y: -207.5}
+      - {x: 155, y: -210.5}
+      - {x: 153, y: -224.5}
+      - {x: 153, y: -230.5}
+      - {x: 160, y: -236.5}
+      - {x: 169, y: -236.5}
+      - {x: 170, y: -231.5}
+      - {x: 170, y: -210.5}
+      - {x: 165, y: -207.5}
+    - - {x: -408, y: -202.5}
+      - {x: -409, y: -202.5}
+      - {x: -413, y: -206.5}
+      - {x: -416, y: -213.5}
+      - {x: -417, y: -216.5}
+      - {x: -417, y: -228.5}
+      - {x: -412, y: -231.5}
+      - {x: -404, y: -231.5}
+      - {x: -401, y: -227.5}
+      - {x: -401, y: -207.5}
+    - - {x: -380, y: -202.5}
+      - {x: -384, y: -205.5}
+      - {x: -385, y: -218.5}
+      - {x: -385, y: -226.5}
+      - {x: -379, y: -231.5}
+      - {x: -371, y: -231.5}
+      - {x: -369, y: -226.5}
+      - {x: -369, y: -205.5}
+      - {x: -374, y: -202.5}
+    - - {x: 149, y: -197.5}
+      - {x: 153, y: -201.5}
+      - {x: 170, y: -201.5}
+      - {x: 172, y: -200.5}
+      - {x: 172, y: -187.5}
+      - {x: 167, y: -179.5}
+      - {x: 159, y: -179.5}
+      - {x: 152, y: -182.5}
+      - {x: 149, y: -190.5}
+    - - {x: 181, y: -198.5}
+      - {x: 186, y: -201.5}
+      - {x: 200, y: -201.5}
+      - {x: 205, y: -200.5}
+      - {x: 205, y: -186.5}
+      - {x: 202, y: -179.5}
+      - {x: 192, y: -179.5}
+      - {x: 181, y: -191.5}
+    - - {x: 119, y: -195.5}
+      - {x: 122, y: -200.5}
+      - {x: 134, y: -200.5}
+      - {x: 139, y: -197.5}
+      - {x: 139, y: -184.5}
+      - {x: 138, y: -182.5}
+      - {x: 132, y: -177.5}
+      - {x: 125, y: -177.5}
+      - {x: 119, y: -185.5}
+    - - {x: -382, y: -174.5}
+      - {x: -389, y: -183.5}
+      - {x: -389, y: -189.5}
+      - {x: -382, y: -196.5}
+      - {x: -371, y: -196.5}
+      - {x: -367, y: -194.5}
+      - {x: -367, y: -183.5}
+      - {x: -371, y: -174.5}
+    - - {x: -346, y: -174.5}
+      - {x: -357, y: -183.5}
+      - {x: -357, y: -194.5}
+      - {x: -353, y: -196.5}
+      - {x: -336, y: -196.5}
+      - {x: -334, y: -192.5}
+      - {x: -334, y: -181.5}
+      - {x: -340, y: -175.5}
+    - - {x: -408, y: -172.5}
+      - {x: -414, y: -172.5}
+      - {x: -419, y: -181.5}
+      - {x: -419, y: -194.5}
+      - {x: -416, y: -195.5}
+      - {x: -403, y: -195.5}
+      - {x: -400, y: -191.5}
+      - {x: -400, y: -180.5}
+    - - {x: -313, y: -121.5}
+      - {x: -317, y: -126.5}
+      - {x: -321, y: -139.5}
+      - {x: -321, y: -146.5}
+      - {x: -317, y: -149.5}
+      - {x: -302, y: -151.5}
+      - {x: -280, y: -151.5}
+      - {x: -275, y: -150.5}
+      - {x: -271, y: -136.5}
+      - {x: -271, y: -130.5}
+      - {x: -279, y: -121.5}
+    - - {x: 239, y: -122.5}
+      - {x: 228, y: -121.5}
+      - {x: 205, y: -121.5}
+      - {x: 199, y: -133.5}
+      - {x: 199, y: -148.5}
+      - {x: 203, y: -149.5}
+      - {x: 222, y: -151.5}
+      - {x: 240, y: -151.5}
+      - {x: 247, y: -144.5}
+      - {x: 249, y: -135.5}
+      - {x: 249, y: -131.5}
+    - - {x: -441, y: -126.5}
+      - {x: -449, y: -129.5}
+      - {x: -451, y: -131.5}
+      - {x: -451, y: -142.5}
+      - {x: -442, y: -149.5}
+      - {x: -415, y: -149.5}
+      - {x: -412, y: -148.5}
+      - {x: -407, y: -147.5}
+      - {x: -407, y: -130.5}
+      - {x: -408, y: -126.5}
+    - - {x: -210, y: -136.5}
+      - {x: -210, y: -130.5}
+      - {x: -214, y: -127.5}
+      - {x: -245, y: -127.5}
+      - {x: -249, y: -128.5}
+      - {x: -243, y: -134.5}
+      - {x: -239, y: -137.5}
+      - {x: -242, y: -134.5}
+      - {x: -249, y: -133.5}
+      - {x: -256, y: -136.5}
+      - {x: -256, y: -142.5}
+      - {x: -239, y: -149.5}
+      - {x: -220, y: -149.5}
+      - {x: -210, y: -143.5}
+      - {x: -212, y: -140.5}
+      - {x: -215, y: -139.5}
+      - {x: -214, y: -139.5}
+    - - {x: 108, y: -126.5}
+      - {x: 74, y: -126.5}
+      - {x: 69, y: -130.5}
+      - {x: 69, y: -143.5}
+      - {x: 72, y: -145.5}
+      - {x: 84, y: -149.5}
+      - {x: 100, y: -149.5}
+      - {x: 108, y: -148.5}
+      - {x: 112, y: -144.5}
+      - {x: 113, y: -142.5}
+      - {x: 113, y: -129.5}
+    - - {x: 310, y: -136.5}
+      - {x: 310, y: -132.5}
+      - {x: 297, y: -127.5}
+      - {x: 277, y: -127.5}
+      - {x: 275, y: -130.5}
+      - {x: 275, y: -132.5}
+      - {x: 277, y: -134.5}
+      - {x: 281, y: -137.5}
+      - {x: 278, y: -134.5}
+      - {x: 271, y: -133.5}
+      - {x: 264, y: -136.5}
+      - {x: 264, y: -142.5}
+      - {x: 281, y: -149.5}
+      - {x: 300, y: -149.5}
+      - {x: 310, y: -143.5}
+      - {x: 308, y: -140.5}
+      - {x: 305, y: -139.5}
+      - {x: 306, y: -139.5}
+    - - {x: -350, y: -136.5}
+      - {x: -342, y: -135.5}
+      - {x: -337, y: -132.5}
+      - {x: -337, y: -129.5}
+      - {x: -339, y: -122.5}
+      - {x: -343, y: -121.5}
+      - {x: -371, y: -121.5}
+      - {x: -386, y: -129.5}
+      - {x: -386, y: -145.5}
+      - {x: -384, y: -148.5}
+      - {x: -356, y: -148.5}
+      - {x: -337, y: -144.5}
+      - {x: -337, y: -141.5}
+      - {x: -342, y: -136.5}
+      - {x: -349, y: -136.5}
+      - {x: -353, y: -139.5}
+    - - {x: 167, y: -139.5}
+      - {x: 170, y: -136.5}
+      - {x: 178, y: -135.5}
+      - {x: 183, y: -131.5}
+      - {x: 183, y: -126.5}
+      - {x: 173, y: -121.5}
+      - {x: 150, y: -121.5}
+      - {x: 142, y: -127.5}
+      - {x: 143, y: -130.5}
+      - {x: 139, y: -130.5}
+      - {x: 135, y: -133.5}
+      - {x: 134, y: -134.5}
+      - {x: 134, y: -143.5}
+      - {x: 137, y: -148.5}
+      - {x: 179, y: -148.5}
+      - {x: 183, y: -138.5}
+      - {x: 178, y: -136.5}
+      - {x: 171, y: -136.5}
+    - - {x: -156, y: -125.5}
+      - {x: -195, y: -125.5}
+      - {x: -197, y: -131.5}
+      - {x: -197, y: -142.5}
+      - {x: -191, y: -144.5}
+      - {x: -176, y: -146.5}
+      - {x: -152, y: -146.5}
+      - {x: -147, y: -135.5}
+      - {x: -147, y: -128.5}
+      - {x: -152, y: -126.5}
+    - - {x: 363, y: -127.5}
+      - {x: 352, y: -125.5}
+      - {x: 331, y: -125.5}
+      - {x: 323, y: -133.5}
+      - {x: 323, y: -141.5}
+      - {x: 329, y: -144.5}
+      - {x: 338, y: -143.5}
+      - {x: 349, y: -145.5}
+      - {x: 353, y: -146.5}
+      - {x: 367, y: -146.5}
+      - {x: 373, y: -135.5}
+      - {x: 373, y: -128.5}
+      - {x: 368, y: -126.5}
+    - - {x: -504, y: -129.5}
+      - {x: -511, y: -135.5}
+      - {x: -511, y: -138.5}
+      - {x: -509, y: -143.5}
+      - {x: -504, y: -144.5}
+      - {x: -473, y: -144.5}
+      - {x: -468, y: -137.5}
+      - {x: -468, y: -133.5}
+      - {x: -476, y: -129.5}
+    - - {x: 12, y: -129.5}
+      - {x: 9, y: -136.5}
+      - {x: 9, y: -140.5}
+      - {x: 11, y: -142.5}
+      - {x: 16, y: -144.5}
+      - {x: 46, y: -144.5}
+      - {x: 52, y: -138.5}
+      - {x: 52, y: -129.5}
+    - - {x: -168, y: -135.5}
+      - {x: -170, y: -132.5}
+      - {x: -175, y: -131.5}
+      - {x: -168, y: -136.5}
+    - - {x: 352, y: -135.5}
+      - {x: 350, y: -132.5}
+      - {x: 345, y: -131.5}
+      - {x: 352, y: -136.5}
+    - - {x: -355, y: -118.5}
+      - {x: -357, y: -120.5}
+      - {x: -357, y: -122.5}
+      - {x: -355, y: -124.5}
+      - {x: -353, y: -124.5}
+      - {x: -351, y: -122.5}
+      - {x: -351, y: -120.5}
+      - {x: -353, y: -118.5}
+    - - {x: 163, y: -124.5}
+      - {x: 168, y: -124.5}
+      - {x: 169, y: -123.5}
+      - {x: 169, y: -120.5}
+      - {x: 168, y: -118.5}
+      - {x: 165, y: -118.5}
+      - {x: 163, y: -119.5}
+    - - {x: -482, y: -60.5}
+      - {x: -506, y: -60.5}
+      - {x: -519, y: -67.5}
+      - {x: -519, y: -75.5}
+      - {x: -517, y: -79.5}
+      - {x: -465, y: -79.5}
+      - {x: -463, y: -75.5}
+      - {x: -463, y: -66.5}
+    - - {x: -399, y: -65.5}
+      - {x: -415, y: -63.5}
+      - {x: -448, y: -63.5}
+      - {x: -457, y: -67.5}
+      - {x: -457, y: -73.5}
+      - {x: -454, y: -79.5}
+      - {x: -413, y: -79.5}
+      - {x: -400, y: -77.5}
+      - {x: -397, y: -74.5}
+      - {x: -397, y: -69.5}
+    - - {x: -391, y: -64.5}
+      - {x: -394, y: -67.5}
+      - {x: -394, y: -73.5}
+      - {x: -392, y: -79.5}
+      - {x: -344, y: -79.5}
+      - {x: -343, y: -76.5}
+      - {x: -343, y: -67.5}
+      - {x: -344, y: -64.5}
+    - - {x: -287, y: -65.5}
+      - {x: -293, y: -65.5}
+      - {x: -297, y: -68.5}
+      - {x: -297, y: -73.5}
+      - {x: -293, y: -79.5}
+      - {x: -285, y: -79.5}
+      - {x: -278, y: -76.5}
+      - {x: -278, y: -71.5}
+      - {x: -281, y: -66.5}
+    - - {x: 46, y: -60.5}
+      - {x: 12, y: -60.5}
+      - {x: 5, y: -61.5}
+      - {x: 1, y: -66.5}
+      - {x: 1, y: -75.5}
+      - {x: 2, y: -79.5}
+      - {x: 55, y: -79.5}
+      - {x: 57, y: -77.5}
+      - {x: 57, y: -68.5}
+      - {x: 55, y: -64.5}
+    - - {x: 118, y: -63.5}
+      - {x: 73, y: -63.5}
+      - {x: 63, y: -67.5}
+      - {x: 63, y: -73.5}
+      - {x: 68, y: -78.5}
+      - {x: 76, y: -79.5}
+      - {x: 108, y: -79.5}
+      - {x: 120, y: -77.5}
+      - {x: 123, y: -76.5}
+      - {x: 123, y: -69.5}
+      - {x: 122, y: -64.5}
+    - - {x: 126, y: -70.5}
+      - {x: 126, y: -73.5}
+      - {x: 131, y: -78.5}
+      - {x: 136, y: -79.5}
+      - {x: 174, y: -79.5}
+      - {x: 177, y: -78.5}
+      - {x: 177, y: -70.5}
+      - {x: 171, y: -64.5}
+      - {x: 131, y: -64.5}
+    - - {x: 233, y: -65.5}
+      - {x: 227, y: -65.5}
+      - {x: 223, y: -68.5}
+      - {x: 223, y: -73.5}
+      - {x: 227, y: -79.5}
+      - {x: 235, y: -79.5}
+      - {x: 242, y: -76.5}
+      - {x: 242, y: -71.5}
+      - {x: 239, y: -66.5}
+    - - {x: -331, y: -67.5}
+      - {x: -331, y: -75.5}
+      - {x: -330, y: -78.5}
+      - {x: -306, y: -78.5}
+      - {x: -302, y: -77.5}
+      - {x: -302, y: -68.5}
+      - {x: -303, y: -67.5}
+    - - {x: -273, y: -67.5}
+      - {x: -277, y: -69.5}
+      - {x: -277, y: -73.5}
+      - {x: -275, y: -78.5}
+      - {x: -259, y: -78.5}
+      - {x: -258, y: -75.5}
+      - {x: -258, y: -71.5}
+      - {x: -262, y: -67.5}
+    - - {x: -230, y: -68.5}
+      - {x: -231, y: -71.5}
+      - {x: -231, y: -75.5}
+      - {x: -227, y: -78.5}
+      - {x: -222, y: -78.5}
+      - {x: -221, y: -75.5}
+      - {x: -221, y: -71.5}
+      - {x: -225, y: -68.5}
+    - - {x: -206, y: -68.5}
+      - {x: -211, y: -70.5}
+      - {x: -211, y: -76.5}
+      - {x: -210, y: -78.5}
+      - {x: -197, y: -78.5}
+      - {x: -196, y: -76.5}
+      - {x: -196, y: -74.5}
+      - {x: -202, y: -68.5}
+    - - {x: -162, y: -70.5}
+      - {x: -165, y: -73.5}
+      - {x: -165, y: -74.5}
+      - {x: -161, y: -78.5}
+      - {x: -160, y: -78.5}
+      - {x: -157, y: -75.5}
+      - {x: -157, y: -73.5}
+      - {x: -160, y: -70.5}
+    - - {x: 190, y: -67.5}
+      - {x: 189, y: -70.5}
+      - {x: 189, y: -76.5}
+      - {x: 190, y: -78.5}
+      - {x: 214, y: -78.5}
+      - {x: 218, y: -74.5}
+      - {x: 218, y: -71.5}
+      - {x: 216, y: -67.5}
+    - - {x: 243, y: -76.5}
+      - {x: 244, y: -78.5}
+      - {x: 259, y: -78.5}
+      - {x: 262, y: -77.5}
+      - {x: 262, y: -73.5}
+      - {x: 258, y: -67.5}
+      - {x: 245, y: -67.5}
+      - {x: 243, y: -68.5}
+    - - {x: 290, y: -68.5}
+      - {x: 289, y: -71.5}
+      - {x: 289, y: -75.5}
+      - {x: 293, y: -78.5}
+      - {x: 298, y: -78.5}
+      - {x: 299, y: -75.5}
+      - {x: 299, y: -71.5}
+      - {x: 295, y: -68.5}
+    - - {x: 320, y: -68.5}
+      - {x: 313, y: -68.5}
+      - {x: 309, y: -70.5}
+      - {x: 309, y: -73.5}
+      - {x: 311, y: -77.5}
+      - {x: 315, y: -78.5}
+      - {x: 322, y: -78.5}
+      - {x: 324, y: -76.5}
+      - {x: 324, y: -72.5}
+    - - {x: 358, y: -70.5}
+      - {x: 355, y: -73.5}
+      - {x: 355, y: -74.5}
+      - {x: 359, y: -78.5}
+      - {x: 360, y: -78.5}
+      - {x: 363, y: -75.5}
+      - {x: 363, y: -73.5}
+      - {x: 360, y: -70.5}
+    - - {x: -339, y: -66.5}
+      - {x: -343, y: -70.5}
+      - {x: -343, y: -73.5}
+      - {x: -339, y: -77.5}
+      - {x: -335, y: -77.5}
+      - {x: -332, y: -74.5}
+      - {x: -332, y: -69.5}
+      - {x: -335, y: -66.5}
+    - - {x: -255, y: -69.5}
+      - {x: -258, y: -72.5}
+      - {x: -258, y: -74.5}
+      - {x: -255, y: -77.5}
+      - {x: -253, y: -77.5}
+      - {x: -250, y: -74.5}
+      - {x: -250, y: -72.5}
+      - {x: -253, y: -69.5}
+    - - {x: -191, y: -70.5}
+      - {x: -194, y: -73.5}
+      - {x: -194, y: -74.5}
+      - {x: -191, y: -77.5}
+      - {x: -190, y: -77.5}
+      - {x: -187, y: -74.5}
+      - {x: -187, y: -73.5}
+      - {x: -190, y: -70.5}
+    - - {x: 181, y: -66.5}
+      - {x: 177, y: -70.5}
+      - {x: 177, y: -73.5}
+      - {x: 181, y: -77.5}
+      - {x: 185, y: -77.5}
+      - {x: 188, y: -74.5}
+      - {x: 188, y: -69.5}
+      - {x: 185, y: -66.5}
+    - - {x: 265, y: -69.5}
+      - {x: 262, y: -72.5}
+      - {x: 262, y: -74.5}
+      - {x: 265, y: -77.5}
+      - {x: 267, y: -77.5}
+      - {x: 270, y: -74.5}
+      - {x: 270, y: -72.5}
+      - {x: 267, y: -69.5}
+    - - {x: 329, y: -70.5}
+      - {x: 326, y: -73.5}
+      - {x: 326, y: -74.5}
+      - {x: 329, y: -77.5}
+      - {x: 330, y: -77.5}
+      - {x: 333, y: -74.5}
+      - {x: 333, y: -73.5}
+      - {x: 330, y: -70.5}
+    - - {x: -247, y: -69.5}
+      - {x: -250, y: -72.5}
+      - {x: -250, y: -73.5}
+      - {x: -247, y: -76.5}
+      - {x: -240, y: -76.5}
+      - {x: -239, y: -74.5}
+      - {x: -239, y: -72.5}
+      - {x: -243, y: -69.5}
+    - - {x: -217, y: -69.5}
+      - {x: -220, y: -72.5}
+      - {x: -220, y: -73.5}
+      - {x: -217, y: -76.5}
+      - {x: -215, y: -76.5}
+      - {x: -212, y: -73.5}
+      - {x: -212, y: -72.5}
+      - {x: -215, y: -69.5}
+    - - {x: -186, y: -72.5}
+      - {x: -186, y: -73.5}
+      - {x: -185, y: -76.5}
+      - {x: -180, y: -76.5}
+      - {x: -178, y: -75.5}
+      - {x: -178, y: -72.5}
+      - {x: -181, y: -69.5}
+      - {x: -183, y: -69.5}
+    - - {x: -152, y: -69.5}
+      - {x: -155, y: -72.5}
+      - {x: -155, y: -73.5}
+      - {x: -152, y: -76.5}
+      - {x: -151, y: -76.5}
+      - {x: -148, y: -73.5}
+      - {x: -148, y: -72.5}
+      - {x: -151, y: -69.5}
+    - - {x: -142, y: -69.5}
+      - {x: -145, y: -72.5}
+      - {x: -145, y: -75.5}
+      - {x: -143, y: -76.5}
+      - {x: -138, y: -76.5}
+      - {x: -137, y: -73.5}
+      - {x: -137, y: -72.5}
+      - {x: -140, y: -69.5}
+    - - {x: 270, y: -73.5}
+      - {x: 271, y: -76.5}
+      - {x: 281, y: -76.5}
+      - {x: 281, y: -73.5}
+      - {x: 278, y: -69.5}
+      - {x: 273, y: -69.5}
+      - {x: 270, y: -71.5}
+    - - {x: 303, y: -69.5}
+      - {x: 300, y: -72.5}
+      - {x: 300, y: -73.5}
+      - {x: 303, y: -76.5}
+      - {x: 305, y: -76.5}
+      - {x: 308, y: -73.5}
+      - {x: 308, y: -72.5}
+      - {x: 305, y: -69.5}
+    - - {x: 334, y: -72.5}
+      - {x: 334, y: -73.5}
+      - {x: 335, y: -76.5}
+      - {x: 340, y: -76.5}
+      - {x: 342, y: -75.5}
+      - {x: 342, y: -72.5}
+      - {x: 339, y: -69.5}
+      - {x: 337, y: -69.5}
+    - - {x: 368, y: -69.5}
+      - {x: 365, y: -72.5}
+      - {x: 365, y: -73.5}
+      - {x: 368, y: -76.5}
+      - {x: 369, y: -76.5}
+      - {x: 372, y: -73.5}
+      - {x: 372, y: -72.5}
+      - {x: 369, y: -69.5}
+    - - {x: 378, y: -69.5}
+      - {x: 375, y: -72.5}
+      - {x: 375, y: -75.5}
+      - {x: 377, y: -76.5}
+      - {x: 382, y: -76.5}
+      - {x: 383, y: -73.5}
+      - {x: 383, y: -72.5}
+      - {x: 380, y: -69.5}
+    - - {x: -36, y: 7.5}
+      - {x: -50, y: 7.5}
+      - {x: -57, y: 5.5}
+      - {x: -69, y: -3.5}
+      - {x: -69, y: -10.5}
+      - {x: -67, y: -15.5}
+      - {x: -19, y: -15.5}
+      - {x: -16, y: -8.5}
+      - {x: -16, y: -5.5}
+      - {x: -31, y: 6.5}
+    - - {x: 486, y: 7.5}
+      - {x: 466, y: 7.5}
+      - {x: 451, y: -0.5}
+      - {x: 451, y: -12.5}
+      - {x: 453, y: -15.5}
+      - {x: 501, y: -15.5}
+      - {x: 504, y: -8.5}
+      - {x: 504, y: -5.5}
+      - {x: 489, y: 6.5}
+    - - {x: -481, y: 24.5}
+      - {x: -496, y: 24.5}
+      - {x: -508, y: 21.5}
+      - {x: -517, y: 3.5}
+      - {x: -517, y: -11.5}
+      - {x: -515, y: -13.5}
+      - {x: -468, y: -13.5}
+      - {x: -464, y: -6.5}
+      - {x: -464, y: -0.5}
+      - {x: -466, y: 7.5}
+    - - {x: -429, y: 31.5}
+      - {x: -450, y: 19.5}
+      - {x: -450, y: -8.5}
+      - {x: -441, y: -13.5}
+      - {x: -412, y: -13.5}
+      - {x: -404, y: -5.5}
+      - {x: -404, y: 5.5}
+      - {x: -416, y: 31.5}
+    - - {x: -386, y: 5.5}
+      - {x: -386, y: -12.5}
+      - {x: -384, y: -13.5}
+      - {x: -351, y: -13.5}
+      - {x: -340, y: -10.5}
+      - {x: -340, y: 8.5}
+      - {x: -349, y: 28.5}
+      - {x: -371, y: 28.5}
+      - {x: -377, y: 26.5}
+    - - {x: -322, y: -0.5}
+      - {x: -322, y: -11.5}
+      - {x: -320, y: -13.5}
+      - {x: -281, y: -13.5}
+      - {x: -275, y: -11.5}
+      - {x: -275, y: 3.5}
+      - {x: -285, y: 22.5}
+      - {x: -311, y: 22.5}
+      - {x: -320, y: 19.5}
+      - {x: -319, y: 6.5}
+    - - {x: -229, y: 17.5}
+      - {x: -250, y: 17.5}
+      - {x: -258, y: 1.5}
+      - {x: -258, y: -11.5}
+      - {x: -253, y: -13.5}
+      - {x: -214, y: -13.5}
+      - {x: -211, y: -9.5}
+      - {x: -211, y: -3.5}
+      - {x: -213, y: 3.5}
+    - - {x: -186, y: 13.5}
+      - {x: -194, y: -0.5}
+      - {x: -194, y: -12.5}
+      - {x: -191, y: -13.5}
+      - {x: -147, y: -13.5}
+      - {x: -147, y: -1.5}
+      - {x: -162, y: 13.5}
+    - - {x: -103, y: 8.5}
+      - {x: -118, y: 8.5}
+      - {x: -125, y: 4.5}
+      - {x: -131, y: -4.5}
+      - {x: -131, y: -10.5}
+      - {x: -125, y: -13.5}
+      - {x: -85, y: -13.5}
+      - {x: -82, y: -9.5}
+      - {x: -82, y: -3.5}
+      - {x: -95, y: 7.5}
+    - - {x: 44, y: 24.5}
+      - {x: 22, y: 24.5}
+      - {x: 3, y: 13.5}
+      - {x: 3, y: -8.5}
+      - {x: 13, y: -13.5}
+      - {x: 45, y: -13.5}
+      - {x: 56, y: -5.5}
+      - {x: 56, y: 2.5}
+      - {x: 55, y: 7.5}
+    - - {x: 104, y: 31.5}
+      - {x: 89, y: 31.5}
+      - {x: 70, y: 21.5}
+      - {x: 70, y: -9.5}
+      - {x: 79, y: -13.5}
+      - {x: 107, y: -13.5}
+      - {x: 116, y: -7.5}
+      - {x: 116, y: 6.5}
+      - {x: 111, y: 19.5}
+    - - {x: 151, y: 28.5}
+      - {x: 134, y: 11.5}
+      - {x: 134, y: -9.5}
+      - {x: 136, y: -13.5}
+      - {x: 176, y: -13.5}
+      - {x: 180, y: -10.5}
+      - {x: 180, y: 6.5}
+      - {x: 171, y: 28.5}
+    - - {x: 206, y: 22.5}
+      - {x: 198, y: 5.5}
+      - {x: 198, y: -11.5}
+      - {x: 205, y: -13.5}
+      - {x: 242, y: -13.5}
+      - {x: 245, y: -8.5}
+      - {x: 245, y: 9.5}
+      - {x: 230, y: 22.5}
+    - - {x: 273, y: 17.5}
+      - {x: 262, y: 10.5}
+      - {x: 262, y: -9.5}
+      - {x: 270, y: -13.5}
+      - {x: 305, y: -13.5}
+      - {x: 309, y: -11.5}
+      - {x: 309, y: 5.5}
+      - {x: 304, y: 17.5}
+    - - {x: 360, y: 10.5}
+      - {x: 355, y: 13.5}
+      - {x: 334, y: 13.5}
+      - {x: 326, y: -0.5}
+      - {x: 326, y: -12.5}
+      - {x: 330, y: -13.5}
+      - {x: 369, y: -13.5}
+      - {x: 372, y: -12.5}
+      - {x: 373, y: -9.5}
+      - {x: 373, y: -3.5}
+    - - {x: 396, y: 8.5}
+      - {x: 389, y: -3.5}
+      - {x: 389, y: -11.5}
+      - {x: 391, y: -13.5}
+      - {x: 438, y: -13.5}
+      - {x: 438, y: -4.5}
+      - {x: 427, y: 8.5}
+    - - {x: -493, y: 95.5}
+      - {x: -514, y: 84.5}
+      - {x: -514, y: 55.5}
+      - {x: -505, y: 50.5}
+      - {x: -479, y: 50.5}
+      - {x: -468, y: 56.5}
+      - {x: -468, y: 72.5}
+      - {x: -481, y: 95.5}
+    - - {x: -417, y: 85.5}
+      - {x: -436, y: 85.5}
+      - {x: -454, y: 66.5}
+      - {x: -454, y: 54.5}
+      - {x: -445, y: 50.5}
+      - {x: -410, y: 50.5}
+      - {x: -404, y: 51.5}
+      - {x: -398, y: 53.5}
+      - {x: -398, y: 66.5}
+      - {x: -402, y: 76.5}
+    - - {x: -371, y: 90.5}
+      - {x: -384, y: 81.5}
+      - {x: -388, y: 67.5}
+      - {x: -388, y: 54.5}
+      - {x: -380, y: 50.5}
+      - {x: -349, y: 50.5}
+      - {x: -337, y: 58.5}
+      - {x: -337, y: 73.5}
+      - {x: -356, y: 90.5}
+    - - {x: -324, y: 59.5}
+      - {x: -320, y: 51.5}
+      - {x: -320, y: 50.5}
+      - {x: -280, y: 50.5}
+      - {x: -273, y: 53.5}
+      - {x: -273, y: 74.5}
+      - {x: -286, y: 90.5}
+      - {x: -301, y: 90.5}
+      - {x: -320, y: 82.5}
+      - {x: -324, y: 72.5}
+    - - {x: -237, y: 91.5}
+      - {x: -260, y: 79.5}
+      - {x: -260, y: 50.5}
+      - {x: -212, y: 50.5}
+      - {x: -209, y: 59.5}
+      - {x: -209, y: 66.5}
+      - {x: -222, y: 91.5}
+    - - {x: -159, y: 90.5}
+      - {x: -173, y: 90.5}
+      - {x: -192, y: 82.5}
+      - {x: -196, y: 72.5}
+      - {x: -196, y: 59.5}
+      - {x: -192, y: 51.5}
+      - {x: -188, y: 50.5}
+      - {x: -154, y: 50.5}
+      - {x: -145, y: 57.5}
+      - {x: -145, y: 66.5}
+      - {x: -148, y: 71.5}
+    - - {x: 40, y: 95.5}
+      - {x: 25, y: 95.5}
+      - {x: 6, y: 85.5}
+      - {x: 6, y: 54.5}
+      - {x: 15, y: 50.5}
+      - {x: 43, y: 50.5}
+      - {x: 52, y: 56.5}
+      - {x: 52, y: 70.5}
+      - {x: 47, y: 83.5}
+    - - {x: 105, y: 85.5}
+      - {x: 91, y: 85.5}
+      - {x: 80, y: 82.5}
+      - {x: 68, y: 70.5}
+      - {x: 66, y: 66.5}
+      - {x: 66, y: 55.5}
+      - {x: 75, y: 50.5}
+      - {x: 108, y: 50.5}
+      - {x: 116, y: 51.5}
+      - {x: 122, y: 57.5}
+      - {x: 122, y: 64.5}
+    - - {x: 158, y: 90.5}
+      - {x: 144, y: 86.5}
+      - {x: 132, y: 69.5}
+      - {x: 132, y: 54.5}
+      - {x: 140, y: 50.5}
+      - {x: 172, y: 50.5}
+      - {x: 179, y: 51.5}
+      - {x: 183, y: 59.5}
+      - {x: 183, y: 69.5}
+      - {x: 164, y: 90.5}
+    - - {x: 213, y: 90.5}
+      - {x: 196, y: 75.5}
+      - {x: 196, y: 56.5}
+      - {x: 201, y: 50.5}
+      - {x: 235, y: 50.5}
+      - {x: 242, y: 51.5}
+      - {x: 247, y: 56.5}
+      - {x: 247, y: 68.5}
+      - {x: 235, y: 90.5}
+    - - {x: 297, y: 91.5}
+      - {x: 279, y: 91.5}
+      - {x: 260, y: 75.5}
+      - {x: 260, y: 56.5}
+      - {x: 271, y: 50.5}
+      - {x: 303, y: 50.5}
+      - {x: 306, y: 51.5}
+      - {x: 311, y: 57.5}
+      - {x: 311, y: 66.5}
+      - {x: 299, y: 90.5}
+    - - {x: 341, y: 90.5}
+      - {x: 324, y: 75.5}
+      - {x: 324, y: 56.5}
+      - {x: 329, y: 50.5}
+      - {x: 363, y: 50.5}
+      - {x: 370, y: 51.5}
+      - {x: 375, y: 56.5}
+      - {x: 375, y: 68.5}
+      - {x: 363, y: 90.5}
+    - - {x: -495, y: 166.5}
+      - {x: -508, y: 149.5}
+      - {x: -511, y: 134.5}
+      - {x: -511, y: 120.5}
+      - {x: -507, y: 113.5}
+      - {x: -476, y: 113.5}
+      - {x: -473, y: 118.5}
+      - {x: -473, y: 144.5}
+      - {x: -484, y: 166.5}
+    - - {x: -417, y: 152.5}
+      - {x: -428, y: 152.5}
+      - {x: -442, y: 147.5}
+      - {x: -453, y: 132.5}
+      - {x: -453, y: 113.5}
+      - {x: -401, y: 113.5}
+      - {x: -400, y: 117.5}
+      - {x: -400, y: 129.5}
+      - {x: -401, y: 132.5}
+    - - {x: -345, y: 159.5}
+      - {x: -379, y: 159.5}
+      - {x: -386, y: 140.5}
+      - {x: -386, y: 118.5}
+      - {x: -382, y: 115.5}
+      - {x: -371, y: 113.5}
+      - {x: -356, y: 113.5}
+      - {x: -346, y: 117.5}
+      - {x: -340, y: 120.5}
+      - {x: -340, y: 143.5}
+    - - {x: -281, y: 159.5}
+      - {x: -315, y: 159.5}
+      - {x: -322, y: 140.5}
+      - {x: -322, y: 118.5}
+      - {x: -318, y: 115.5}
+      - {x: -307, y: 113.5}
+      - {x: -292, y: 113.5}
+      - {x: -282, y: 117.5}
+      - {x: -276, y: 120.5}
+      - {x: -276, y: 143.5}
+    - - {x: -230, y: 158.5}
+      - {x: -240, y: 158.5}
+      - {x: -248, y: 155.5}
+      - {x: -258, y: 135.5}
+      - {x: -258, y: 115.5}
+      - {x: -256, y: 113.5}
+      - {x: -213, y: 113.5}
+      - {x: -212, y: 120.5}
+      - {x: -212, y: 132.5}
+      - {x: -223, y: 155.5}
+    - - {x: 26, y: 166.5}
+      - {x: 12, y: 158.5}
+      - {x: 9, y: 142.5}
+      - {x: 9, y: 121.5}
+      - {x: 18, y: 113.5}
+      - {x: 31, y: 113.5}
+      - {x: 40, y: 115.5}
+      - {x: 47, y: 121.5}
+      - {x: 47, y: 141.5}
+      - {x: 36, y: 166.5}
+    - - {x: 102, y: 152.5}
+      - {x: 86, y: 152.5}
+      - {x: 67, y: 135.5}
+      - {x: 67, y: 118.5}
+      - {x: 80, y: 113.5}
+      - {x: 115, y: 113.5}
+      - {x: 120, y: 121.5}
+      - {x: 120, y: 133.5}
+      - {x: 104, y: 150.5}
+    - - {x: 166, y: 159.5}
+      - {x: 156, y: 159.5}
+      - {x: 145, y: 154.5}
+      - {x: 134, y: 136.5}
+      - {x: 134, y: 113.5}
+      - {x: 177, y: 113.5}
+      - {x: 180, y: 120.5}
+      - {x: 180, y: 130.5}
+      - {x: 178, y: 137.5}
+    - - {x: 230, y: 159.5}
+      - {x: 220, y: 159.5}
+      - {x: 209, y: 154.5}
+      - {x: 198, y: 136.5}
+      - {x: 198, y: 113.5}
+      - {x: 241, y: 113.5}
+      - {x: 244, y: 120.5}
+      - {x: 244, y: 130.5}
+      - {x: 242, y: 137.5}
+    - - {x: 282, y: 158.5}
+      - {x: 264, y: 145.5}
+      - {x: 262, y: 134.5}
+      - {x: 262, y: 117.5}
+      - {x: 271, y: 113.5}
+      - {x: 304, y: 113.5}
+      - {x: 308, y: 119.5}
+      - {x: 308, y: 140.5}
+      - {x: 293, y: 158.5}
+    - - {x: -102, y: 231.5}
+      - {x: -113, y: 224.5}
+      - {x: -122, y: 214.5}
+      - {x: -127, y: 200.5}
+      - {x: -127, y: 186.5}
+      - {x: -117, y: 177.5}
+      - {x: -83, y: 177.5}
+      - {x: -80, y: 186.5}
+      - {x: -80, y: 210.5}
+      - {x: -95, y: 231.5}
+    - - {x: 419, y: 231.5}
+      - {x: 395, y: 216.5}
+      - {x: 393, y: 203.5}
+      - {x: 393, y: 187.5}
+      - {x: 400, y: 177.5}
+      - {x: 437, y: 177.5}
+      - {x: 440, y: 184.5}
+      - {x: 440, y: 214.5}
+      - {x: 424, y: 231.5}
+    - - {x: -479, y: 206.5}
+      - {x: -506, y: 206.5}
+      - {x: -519, y: 192.5}
+      - {x: -519, y: 178.5}
+      - {x: -464, y: 178.5}
+      - {x: -459, y: 182.5}
+      - {x: -459, y: 190.5}
+      - {x: -465, y: 200.5}
+    - - {x: -419, y: 221.5}
+      - {x: -432, y: 221.5}
+      - {x: -450, y: 199.5}
+      - {x: -450, y: 178.5}
+      - {x: -405, y: 178.5}
+      - {x: -404, y: 184.5}
+      - {x: -404, y: 202.5}
+      - {x: -415, y: 219.5}
+    - - {x: -352, y: 217.5}
+      - {x: -372, y: 217.5}
+      - {x: -380, y: 216.5}
+      - {x: -388, y: 196.5}
+      - {x: -388, y: 181.5}
+      - {x: -384, y: 178.5}
+      - {x: -342, y: 178.5}
+      - {x: -337, y: 182.5}
+      - {x: -337, y: 197.5}
+    - - {x: -285, y: 223.5}
+      - {x: -296, y: 223.5}
+      - {x: -312, y: 209.5}
+      - {x: -315, y: 194.5}
+      - {x: -315, y: 185.5}
+      - {x: -311, y: 179.5}
+      - {x: -302, y: 178.5}
+      - {x: -277, y: 178.5}
+      - {x: -269, y: 184.5}
+      - {x: -269, y: 197.5}
+      - {x: -280, y: 220.5}
+    - - {x: -228, y: 225.5}
+      - {x: -237, y: 230.5}
+      - {x: -253, y: 230.5}
+      - {x: -256, y: 218.5}
+      - {x: -256, y: 213.5}
+      - {x: -253, y: 212.5}
+      - {x: -250, y: 198.5}
+      - {x: -251, y: 188.5}
+      - {x: -245, y: 181.5}
+      - {x: -238, y: 178.5}
+      - {x: -220, y: 178.5}
+      - {x: -210, y: 179.5}
+      - {x: -205, y: 187.5}
+      - {x: -205, y: 199.5}
+      - {x: -216, y: 223.5}
+    - - {x: -166, y: 222.5}
+      - {x: -174, y: 218.5}
+      - {x: -183, y: 207.5}
+      - {x: -187, y: 194.5}
+      - {x: -187, y: 184.5}
+      - {x: -183, y: 179.5}
+      - {x: -178, y: 178.5}
+      - {x: -149, y: 178.5}
+      - {x: -140, y: 183.5}
+      - {x: -140, y: 199.5}
+      - {x: -154, y: 222.5}
+    - - {x: -53, y: 218.5}
+      - {x: -68, y: 201.5}
+      - {x: -68, y: 184.5}
+      - {x: -60, y: 178.5}
+      - {x: -21, y: 178.5}
+      - {x: -17, y: 184.5}
+      - {x: -17, y: 201.5}
+      - {x: -32, y: 218.5}
+    - - {x: 11, y: 206.5}
+      - {x: 1, y: 196.5}
+      - {x: 1, y: 182.5}
+      - {x: 8, y: 178.5}
+      - {x: 53, y: 178.5}
+      - {x: 61, y: 185.5}
+      - {x: 61, y: 198.5}
+      - {x: 42, y: 206.5}
+    - - {x: 85, y: 221.5}
+      - {x: 70, y: 205.5}
+      - {x: 70, y: 184.5}
+      - {x: 75, y: 178.5}
+      - {x: 109, y: 178.5}
+      - {x: 116, y: 181.5}
+      - {x: 116, y: 202.5}
+      - {x: 108, y: 221.5}
+    - - {x: 152, y: 217.5}
+      - {x: 134, y: 208.5}
+      - {x: 132, y: 195.5}
+      - {x: 132, y: 184.5}
+      - {x: 137, y: 178.5}
+      - {x: 173, y: 178.5}
+      - {x: 180, y: 179.5}
+      - {x: 183, y: 182.5}
+      - {x: 183, y: 196.5}
+      - {x: 174, y: 217.5}
+    - - {x: 239, y: 223.5}
+      - {x: 220, y: 223.5}
+      - {x: 214, y: 221.5}
+      - {x: 205, y: 196.5}
+      - {x: 205, y: 184.5}
+      - {x: 209, y: 179.5}
+      - {x: 219, y: 178.5}
+      - {x: 248, y: 178.5}
+      - {x: 251, y: 186.5}
+      - {x: 251, y: 206.5}
+    - - {x: 298, y: 225.5}
+      - {x: 293, y: 224.5}
+      - {x: 286, y: 229.5}
+      - {x: 282, y: 230.5}
+      - {x: 266, y: 230.5}
+      - {x: 264, y: 218.5}
+      - {x: 264, y: 214.5}
+      - {x: 267, y: 212.5}
+      - {x: 277, y: 210.5}
+      - {x: 270, y: 198.5}
+      - {x: 270, y: 184.5}
+      - {x: 280, y: 178.5}
+      - {x: 311, y: 178.5}
+      - {x: 315, y: 187.5}
+      - {x: 315, y: 199.5}
+      - {x: 308, y: 210.5}
+    - - {x: 351, y: 222.5}
+      - {x: 344, y: 220.5}
+      - {x: 333, y: 200.5}
+      - {x: 333, y: 182.5}
+      - {x: 341, y: 178.5}
+      - {x: 371, y: 178.5}
+      - {x: 380, y: 186.5}
+      - {x: 380, y: 196.5}
+      - {x: 366, y: 222.5}
+    - - {x: 461, y: 218.5}
+      - {x: 452, y: 197.5}
+      - {x: 452, y: 181.5}
+      - {x: 455, y: 178.5}
+      - {x: 494, y: 178.5}
+      - {x: 503, y: 184.5}
+      - {x: 503, y: 196.5}
+      - {x: 487, y: 218.5}
+    - - {x: -462, y: 205.5}
+      - {x: -465, y: 202.5}
+      - {x: -465, y: 200.5}
+      - {x: -462, y: 197.5}
+      - {x: -460, y: 197.5}
+      - {x: -457, y: 200.5}
+      - {x: -457, y: 202.5}
+      - {x: -460, y: 205.5}
+    - - {x: 58, y: 205.5}
+      - {x: 55, y: 202.5}
+      - {x: 55, y: 200.5}
+      - {x: 58, y: 197.5}
+      - {x: 60, y: 197.5}
+      - {x: 63, y: 200.5}
+      - {x: 63, y: 202.5}
+      - {x: 60, y: 205.5}
+    - - {x: -460, y: 212.5}
+      - {x: -457, y: 213.5}
+      - {x: -457, y: 216.5}
+      - {x: -460, y: 217.5}
+      - {x: -462, y: 215.5}
+    - - {x: -175, y: 232.5}
+      - {x: -187, y: 232.5}
+      - {x: -188, y: 230.5}
+      - {x: -188, y: 223.5}
+      - {x: -188, y: 225.5}
+      - {x: -194, y: 230.5}
+      - {x: -197, y: 232.5}
+      - {x: -202, y: 223.5}
+      - {x: -202, y: 215.5}
+      - {x: -200, y: 212.5}
+      - {x: -180, y: 212.5}
+      - {x: -173, y: 216.5}
+      - {x: -173, y: 229.5}
+    - - {x: 345, y: 232.5}
+      - {x: 333, y: 232.5}
+      - {x: 332, y: 230.5}
+      - {x: 332, y: 223.5}
+      - {x: 332, y: 225.5}
+      - {x: 326, y: 230.5}
+      - {x: 323, y: 232.5}
+      - {x: 318, y: 222.5}
+      - {x: 318, y: 215.5}
+      - {x: 321, y: 212.5}
+      - {x: 340, y: 212.5}
+      - {x: 347, y: 216.5}
+      - {x: 347, y: 229.5}
+    - - {x: -324, y: 231.5}
+      - {x: -326, y: 230.5}
+      - {x: -330, y: 223.5}
+      - {x: -330, y: 215.5}
+      - {x: -329, y: 213.5}
+      - {x: -322, y: 213.5}
+      - {x: -316, y: 221.5}
+      - {x: -316, y: 226.5}
+      - {x: -319, y: 231.5}
+    - - {x: -303, y: 231.5}
+      - {x: -316, y: 231.5}
+      - {x: -320, y: 222.5}
+      - {x: -320, y: 216.5}
+      - {x: -319, y: 213.5}
+      - {x: -305, y: 213.5}
+      - {x: -301, y: 215.5}
+      - {x: -301, y: 228.5}
+    - - {x: 196, y: 231.5}
+      - {x: 193, y: 230.5}
+      - {x: 190, y: 220.5}
+      - {x: 190, y: 214.5}
+      - {x: 193, y: 213.5}
+      - {x: 200, y: 213.5}
+      - {x: 204, y: 219.5}
+      - {x: 204, y: 226.5}
+      - {x: 200, y: 231.5}
+    - - {x: 204, y: 231.5}
+      - {x: 200, y: 221.5}
+      - {x: 200, y: 213.5}
+      - {x: 219, y: 213.5}
+      - {x: 219, y: 231.5}
+    - - {x: -262, y: 232.5}
+      - {x: -266, y: 225.5}
+      - {x: -266, y: 217.5}
+      - {x: -264, y: 214.5}
+      - {x: -256, y: 214.5}
+      - {x: -252, y: 222.5}
+      - {x: -252, y: 229.5}
+      - {x: -258, y: 232.5}
+    - - {x: 260, y: 232.5}
+      - {x: 257, y: 231.5}
+      - {x: 254, y: 221.5}
+      - {x: 254, y: 215.5}
+      - {x: 257, y: 214.5}
+      - {x: 264, y: 214.5}
+      - {x: 268, y: 220.5}
+      - {x: 268, y: 227.5}
+      - {x: 264, y: 232.5}
+    - - {x: -101, y: 287.5}
+      - {x: -109, y: 287.5}
+      - {x: -117, y: 281.5}
+      - {x: -125, y: 271.5}
+      - {x: -130, y: 262.5}
+      - {x: -130, y: 246.5}
+      - {x: -123, y: 241.5}
+      - {x: -90, y: 241.5}
+      - {x: -84, y: 246.5}
+      - {x: -84, y: 263.5}
+      - {x: -95, y: 285.5}
+    - - {x: -37, y: 287.5}
+      - {x: -45, y: 287.5}
+      - {x: -53, y: 281.5}
+      - {x: -61, y: 271.5}
+      - {x: -66, y: 262.5}
+      - {x: -66, y: 246.5}
+      - {x: -59, y: 241.5}
+      - {x: -26, y: 241.5}
+      - {x: -20, y: 246.5}
+      - {x: -20, y: 263.5}
+      - {x: -31, y: 285.5}
+    - - {x: 409, y: 287.5}
+      - {x: 401, y: 283.5}
+      - {x: 390, y: 264.5}
+      - {x: 390, y: 245.5}
+      - {x: 391, y: 241.5}
+      - {x: 428, y: 241.5}
+      - {x: 436, y: 249.5}
+      - {x: 436, y: 263.5}
+      - {x: 423, y: 287.5}
+    - - {x: 473, y: 287.5}
+      - {x: 465, y: 283.5}
+      - {x: 454, y: 264.5}
+      - {x: 454, y: 245.5}
+      - {x: 455, y: 241.5}
+      - {x: 492, y: 241.5}
+      - {x: 500, y: 249.5}
+      - {x: 500, y: 263.5}
+      - {x: 487, y: 287.5}
+    - - {x: -497, y: 273.5}
+      - {x: -519, y: 265.5}
+      - {x: -519, y: 244.5}
+      - {x: -517, y: 242.5}
+      - {x: -467, y: 242.5}
+      - {x: -459, y: 244.5}
+      - {x: -459, y: 257.5}
+      - {x: -471, y: 273.5}
+    - - {x: -442, y: 276.5}
+      - {x: -454, y: 259.5}
+      - {x: -454, y: 242.5}
+      - {x: -406, y: 242.5}
+      - {x: -398, y: 244.5}
+      - {x: -398, y: 257.5}
+      - {x: -415, y: 276.5}
+    - - {x: -336, y: 278.5}
+      - {x: -342, y: 283.5}
+      - {x: -353, y: 283.5}
+      - {x: -369, y: 279.5}
+      - {x: -387, y: 262.5}
+      - {x: -388, y: 256.5}
+      - {x: -388, y: 248.5}
+      - {x: -384, y: 242.5}
+      - {x: -341, y: 242.5}
+      - {x: -336, y: 249.5}
+      - {x: -336, y: 269.5}
+      - {x: -337, y: 271.5}
+    - - {x: -272, y: 283.5}
+      - {x: -281, y: 283.5}
+      - {x: -304, y: 278.5}
+      - {x: -310, y: 273.5}
+      - {x: -325, y: 258.5}
+      - {x: -325, y: 247.5}
+      - {x: -317, y: 242.5}
+      - {x: -275, y: 242.5}
+      - {x: -267, y: 253.5}
+      - {x: -267, y: 275.5}
+      - {x: -269, y: 279.5}
+    - - {x: -260, y: 280.5}
+      - {x: -260, y: 248.5}
+      - {x: -252, y: 242.5}
+      - {x: -217, y: 242.5}
+      - {x: -206, y: 250.5}
+      - {x: -201, y: 262.5}
+      - {x: -201, y: 280.5}
+    - - {x: -161, y: 281.5}
+      - {x: -172, y: 281.5}
+      - {x: -182, y: 276.5}
+      - {x: -197, y: 260.5}
+      - {x: -197, y: 246.5}
+      - {x: -195, y: 242.5}
+      - {x: -147, y: 242.5}
+      - {x: -136, y: 261.5}
+      - {x: -136, y: 269.5}
+      - {x: -144, y: 272.5}
+    - - {x: 13, y: 273.5}
+      - {x: 10, y: 270.5}
+      - {x: 1, y: 257.5}
+      - {x: 1, y: 242.5}
+      - {x: 53, y: 242.5}
+      - {x: 61, y: 244.5}
+      - {x: 61, y: 268.5}
+      - {x: 49, y: 273.5}
+    - - {x: 92, y: 276.5}
+      - {x: 75, y: 271.5}
+      - {x: 66, y: 258.5}
+      - {x: 66, y: 242.5}
+      - {x: 116, y: 242.5}
+      - {x: 122, y: 248.5}
+      - {x: 122, y: 257.5}
+      - {x: 106, y: 276.5}
+    - - {x: 179, y: 283.5}
+      - {x: 164, y: 283.5}
+      - {x: 146, y: 277.5}
+      - {x: 132, y: 258.5}
+      - {x: 132, y: 248.5}
+      - {x: 139, y: 242.5}
+      - {x: 182, y: 242.5}
+      - {x: 184, y: 250.5}
+      - {x: 184, y: 278.5}
+    - - {x: 229, y: 283.5}
+      - {x: 222, y: 281.5}
+      - {x: 210, y: 273.5}
+      - {x: 195, y: 258.5}
+      - {x: 195, y: 248.5}
+      - {x: 200, y: 244.5}
+      - {x: 206, y: 242.5}
+      - {x: 246, y: 242.5}
+      - {x: 253, y: 252.5}
+      - {x: 253, y: 276.5}
+      - {x: 250, y: 283.5}
+    - - {x: 301, y: 280.5}
+      - {x: 275, y: 280.5}
+      - {x: 260, y: 262.5}
+      - {x: 260, y: 248.5}
+      - {x: 268, y: 242.5}
+      - {x: 306, y: 242.5}
+      - {x: 319, y: 255.5}
+      - {x: 319, y: 269.5}
+      - {x: 316, y: 272.5}
+    - - {x: 363, y: 281.5}
+      - {x: 349, y: 281.5}
+      - {x: 337, y: 277.5}
+      - {x: 324, y: 262.5}
+      - {x: 323, y: 257.5}
+      - {x: 323, y: 246.5}
+      - {x: 329, y: 242.5}
+      - {x: 372, y: 242.5}
+      - {x: 384, y: 263.5}
+      - {x: 384, y: 269.5}
+      - {x: 376, y: 272.5}
+    - - {x: -209, y: 283.5}
+      - {x: -213, y: 279.5}
+      - {x: -213, y: 278.5}
+      - {x: -208, y: 273.5}
+      - {x: -205, y: 273.5}
+      - {x: -201, y: 277.5}
+      - {x: -201, y: 279.5}
+      - {x: -205, y: 283.5}
+    - - {x: 311, y: 283.5}
+      - {x: 307, y: 279.5}
+      - {x: 307, y: 278.5}
+      - {x: 312, y: 273.5}
+      - {x: 315, y: 273.5}
+      - {x: 319, y: 277.5}
+      - {x: 319, y: 279.5}
+      - {x: 315, y: 283.5}
+    - - {x: -141, y: 282.5}
+      - {x: -144, y: 279.5}
+      - {x: -144, y: 278.5}
+      - {x: -141, y: 275.5}
+      - {x: -139, y: 275.5}
+      - {x: -136, y: 278.5}
+      - {x: -136, y: 279.5}
+      - {x: -139, y: 282.5}
+    - - {x: 379, y: 282.5}
+      - {x: 376, y: 279.5}
+      - {x: 376, y: 278.5}
+      - {x: 379, y: 275.5}
+      - {x: 381, y: 275.5}
+      - {x: 384, y: 278.5}
+      - {x: 384, y: 279.5}
+      - {x: 381, y: 282.5}
+    - - {x: -484, y: 351.5}
+      - {x: -495, y: 351.5}
+      - {x: -511, y: 337.5}
+      - {x: -514, y: 322.5}
+      - {x: -514, y: 313.5}
+      - {x: -510, y: 307.5}
+      - {x: -501, y: 306.5}
+      - {x: -476, y: 306.5}
+      - {x: -468, y: 312.5}
+      - {x: -468, y: 325.5}
+      - {x: -479, y: 348.5}
+    - - {x: -431, y: 352.5}
+      - {x: -449, y: 333.5}
+      - {x: -449, y: 310.5}
+      - {x: -446, y: 306.5}
+      - {x: -414, y: 306.5}
+      - {x: -409, y: 307.5}
+      - {x: -404, y: 315.5}
+      - {x: -404, y: 330.5}
+      - {x: -416, y: 352.5}
+    - - {x: -348, y: 350.5}
+      - {x: -373, y: 350.5}
+      - {x: -386, y: 331.5}
+      - {x: -386, y: 311.5}
+      - {x: -384, y: 306.5}
+      - {x: -351, y: 306.5}
+      - {x: -345, y: 309.5}
+      - {x: -339, y: 314.5}
+      - {x: -339, y: 324.5}
+    - - {x: -291, y: 357.5}
+      - {x: -294, y: 360.5}
+      - {x: -300, y: 360.5}
+      - {x: -312, y: 348.5}
+      - {x: -318, y: 333.5}
+      - {x: -318, y: 316.5}
+      - {x: -315, y: 306.5}
+      - {x: -285, y: 306.5}
+      - {x: -280, y: 312.5}
+      - {x: -280, y: 332.5}
+      - {x: -284, y: 344.5}
+    - - {x: -209, y: 324.5}
+      - {x: -224, y: 343.5}
+      - {x: -236, y: 343.5}
+      - {x: -251, y: 339.5}
+      - {x: -261, y: 324.5}
+      - {x: -261, y: 314.5}
+      - {x: -257, y: 307.5}
+      - {x: -247, y: 306.5}
+      - {x: -223, y: 306.5}
+      - {x: -211, y: 309.5}
+      - {x: -207, y: 314.5}
+      - {x: -207, y: 319.5}
+    - - {x: -173, y: 346.5}
+      - {x: -185, y: 344.5}
+      - {x: -196, y: 325.5}
+      - {x: -196, y: 308.5}
+      - {x: -194, y: 306.5}
+      - {x: -145, y: 306.5}
+      - {x: -145, y: 331.5}
+      - {x: -163, y: 346.5}
+    - - {x: -110, y: 351.5}
+      - {x: -127, y: 336.5}
+      - {x: -130, y: 323.5}
+      - {x: -130, y: 313.5}
+      - {x: -126, y: 307.5}
+      - {x: -117, y: 306.5}
+      - {x: -91, y: 306.5}
+      - {x: -84, y: 310.5}
+      - {x: -84, y: 331.5}
+      - {x: -92, y: 351.5}
+    - - {x: 40, y: 351.5}
+      - {x: 21, y: 351.5}
+      - {x: 15, y: 349.5}
+      - {x: 6, y: 324.5}
+      - {x: 6, y: 312.5}
+      - {x: 10, y: 307.5}
+      - {x: 20, y: 306.5}
+      - {x: 49, y: 306.5}
+      - {x: 52, y: 314.5}
+      - {x: 52, y: 334.5}
+    - - {x: 101, y: 352.5}
+      - {x: 85, y: 352.5}
+      - {x: 72, y: 339.5}
+      - {x: 71, y: 330.5}
+      - {x: 71, y: 308.5}
+      - {x: 72, y: 306.5}
+      - {x: 114, y: 306.5}
+      - {x: 116, y: 311.5}
+      - {x: 116, y: 334.5}
+      - {x: 114, y: 341.5}
+    - - {x: 152, y: 350.5}
+      - {x: 145, y: 348.5}
+      - {x: 134, y: 328.5}
+      - {x: 134, y: 310.5}
+      - {x: 142, y: 306.5}
+      - {x: 172, y: 306.5}
+      - {x: 181, y: 314.5}
+      - {x: 181, y: 324.5}
+      - {x: 167, y: 350.5}
+    - - {x: 230, y: 360.5}
+      - {x: 218, y: 360.5}
+      - {x: 208, y: 348.5}
+      - {x: 202, y: 328.5}
+      - {x: 202, y: 318.5}
+      - {x: 203, y: 314.5}
+      - {x: 208, y: 309.5}
+      - {x: 213, y: 306.5}
+      - {x: 234, y: 306.5}
+      - {x: 240, y: 314.5}
+      - {x: 240, y: 329.5}
+      - {x: 232, y: 359.5}
+    - - {x: 282, y: 343.5}
+      - {x: 269, y: 339.5}
+      - {x: 259, y: 321.5}
+      - {x: 259, y: 311.5}
+      - {x: 269, y: 306.5}
+      - {x: 305, y: 306.5}
+      - {x: 311, y: 307.5}
+      - {x: 313, y: 313.5}
+      - {x: 313, y: 323.5}
+      - {x: 296, y: 343.5}
+    - - {x: 342, y: 346.5}
+      - {x: 324, y: 329.5}
+      - {x: 324, y: 306.5}
+      - {x: 375, y: 306.5}
+      - {x: 375, y: 327.5}
+      - {x: 357, y: 346.5}
+    - - {x: 424, y: 351.5}
+      - {x: 405, y: 351.5}
+      - {x: 399, y: 349.5}
+      - {x: 390, y: 324.5}
+      - {x: 390, y: 312.5}
+      - {x: 394, y: 307.5}
+      - {x: 404, y: 306.5}
+      - {x: 433, y: 306.5}
+      - {x: 436, y: 314.5}
+      - {x: 436, y: 334.5}
   spritePackingTag: 
   userData: 
   assetBundleName: 
