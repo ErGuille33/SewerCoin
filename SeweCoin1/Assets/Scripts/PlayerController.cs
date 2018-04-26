@@ -109,7 +109,6 @@ public class PlayerController : MonoBehaviour {
 		vidas = GameManager.instance.SumaVida (-1);
 		parar = false;
 		}
-	}
 
 	public void QuitaVida(int cantDanio){
 		if (!damaged || cantDanio >= 3) {
