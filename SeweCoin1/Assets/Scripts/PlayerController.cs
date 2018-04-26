@@ -17,10 +17,12 @@ public class PlayerController : MonoBehaviour {
 	float move;
 	public bool isJumping = false;
 	bool facingRight = true;
+	GameObject vidasUI;
 
 	void Awake () {
 		salud = maxsalud;
 		//vidas = 3;
+		vidasUI = GameObject.Find("VidasUIF");
 	}
 
 
@@ -108,6 +110,10 @@ public class PlayerController : MonoBehaviour {
 		salud = 3;
 		vidas = GameManager.instance.SumaVida (-1);
 		parar = false;
+		animor.SetFloat ("Speed", 0);
+		vidasUI.SetActive(true);
+		Invoke("DesactivaVidaUI",2);
+		CancelaMov(2f);
 		}
 
 	public void QuitaVida(int cantDanio){
@@ -117,6 +123,13 @@ public class PlayerController : MonoBehaviour {
 			print (salud);
 			Invoke ("Danhado", tempInvencible);				//espera 3 segundos antes de volver a hacer daño
 		}
+	}
+
+	void DesactivaVidaUI(){
+		vidasUI.SetActive (false);
+		vidas = GameManager.instance.SumaVida (0);
+		salud = GameManager.instance.SumaSalud (0);
+		GameManager.instance.CargaEscena (escena);
 	}
 
 	public void CancelaMov(float tiempo){
