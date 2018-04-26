@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MenuPrincipal : MonoBehaviour {
 
+
 	public void Jugar () {
 		GameManager.instance.timeractivado = true;
 		GameManager.instance.CargaEscena ("Nivel1");
@@ -13,4 +14,5 @@ public class MenuPrincipal : MonoBehaviour {
 	public void Quitar (){
 		Application.Quit();
 	}
+		
 }

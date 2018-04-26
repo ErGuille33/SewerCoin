@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour {
 
 	public static GameManager instance = null;
-	bool pause;
 	string escenaS;
 	public bool timeractivado;
 	int salud = 3, vida = 3;
@@ -43,19 +42,10 @@ public class GameManager : MonoBehaviour {
 	}
 
 	void Update(){
-		/* Activar esta parte cuando haya una escena menu
 		if (vida <= 0)
-			SceneManager.LoadScene ();*/
+			SceneManager.LoadScene ("MenuPrincipal");
 		if (salud <= 0)
 			salud = 3;
-		if (Input.GetKeyDown ("p") && pause == false) {
-			pause = true;
-			Time.timeScale = 0;
-		} else if (Input.GetKeyDown ("p") && pause == true) {
-			pause = false;
-			Time.timeScale = 1;
-		}
-
 		if (timeractivado == true) {
 			timer += Time.deltaTime;
 		}
@@ -75,15 +65,12 @@ public class GameManager : MonoBehaviour {
 	public void ActivaAward (int e) {
 		coleccionables [e] = true;
 	}
-
-	public void CargaEscena (string escena){
-		SceneManager.LoadScene ("Vida");
-		escenaS = escena;
-		Invoke ("CargaEscena1", 2);
-
+		
+	public void CargaEscena(string escena){
+		SceneManager.LoadScene (escena);
 	}
 
-	void CargaEscena1(){
-		SceneManager.LoadScene (escenaS);
+	public bool ActColecc(int i){
+		return coleccionables [i];
 	}
 }

@@ -17,14 +17,11 @@ public class PlayerController : MonoBehaviour {
 	float move;
 	public bool isJumping = false;
 	bool facingRight = true;
-	Text vidasUI;
-
 
 
 	void Awake () {
 		salud = maxsalud;
 		//vidas = 3;
-		vidasUI = GameObject.Find ("VidasUI").GetComponent<Text>();
 	}
 
 
@@ -111,8 +108,6 @@ public class PlayerController : MonoBehaviour {
 		print ("muerto");
 		salud = -1;
 		vidas = GameManager.instance.SumaVida (-1);
-		vidasUI.enabled = true;
-		vidasUI.text = vidas  + " vidas";
 		parar = false;
 		animor.SetFloat ("Speed", 0);
 		CancelaMov (2);
@@ -141,7 +136,6 @@ public class PlayerController : MonoBehaviour {
 	}
 
 	void CambiarEscena(){
-		vidasUI.enabled = false;
 		salud = maxsalud;
 		SceneManager.LoadScene (escena);
 	}
