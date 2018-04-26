@@ -15,6 +15,7 @@ TagManager:
   - LifeUp
   - award
   - Caja
+  - bala
   layers:
   - Default
   - TransparentFX

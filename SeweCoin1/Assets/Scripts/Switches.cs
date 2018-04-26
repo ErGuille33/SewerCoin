@@ -11,7 +11,7 @@ public class Switches : MonoBehaviour {
 
 	void OnTriggerEnter2D (Collider2D col) {
 		print ("hi");
-		if (col == ataque) {
+		if (col == ataque || col.gameObject.tag == "bala") {
 			print ("ho");
 			Invoke ("Destroy", tiempo);
 		}
