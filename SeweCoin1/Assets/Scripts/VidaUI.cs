@@ -9,6 +9,6 @@ public class VidaUI : MonoBehaviour {
 
 	void Update () {
 		int vidas = GameManager.instance.SumaVida (0);
-		gameObject.GetComponent<Text> ().text = " " + vidas;	
+		gameObject.GetComponent<Text> ().text = vidas.ToString() + " ";	
 	}
 }

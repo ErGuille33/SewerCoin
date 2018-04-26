@@ -18,7 +18,6 @@ public class PlayerController : MonoBehaviour {
 	public bool isJumping = false;
 	bool facingRight = true;
 
-
 	void Awake () {
 		salud = maxsalud;
 		//vidas = 3;
@@ -106,12 +105,10 @@ public class PlayerController : MonoBehaviour {
 
 	void Death () {
 		print ("muerto");
-		salud = -1;
+		salud = 3;
 		vidas = GameManager.instance.SumaVida (-1);
 		parar = false;
-		animor.SetFloat ("Speed", 0);
-		CancelaMov (2);
-		Invoke ("CambiarEscena", 0);
+		}
 	}
 
 	public void QuitaVida(int cantDanio){

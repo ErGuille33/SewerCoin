@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour {
 
 	public static GameManager instance = null;
-	string escenaS;
+	bool pause;
 	public bool timeractivado;
 	int salud = 3, vida = 3;
 	bool[] coleccionables = new bool [10];
