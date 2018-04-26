@@ -12,12 +12,9 @@ public class MenuPausa : MonoBehaviour {
 	void Update(){
 		if (Input.GetKeyDown ("p") && pause == false) {
 			Invoke ("Parar", 0);
-			menu.SetActive(false);
-			opciones.SetActive (false);
-			pausaMenu.SetActive (true);
 		} else if (Input.GetKeyDown ("p") && pause == true) {
 			Invoke ("Continuar", 0);
-			menu.SetActive(true);
+
 		}
 	}
 	public void VolverMenu(){
@@ -27,12 +24,16 @@ public class MenuPausa : MonoBehaviour {
 	public void Continuar(){
 		pause = false;
 		Time.timeScale = 1;
+		menu.SetActive(false);
 
 	}
 
 	void Parar(){
 		pause = true;
 		Time.timeScale = 0;
+		menu.SetActive(true);
+		opciones.SetActive (false);
+		pausaMenu.SetActive (true);
 	
 	}
 }
