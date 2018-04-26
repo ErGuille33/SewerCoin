@@ -10,8 +10,11 @@ public class Switches : MonoBehaviour {
 	public GameObject puerta;
 
 	void OnTriggerEnter2D (Collider2D col) {
-		if (col == ataque)
+		print ("hi");
+		if (col == ataque) {
+			print ("ho");
 			Invoke ("Destroy", tiempo);
+		}
 	}
 
 	void Destroy(){

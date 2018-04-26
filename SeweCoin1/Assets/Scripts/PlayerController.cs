@@ -23,6 +23,7 @@ public class PlayerController : MonoBehaviour {
 		salud = maxsalud;
 		//vidas = 3;
 		vidasUI = GameObject.Find("VidasUIF");
+		vidasUI.SetActive (false);
 	}
 
 
@@ -109,12 +110,16 @@ public class PlayerController : MonoBehaviour {
 		print ("muerto");
 		salud = 3;
 		vidas = GameManager.instance.SumaVida (-1);
-		parar = false;
 		animor.SetFloat ("Speed", 0);
-		vidasUI.SetActive(true);
-		Invoke("DesactivaVidaUI",2);
-		CancelaMov(2f);
+		vidasUI.SetActive (true);
+		Invoke ("DesactivaVidaUI", 2);
+		CancelaMov (2f);
+		if (vidas <= 0) {
+			SceneManager.LoadScene ("MenuPrincipal");
+			vidas = GameManager.instance.SumaVida (3);
+			salud = 3;
 		}
+	}
 
 	public void QuitaVida(int cantDanio){
 		if (!damaged || cantDanio >= 3) {

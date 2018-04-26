@@ -6,19 +6,14 @@ public class Jhonny : MonoBehaviour {
 
 	public GameObject ratas, balas;
 	bool disparo = true, izquierda = false;
-	/*void OnBecameVisible(){
-		if (!visible) {
-			Invoke ("Disparo", 1f);
-			visible = true;
-		}
-	}*/
+	int cont = 0;
 
-	void InvocarRatas(){
-		int cont = 0;
+	public void InvocarRatas(){
 		if (cont != 3) {
 			GameObject ratonsitos = Instantiate (ratas);
 			ratonsitos.GetComponent<Rata> ().speedX = 2;
-			Invoke ("InvocarRatas", 1);
+			ratonsitos.transform.position = this.gameObject.transform.position;
+			Invoke ("InvocarRatas", 2);
 			cont++;
 		} else
 			Disparo ();

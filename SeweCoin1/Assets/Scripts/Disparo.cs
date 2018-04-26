@@ -18,6 +18,10 @@ public class Disparo : MonoBehaviour {
 	}
 		
 	void OnTriggerEnter2D (Collider2D col){
+		Invoke ("Destruir", 1f);
+	}
+
+	void Destruir(){
 		Destroy(this.gameObject);
 	}
 }

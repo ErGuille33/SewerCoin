@@ -12,7 +12,7 @@ public class PararMovimiento : MonoBehaviour {
 		col.gameObject.GetComponent<PlayerController> ().CancelaMov (tiempoDeEspera);
 		col.GetComponent<Rigidbody2D> ().velocity = new Vector3 (0f, 0f, 0f);
 		col.GetComponent<Animator>().SetFloat ("Speed", 0);
-		jhonny.CancelaDisparo (tiempoDeEspera);
+		jhonny.InvocarRatas ();
 		camara.GetComponent<CameraController> ().enabled = false;
 		camara.transform.position = new Vector3 (11f, -1.5f, -10f);
 		camara.GetComponent<Camera> ().fieldOfView = 86.18258f; 
