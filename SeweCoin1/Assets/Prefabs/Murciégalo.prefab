@@ -192,9 +192,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speedX: 5
-  speedY: 3.5
+  speedY: 2
   mdistance: 5
-  movVertical: 3.5
+  movVertical: 4
   m: 0
 --- !u!114 &114745484184045376
 MonoBehaviour:

@@ -259,7 +259,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c4367103474a45996dc6f0a3e6af1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tempA: 2
+  tempA: 0.75
   tempB: 1
   Trigger: {fileID: 61004236695351966}
 --- !u!212 &212026120770788190
