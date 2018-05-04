@@ -20,6 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4938158085752294}
   - component: {fileID: 212394953867658226}
+  - component: {fileID: 95998655859269018}
   m_Layer: 0
   m_Name: Palanca
   m_TagString: Untagged
@@ -66,7 +67,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1370955385848356}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.21, y: 0, z: 0}
+  m_LocalPosition: {x: -18.408, y: 6.024, z: 0}
   m_LocalScale: {x: 1.5, y: 1.5, z: 0}
   m_Children:
   - {fileID: 4413584156643020}
@@ -125,6 +126,23 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.53180015, y: 0.7260828}
   m_EdgeRadius: 0
+--- !u!95 &95998655859269018
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1370955385848356}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c206eecd487c01c44b0702b197118557, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &114843963827028034
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -138,6 +156,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ataque: {fileID: 0}
   tiempo: 1
+  camara: {fileID: 0}
   puerta: {fileID: 0}
 --- !u!212 &212394953867658226
 SpriteRenderer:

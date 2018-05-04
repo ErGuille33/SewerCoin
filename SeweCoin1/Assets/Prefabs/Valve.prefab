@@ -25,7 +25,7 @@ GameObject:
   - component: {fileID: 50495397721646136}
   m_Layer: 11
   m_Name: Switch (1)
-  m_TagString: Untagged
+  m_TagString: Valvula
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -137,6 +137,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ataque: {fileID: 0}
+  tiempo: 0
+  camara: {fileID: 0}
   puerta: {fileID: 0}
 --- !u!212 &212354807640624044
 SpriteRenderer:
