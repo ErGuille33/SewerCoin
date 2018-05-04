@@ -25,6 +25,7 @@ public class MenuPausa : MonoBehaviour {
 		pause = false;
 		Time.timeScale = 1;
 		menu.SetActive(false);
+		GameManager.instance.VuelveTimer ();
 
 	}
 
@@ -34,6 +35,7 @@ public class MenuPausa : MonoBehaviour {
 		menu.SetActive(true);
 		opciones.SetActive (false);
 		pausaMenu.SetActive (true);
+		GameManager.instance.GuardaTimer ();
 	
 	}
 }

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.IO;
 
 public class GameManager : MonoBehaviour {
 
@@ -10,8 +11,10 @@ public class GameManager : MonoBehaviour {
 	public bool timeractivado;
 	int salud = 3, vida = 3;
 	bool[] coleccionables = new bool [10];
-	float timer;
+	float timer, timeraux;
 	public int enemigosmatados;
+	StreamWriter tiempos;
+
 
 	//Awake is always called before any Start functions
 	void Awake()
@@ -35,7 +38,7 @@ public class GameManager : MonoBehaviour {
 		for (int i = 0; i < 10; i++)		//declarar todos los awards a false
 			coleccionables [i] = false;
 
-		timeractivado = false;
+		timeractivado = true;
 		enemigosmatados = 0;
 
 		timer = 0f;
@@ -49,7 +52,6 @@ public class GameManager : MonoBehaviour {
 		if (timeractivado == true) {
 			timer += Time.deltaTime;
 		}
-		
 	}
 
 	public int SumaSalud(int numero){
@@ -67,10 +69,29 @@ public class GameManager : MonoBehaviour {
 	}
 		
 	public void CargaEscena(string escena){
+		if (escena == "MenuPrincipal") {
+			GuardaTiempos ();
+			timer = 0f;
+		}
 		SceneManager.LoadScene (escena);
 	}
 
 	public bool ActColecc(int i){
 		return coleccionables [i];
+	}
+
+	public void GuardaTimer () {
+		timeraux = timer;
+	}
+
+	public void VuelveTimer () {
+		timer = timeraux;
+	}
+
+	public void GuardaTiempos () {
+		tiempos = new StreamWriter (Application.persistentDataPath + "/tiempos.txt");
+		timeraux = timer;
+		tiempos.WriteLine (timeraux);
+		tiempos.Close ();
 	}
 }
