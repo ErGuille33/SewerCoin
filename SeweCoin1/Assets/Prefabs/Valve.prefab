@@ -39,6 +39,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4472321190886732}
   - component: {fileID: 212354807640624044}
+  - component: {fileID: 95857467035445724}
   m_Layer: 0
   m_Name: Valve
   m_TagString: Untagged
@@ -66,7 +67,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1996867743027554}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 34.35, y: 4.96, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 0}
   m_Children:
   - {fileID: 4431081597923260}
@@ -125,6 +126,23 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34520108, y: 0.35567772}
   m_EdgeRadius: 0
+--- !u!95 &95857467035445724
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1996867743027554}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8ce1568e42164a74f8df418a6717f7f7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &114341978071407012
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -137,7 +155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ataque: {fileID: 0}
-  tiempo: 0
+  tiempo: 1
   camara: {fileID: 0}
   puerta: {fileID: 0}
 --- !u!212 &212354807640624044
