@@ -30,8 +30,9 @@ public class ataque : MonoBehaviour {
 	}
 
 	void Update () {
-		playeranim.SetBool ("Melee", atackingAux);
+		
 		if (Input.GetKeyDown ("j") && !atacking && gameObject.GetComponent <RayCast>().DetectaPlataforma()) {
+			playeranim.SetTrigger ("Melee");
 			atacking = true;
 			atackingAux = true;
 			tiempoAtaque = ataqueTiempAct;
