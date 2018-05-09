@@ -34,7 +34,8 @@ public class Switches : MonoBehaviour {
 
 	void Destroy(){
 		Destroy (puerta);
-		Invoke ("DevolverControlCamara", 1);
+		if(gameObject.tag == "Valvula")
+			Invoke ("DevolverControlCamara", 1);
 	}
 	void DevolverControlCamara()
 	{

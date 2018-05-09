@@ -14,7 +14,7 @@ public class PararMovimiento : MonoBehaviour {
 		col.GetComponent<Animator>().SetFloat ("Speed", 0);
 		jhonny.InvocarRatas ();
 		camara.GetComponent<CameraController> ().enabled = false;
-		camara.transform.position = new Vector3 (11f, -1.5f, -10f);
+		camara.transform.position = new Vector3 (11f, -1.5f, -16f);
 		camara.GetComponent<Camera> ().fieldOfView = 86.18258f; 
 		Destroy (gameObject);
 	}

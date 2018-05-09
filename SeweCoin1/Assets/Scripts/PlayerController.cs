@@ -20,6 +20,7 @@ public class PlayerController : MonoBehaviour {
 	GameObject vidasUIF;
 
 	void Awake () {
+		Time.timeScale = 1;
 		salud = maxsalud;
 		vidasUIF = GameObject.Find("VidasUIF");
 		Invoke ("DesactivaVidaUI", 2);

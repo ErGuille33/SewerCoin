@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using UnityEngine.SceneManagement;
 
 public class ataque : MonoBehaviour {
 
@@ -62,6 +63,9 @@ public class ataque : MonoBehaviour {
 
 		if (saltobomba)
 			print ("hola");
+
+		if (SceneManager.GetActiveScene ().name == "Boss1" && GameObject.Find ("Jhonny") == null)
+			disparo = true;
 		//playeranim.SetBool ("ataque 0", atacking);//dara error hasta tener la animacion metida
 	}
 		
