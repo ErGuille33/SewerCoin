@@ -6,10 +6,14 @@ public class ColeccMenu : MonoBehaviour {
 
 	public int numeroDeColeccionable;
 
+
+	void Start(){
+		Colecccionable ();
+		}
+
 	public void Colecccionable(){
 		bool colecc = GameManager.instance.ActColecc (numeroDeColeccionable);
-		if (colecc == true) {
+		if (colecc == true)
 			gameObject.SetActive (false);
-		}
 	}
 }
