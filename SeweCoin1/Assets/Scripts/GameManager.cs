@@ -38,11 +38,6 @@ public class GameManager : MonoBehaviour {
 		for (int i = 0; i < 10; i++)		//declarar todos los awards a false
 			coleccionables [i] = false;
 
-		tiempos = new StreamWriter (Application.persistentDataPath + "/tiempos.txt");
-		tiempos.WriteLine (0);
-		tiempos.WriteLine (0);
-		tiempos.Close();
-
 		timeractivado = true;
 		enemigosmatados = 0;
 
@@ -93,25 +88,10 @@ public class GameManager : MonoBehaviour {
 		timer = timeraux;
 	}
 
-	public int ComparaTimer(int timer1, int timer2) {
-		if (timer1 < timer2) return timer1;
-		else return timer2;
-	}
-
-	public int LeeMejorTimer () {
-		int aux;
-		tiempos = new StreamReader (Application.persistentDataPath + "/tiempos.txt");
-		tiempos.ReadLine();
-		aux = tiempos.ReadLine();
-		tiempos.Close ();
-		return aux;
-	}
-
 	public void GuardaTiempos () {
 		tiempos = new StreamWriter (Application.persistentDataPath + "/tiempos.txt");
 		timeraux = timer;
 		tiempos.WriteLine (timeraux);
-		tiempos.WriteLine (ComparaTimer(timeraux, 
 		tiempos.Close ();
 	}
 }
