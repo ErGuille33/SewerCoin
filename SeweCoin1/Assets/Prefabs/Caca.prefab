@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 61508283774620132}
   - component: {fileID: 50006926538780638}
   - component: {fileID: 212627903009753066}
+  - component: {fileID: 95344274840789886}
   m_Layer: 9
   m_Name: Caca
   m_TagString: Caca
@@ -166,6 +167,23 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!95 &95344274840789886
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1436811223248950}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0dc920f4383016b4ea1f73514360e039, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &114512679073056178
 MonoBehaviour:
   m_ObjectHideFlags: 1

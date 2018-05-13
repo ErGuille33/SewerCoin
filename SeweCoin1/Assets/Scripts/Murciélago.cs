@@ -10,6 +10,7 @@ public class Murciélago : MonoBehaviour {
 	GameObject go;
 	public enum estado { parado, cayendo, mov, movimiento };
 	estado est;
+	Animator anim;
 
 	void Start () {
 		est = estado.parado;
@@ -17,6 +18,8 @@ public class Murciélago : MonoBehaviour {
 		player = go.transform;
 		bat = gameObject.transform;
 		m = 0;
+		anim = GetComponent<Animator> ();
+		anim.SetBool ("Activo",false);
 	}
 
 	// Update is called once per frame
@@ -29,6 +32,7 @@ public class Murciélago : MonoBehaviour {
 			}
 			break;
 		case estado.cayendo:
+			anim.SetBool ("Activo",true);
 			if (m < movVertical)
 			{
 				bat.Translate(new Vector2(0, -0.2f));
