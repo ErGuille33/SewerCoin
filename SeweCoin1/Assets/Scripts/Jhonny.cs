@@ -53,7 +53,7 @@ public class Jhonny : MonoBehaviour {
 	void Disparo(){
 		if (disparo) {
 			Transform balaT = gameObject.transform;
-			GameObject bala = Instantiate (balas, gameObject.transform.position, gameObject.transform.rotation);
+			GameObject bala = Instantiate (balas, new Vector2(gameObject.transform.position.x, gameObject.transform.position.y+1.25f), gameObject.transform.rotation);
 			if (izquierda)
 				bala.GetComponent<Rigidbody2D> ().velocity = new Vector2 (-10f, 0f);
 			else
