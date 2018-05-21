@@ -143,6 +143,7 @@ public class PlayerController : MonoBehaviour {
 		animor.SetFloat ("Speed", 0);
 		GameManager.instance.CargaEscena (escena);
 		vidasUIF.SetActive (true);
+		GameManager.instance.enemigosmatados = 0;
 	}
 
 	public void QuitaVida(int cantDanio){
