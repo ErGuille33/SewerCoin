@@ -13,10 +13,14 @@ public class PlayerController : MonoBehaviour {
 	public int maxsalud = 3, salud, vidas;
 	bool damaged, parar = false;
 	public string escena;
-	public float  speed, jumpHeight, tempInvencible;
-	float move;
+	public float  speed, tempInvencible, slideForce;
+    public float jumpHeight = 11.5f;
+    public float fallMultiplier = 3f;
+    public float lowJumpMultiplier = 2f;
+    float move;
 	public bool isJumping = false;
 	bool facingRight = true;
+    bool slide = false;
 	GameObject vidasUIF;
 
 	void Awake () {
@@ -54,8 +58,10 @@ public class PlayerController : MonoBehaviour {
 		float move = Input.GetAxis("Horizontal");
 		if (!gameObject.GetComponent <RayCast>().DetectaMuro(move) && !gameObject.GetComponent<ataque> ().Atacando () && !gameObject.GetComponent<ataque> ().Disparando ())
 			rb.velocity = new Vector2(move*speed, rb.velocity.y);
+        else if (!slide && rb.velocity.y >= 0.5)
+            Sliding();
 
-		animor.SetFloat("Speed", Mathf.Abs(move));
+        animor.SetFloat("Speed", Mathf.Abs(move));
 
 
 		if (move > 0 && !facingRight)
@@ -73,16 +79,39 @@ public class PlayerController : MonoBehaviour {
 
 	}
 
-	void Salto(){
-		if (gameObject.GetComponent <RayCast> ().DetectaPlataforma ()) {
-			isJumping = true;
-			if (Input.GetKeyDown ("space")) { 
-				rb.AddForce (Vector2.up * jumpHeight);
-			}
-		} else
-			isJumping = false;
-	}
-	private void OnCollisionEnter2D (Collision2D col) {
+    void Salto()
+    {
+        //Al pulsar el botón del saltar aumenta la velocidad en la "y" del jugador
+        if (gameObject.GetComponent<RayCast>().DetectaPlataforma())
+        {
+            isJumping = true;
+            if (Input.GetButtonDown("Jump"))
+            rb.velocity = Vector2.up * jumpHeight;
+        }
+        else
+            isJumping = false;
+
+        //Si el jugador esta subiendo sin pulsar el boton de salto aumenta lentamente
+        //la gravedad en "y" hasta que empieza a caer y la gravedad en "y" aumenta más
+        //rapidamente
+        if (rb.velocity.y < 0)
+        {
+            rb.velocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1f) * Time.deltaTime;
+        }
+        else if (rb.velocity.y > 0 && !Input.GetButton("Jump"))
+            rb.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1f) * Time.deltaTime;
+    }
+
+
+    //Realiza el deslizamiento del jugador dando un pequeño impulso
+    //hacia arriba si choca con la pared
+    void Sliding()
+    {
+        rb.velocity = Vector2.up * slideForce;
+        slide = true;
+    }
+
+    private void OnCollisionEnter2D (Collision2D col) {
 
 		if (col.gameObject.tag == "LifeUp") {
 			vidas = GameManager.instance.SumaVida(1);
