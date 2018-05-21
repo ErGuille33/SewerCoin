@@ -14,7 +14,6 @@ public class GameManager : MonoBehaviour {
 	float timer, timeraux;
 	public int enemigosmatados;
 	StreamWriter tiempos;
-	StreamReader timepos;
 
 
 	//Awake is always called before any Start functions
@@ -41,15 +40,7 @@ public class GameManager : MonoBehaviour {
 
 		timeractivado = true;
 		enemigosmatados = 0;
-
-
-		tiempos = new StreamWriter (Application.dataPath + "/ultimotiempo.txt");
-		tiempos.WriteLine ("0");
-		tiempos.Close ();
-
-		tiempos = new StreamWriter (Application.dataPath + "/mejortiempo.txt");
-		tiempos.WriteLine ("10000000");
-		tiempos.Close ();
+	
 
 		timer = 0f;
 	}
@@ -82,6 +73,7 @@ public class GameManager : MonoBehaviour {
 		if (escena == "MenuPrincipal") {
 			GuardaTiempos ();
 			timer = 0f;
+			enemigosmatados = 0;
 		}
 		SceneManager.LoadScene (escena);
 	}
@@ -98,23 +90,11 @@ public class GameManager : MonoBehaviour {
 		timer = timeraux;
 	}
 
-	public string LeeMejorTiempo(){
-		string devuelve = "";
-		timepos = new StreamReader (Application.dataPath + "/mejortiempo.txt");
-		devuelve += timepos.ReadLine ();
-		timepos.Close ();
-		return devuelve;
-	}
-
 	public void GuardaTiempos () {
 		GuardaTimer ();
 		tiempos = new StreamWriter (Application.dataPath + "/ultimotiempo.txt");
 		tiempos.WriteLine (timeraux);
+		tiempos.WriteLine (enemigosmatados);
 		tiempos.Close ();
-		if (timeraux < int.Parse(LeeMejorTiempo())) {
-			tiempos = new StreamWriter (Application.dataPath + "/mejortiempo.txt");
-			tiempos.WriteLine (timeraux);
-			tiempos.Close ();
-		}
 	}
 }
