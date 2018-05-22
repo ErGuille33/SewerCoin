@@ -9,6 +9,7 @@ public class MovimientoAletaIzq : MonoBehaviour {
 	public int numpunetazos;
 	bool persecucion = false;
 	int num = 0;
+	float pos, velocaux;
 
 	void Start(){
 		rb = gameObject.GetComponent<Rigidbody2D> ();
@@ -35,7 +36,7 @@ public class MovimientoAletaIzq : MonoBehaviour {
 	void MovimientoCorrida(){
 		gameObject.transform.position = new Vector3 (-5f, -0.3f, gameObject.transform.position.z);
 		rb.velocity = new Vector3 (velocidad, 0f, 0f);
-		Invoke ("PararDespuesMovCorr", (34f/(2f*velocidad)));
+		Invoke ("PararDespuesMovCorr", (34f/velocidad));
 	}
 
 	void PararDespuesMovCorr(){
@@ -49,14 +50,9 @@ public class MovimientoAletaIzq : MonoBehaviour {
 
 	void PersecucionAleta(){
 		persecucion = true;
-		Invoke ("AtacaDesPersc", 1.5f);
-	}
-
-	void AtacaDesPersc(){
-		persecucion = false;
-		rb.velocity = new Vector3 (0f, -velocidad/2f, 0f);
-		Invoke ("PararAleta", 15f / velocidad);
-		Invoke ("QuitarAleta", 30f / velocidad);
+		num = numpunetazos;
+		velocaux = velocidad;
+		Invoke ("PunoAbajo", 1.5f);
 	}
 
 	void PararAleta(){
@@ -66,29 +62,35 @@ public class MovimientoAletaIzq : MonoBehaviour {
 	void PunetazosComienzo(){
 		if(num == 0)
 			gameObject.transform.position = new Vector3 (32f, -0.5f, gameObject.transform.position.z);
-	//	rb.velocity = new Vector3 (0f, velocidad, 0f);
-		Invoke ("PunioAbajo", 0.25f);
+		pos = gameObject.transform.position.x;
+		Invoke ("PunioArriba", 0.25f);
 	}
 
-	void PunioAbajo(){
-		rb.velocity = new Vector3 (0f, velocidad, 0f);
-		Invoke ("PunetazoMov", 7.5f / velocidad);
-	}
-
-	void PunetazoMov(){
-		rb.velocity = new Vector3 (-velocidad, 0f, 0f);
-		Invoke ("PunoAbajo", 16f/(velocidad*numpunetazos));
+	void PunioArriba(){
+		if (gameObject.transform.position.y <= 6.9f) {
+			transform.position = Vector2.Lerp (gameObject.transform.position, new Vector2 ((pos - (16f / numpunetazos)), 7f), (velocidad / 5f) * Time.deltaTime);
+			Invoke ("PunioArriba", 0f);
+		} else {
+			velocaux = velocidad;
+			PunoAbajo ();
+		}
 	}
 
 	void PunoAbajo(){
-		rb.velocity = new Vector3 (0f, -velocidad, 0f);
-		num++;
-		Invoke ("PararAleta", 7.5f/velocidad);
-		if (num < numpunetazos)
-			Invoke ("PunetazosComienzo", (7.5f / velocidad) + 0.5f);
-		else {
-			Invoke ("QuitarAleta", (7.5f / velocidad) + 3f);
-			num = 0;
+		if (gameObject.transform.position.y >= -0.49f) {
+			persecucion = false;
+			velocaux += 0.01f; 
+			rb.velocity = new Vector3 (0f, -velocaux, 0f);
+			Invoke ("PunoAbajo", 0f);
+		} else {
+			num++;
+			PararAleta();
+			if (num < numpunetazos)
+				Invoke ("PunetazosComienzo", 0f);
+			else {
+				Invoke ("QuitarAleta", (7.5f / velocidad) + 2.5f);
+				num = 0;
+			}
 		}
 	}
 }

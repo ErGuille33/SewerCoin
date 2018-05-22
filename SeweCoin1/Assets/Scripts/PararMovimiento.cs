@@ -23,6 +23,9 @@ public class PararMovimiento : MonoBehaviour {
 			camara.GetComponent<Camera> ().fieldOfView = 86.18258f; 
 			Destroy (gameObject, 0f);
 		} else {
+			camara.GetComponent<CameraController> ().enabled = false;
+			camara.transform.position = new Vector3 (14.61f, -1.26f, -15.7f);
+			camara.GetComponent<Camera> ().fieldOfView = 65f; 
 			barrera1.transform.position = new Vector2 (32.17f, 3.39f);
 			barrera2.transform.position = new Vector3 (-3.25f, 3.39f);
 			Invoke ("StartLogica", tiempoDeEspera);

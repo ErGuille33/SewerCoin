@@ -5,12 +5,25 @@ using UnityEngine;
 public class LogicaBoss2 : MonoBehaviour {
 
 	public Chorros chorros;
+	public Camera camara;
 	public float tiempochorros;
 	public MovimientoAletaIzq aletaizq;
 	public MovimientosAletaDrch aletadrch;
 	public GameObject cabeza;
 	public float tiempoentrepatrones;
-	bool chorracos = false, llamada = false;
+	bool chorracos = false, llamada = false, ealetaizq = true, ealetadrch = true;
+	bool pasada = true;
+
+	void Update(){
+		if (cabeza == null) {
+			Destroy(GameObject.Find("Paredes y techos"), 2f);
+			camara.GetComponent<CameraController> ().enabled = true;
+		}
+		if (aletadrch == null)
+			ealetadrch = false;
+		if (aletaizq == null)
+			ealetaizq = false;
+	}
 
 	public void ComiensoDelPrincipioDelFin(){
 		if (!chorracos) {
@@ -18,22 +31,22 @@ public class LogicaBoss2 : MonoBehaviour {
 			chorracos = true;
 			Invoke ("PararChorro", tiempochorros);
 		} else if(!llamada) {
-			if (aletaizq != null && aletadrch != null) {
+			if (ealetadrch && ealetaizq) {
 				llamada = true;
 				Invoke ("CambiarLlamada", tiempoentrepatrones);
 				Invoke ("LlamadaPatrones", tiempochorros + 2f);
-			}
-			else if (!(aletaizq == null && aletadrch == null) && (aletaizq == null || aletadrch == null)) {
+			}else if (!ealetadrch && !ealetaizq) {
 				llamada = true;
-				Invoke ("CambiarLlamada", tiempoentrepatrones);
-				Invoke ("LlamadaPatrones", tiempochorros + 2f);
-				chorracos = true;
-			} else if (aletaizq == null && aletadrch == null) {
 				Invoke ("CaeCabeza", 1.5f);
-			}
+			}else if ((!ealetadrch || !ealetaizq) && !(ealetaizq && ealetadrch)) {
+				llamada = true;
+				chorracos = false;
+				Invoke ("CambiarLlamada", tiempoentrepatrones);
+				Invoke ("LlamadaPatrones", tiempochorros + 2f);
+			} 
 		}
 
-		Invoke ("ComiensoDelPrincipioDelFin", 1f);
+		Invoke ("ComiensoDelPrincipioDelFin", 0f);
 	}
 
 	void PararChorro(){
@@ -41,20 +54,26 @@ public class LogicaBoss2 : MonoBehaviour {
 	}
 
 	void LlamadaPatrones(){
-		int patron = Random.Range (0, 4);
-		aletaizq.Patron (patron);
-		aletadrch.Patron (patron);
+		int patron = Random.Range (0, 3);
+		if(ealetaizq)
+			aletaizq.Patron (patron);
+		if(ealetadrch)
+			aletadrch.Patron (patron);
 	}
 
-	bool pasada = true;
+
 	void CaeCabeza(){
 		if(pasada){
-			cabeza.transform.position = new Vector3 (15f, 7f, cabeza.transform.position.z);
+			cabeza.transform.position = new Vector2 (15f, 7f);
 			pasada = false;
+		} 
+		if (cabeza.transform.position.y > -1.1f) {
+			cabeza.GetComponent<Rigidbody2D> ().velocity = new Vector3 (0f, -7f, 0f);
+			Invoke ("CaeCabeza", 0f);
 		}
-		do{
-			cabeza.GetComponent<Rigidbody2D>().velocity = new Vector3(0f, 10f, 0f);
-		}while(cabeza.transform.position.y >= -0.5f);
+		else
+			cabeza.GetComponent<Rigidbody2D>().velocity = new Vector3(0f, 0f, 0f);
+		
 	}
 
 	void CambiarLlamada(){
