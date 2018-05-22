@@ -19,10 +19,24 @@ public class MovimientosAletaDrch : MonoBehaviour {
 			gameObject.transform.position = new Vector3(GameObject.FindWithTag ("Player").transform.position.x, 7f, gameObject.transform.position.z);
 	}
 
+	public void Patron(int patron){
+		if (patron == 0) {
+			Invoke ("MovimientoCorrida", 4f);
+			Invoke ("MovimientoCorrida", 12f);
+		}
+		else if (patron == 1) {
+			Invoke("PersecucionAleta", 0f);
+			Invoke("PersecucionAleta", 7f);
+
+		}
+		else
+			PunetazosComienzo ();
+	}
+
 	void MovimientoCorrida(){
 		gameObject.transform.position = new Vector3 (34f, -0.3f, gameObject.transform.position.z);
 		rb.velocity = new Vector3 (-velocidad, 0f, 0f);
-		Invoke ("PararDespuesMovCorr", (34f/velocidad));
+		Invoke ("PararDespuesMovCorr", (34f/(2f*velocidad)));
 	}
 
 	void PararDespuesMovCorr(){
@@ -53,10 +67,14 @@ public class MovimientosAletaDrch : MonoBehaviour {
 	void PunetazosComienzo(){
 		if(num == 0)
 			gameObject.transform.position = new Vector3 (-3f, -0.5f, gameObject.transform.position.z);
+		//rb.velocity = new Vector3 (0f, velocidad, 0f);
+		Invoke ("PunioAbajo", 0.25f);
+	}
+
+	void PunioAbajo(){
 		rb.velocity = new Vector3 (0f, velocidad, 0f);
 		Invoke ("PunetazoMov", 7.5f / velocidad);
 	}
-
 	void PunetazoMov(){
 		rb.velocity = new Vector3 (velocidad, 0f, 0f);
 		Invoke ("PunoAbajo", 16f/(velocidad*numpunetazos));
@@ -67,7 +85,7 @@ public class MovimientosAletaDrch : MonoBehaviour {
 		num++;
 		Invoke ("PararAleta", 7.5f/velocidad);
 		if (num < numpunetazos)
-			Invoke ("PunetazosComienzo", (7.5f / velocidad) + 1f);
+			Invoke ("PunetazosComienzo", (7.5f / velocidad) + 0.5f);
 		else {
 			Invoke ("QuitarAleta", (7.5f / velocidad) + 3f);
 			num = 0;
