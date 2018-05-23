@@ -6,12 +6,17 @@ public class VidaEnemigos : MonoBehaviour {
 
 	public int vida;
 	public bool dead;
+	public float tiempoparp;
+	bool parpadeo = false, ahorita = false;
 
 	void Awake () {
 		dead = false;
 	}
 
 	public void Quitavida(int daño){
+		ahorita = true;
+		Parpadeo ();
+		Invoke ("StopIt", tiempoparp);
 		vida = vida - daño;
 		if (vida <= 0) {
 			if (gameObject.tag == "Caca") 
@@ -21,8 +26,25 @@ public class VidaEnemigos : MonoBehaviour {
 			Destroy (gameObject);
 			GameManager.instance.enemigosmatados++;
 			dead = true;
-			print (dead);
-
 		}
+	}
+
+	void Parpadeo(){
+		if (ahorita) {
+			if (parpadeo) {
+				gameObject.GetComponent<SpriteRenderer> ().enabled = false;
+				parpadeo = false;
+			} else {
+				gameObject.GetComponent<SpriteRenderer> ().enabled = true;
+				parpadeo = true;
+			}
+			Invoke ("Parpadeo", 0.25f);
+		}
+		else 
+			gameObject.GetComponent<SpriteRenderer> ().enabled = true;
+	}
+
+	void StopIt(){
+		ahorita = false;
 	}
 }

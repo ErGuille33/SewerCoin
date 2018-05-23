@@ -197,6 +197,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vida: 2
   dead: 0
+  tiempoparp: 2
 --- !u!114 &114589173176305760
 MonoBehaviour:
   m_ObjectHideFlags: 1
