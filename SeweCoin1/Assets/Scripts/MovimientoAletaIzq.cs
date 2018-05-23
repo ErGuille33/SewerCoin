@@ -26,8 +26,8 @@ public class MovimientoAletaIzq : MonoBehaviour {
 			Invoke ("MovimientoCorrida", 8f);
 		}
 		else if (patron == 1) {
-			Invoke ("PersecucionAleta", 3.5f);
-			Invoke ("PersecucionAleta", 10.5f);
+			Invoke ("PersecucionAleta", 4f);
+			Invoke ("PersecucionAleta", 12f);
 		}
 		else
 			PunetazosComienzo ();
