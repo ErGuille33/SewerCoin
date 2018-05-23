@@ -32,16 +32,25 @@ public class VidaEnemigos : MonoBehaviour {
 	void Parpadeo(){
 		if (ahorita) {
 			if (parpadeo) {
-				gameObject.GetComponent<SpriteRenderer> ().enabled = false;
+				if (gameObject.GetComponent<SpriteRenderer> () != null)
+					gameObject.GetComponent<SpriteRenderer> ().enabled = false;
+				else
+					gameObject.GetComponentInChildren<SpriteRenderer> ().enabled = false;
 				parpadeo = false;
 			} else {
-				gameObject.GetComponent<SpriteRenderer> ().enabled = true;
+				if (gameObject.GetComponent<SpriteRenderer> () != null)
+					gameObject.GetComponent<SpriteRenderer> ().enabled = true;
+				else
+					gameObject.GetComponentInChildren<SpriteRenderer> ().enabled = true;
 				parpadeo = true;
 			}
 			Invoke ("Parpadeo", 0.25f);
 		}
 		else 
-			gameObject.GetComponent<SpriteRenderer> ().enabled = true;
+			if (gameObject.GetComponent<SpriteRenderer> () != null)
+				gameObject.GetComponent<SpriteRenderer> ().enabled = true;
+			else
+				gameObject.GetComponentInChildren<SpriteRenderer> ().enabled = true;
 	}
 
 	void StopIt(){
