@@ -14,6 +14,7 @@ public class GameManager : MonoBehaviour {
 	float timer, timeraux;
 	public int enemigosmatados;
 	StreamWriter tiempos;
+	StreamReader timepos;
 
 
 	//Awake is always called before any Start functions
@@ -96,5 +97,12 @@ public class GameManager : MonoBehaviour {
 		tiempos.WriteLine (timeraux);
 		tiempos.WriteLine (enemigosmatados);
 		tiempos.Close ();
+	}
+
+	public void LeeStats (out float tiempo, out int enemigos) {
+		timepos = new StreamReader (Application.dataPath + "/ultimotiempo.txt");
+		tiempo = float.Parse (timepos.ReadLine ());
+		enemigos = int.Parse (timepos.ReadLine ());
+		timepos.Close ();
 	}
 }
