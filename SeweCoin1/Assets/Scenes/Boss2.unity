@@ -365,6 +365,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chorros: {fileID: 859276738}
+  camara: {fileID: 1967839480}
   tiempochorros: 2
   aletaizq: {fileID: 1339268738}
   aletadrch: {fileID: 1671959088}
@@ -13824,7 +13825,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4144952283983422, guid: 9285882c3fe778048a60b08407a1ec32, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 67.96
+      value: 20.4
       objectReference: {fileID: 0}
     - target: {fileID: 4144952283983422, guid: 9285882c3fe778048a60b08407a1ec32, type: 2}
       propertyPath: m_LocalPosition.y
@@ -34695,7 +34696,7 @@ Transform:
   m_GameObject: {fileID: 1339268732}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 16, y: 13.29, z: 0.03125}
-  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children:
   - {fileID: 1274870324}
   m_Father: {fileID: 0}
@@ -34750,7 +34751,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f33b44e03a7ed154e8159fc951f21f77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vida: 15
+  vida: 7
   dead: 0
 --- !u!1 &1405309412
 GameObject:
@@ -35249,8 +35250,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1671959082}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.4, y: 12.1, z: 0.03125}
-  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_LocalPosition: {x: 20, y: 12.8, z: 0.03125}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children:
   - {fileID: 1143496252}
   m_Father: {fileID: 0}
@@ -35305,7 +35306,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f33b44e03a7ed154e8159fc951f21f77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vida: 15
+  vida: 7
   dead: 0
 --- !u!1 &1755569181
 GameObject:

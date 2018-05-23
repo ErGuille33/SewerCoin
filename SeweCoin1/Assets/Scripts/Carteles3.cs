@@ -5,7 +5,7 @@ using UnityEngine;
 public class Carteles3 : MonoBehaviour {
 	public GameObject cartel;
 	public float tiempoDeEspera;
-	// Use this forinitialization
+
 	void Start () {
 		cartel.SetActive (false);
 	}
@@ -13,6 +13,8 @@ public class Carteles3 : MonoBehaviour {
 	{
 		cartel.SetActive (true);
 		col.gameObject.GetComponent<PlayerController> ().CancelaMov (tiempoDeEspera);
+		col.gameObject.GetComponent<Rigidbody2D> ().velocity = new Vector2 (0f, 0f);
+		col.GetComponent<Animator> ().SetFloat ("Speed", 0);
 		Destroy (gameObject);
 	}
 	void OnTriggerExit2D(Collider2D col)

@@ -34,7 +34,7 @@ public class MovimientoAletaIzq : MonoBehaviour {
 	}
 
 	void MovimientoCorrida(){
-		gameObject.transform.position = new Vector3 (-5f, -0.3f, gameObject.transform.position.z);
+		gameObject.transform.position = new Vector3 (-5f, -1f, gameObject.transform.position.z);
 		rb.velocity = new Vector3 (velocidad, 0f, 0f);
 		Invoke ("PararDespuesMovCorr", (34f/velocidad));
 	}
@@ -61,7 +61,7 @@ public class MovimientoAletaIzq : MonoBehaviour {
 
 	void PunetazosComienzo(){
 		if(num == 0)
-			gameObject.transform.position = new Vector3 (32f, -0.5f, gameObject.transform.position.z);
+			gameObject.transform.position = new Vector3 (32f, -1f, gameObject.transform.position.z);
 		pos = gameObject.transform.position.x;
 		Invoke ("PunioArriba", 0.25f);
 	}
@@ -77,7 +77,7 @@ public class MovimientoAletaIzq : MonoBehaviour {
 	}
 
 	void PunoAbajo(){
-		if (gameObject.transform.position.y >= -0.49f) {
+		if (gameObject.transform.position.y >= -0.99f) {
 			persecucion = false;
 			velocaux += 0.01f; 
 			rb.velocity = new Vector3 (0f, -velocaux, 0f);

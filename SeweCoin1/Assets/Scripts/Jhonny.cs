@@ -22,48 +22,57 @@ public class Jhonny : MonoBehaviour {
 			Invoke ("InvocarRatas", 2);
 			cont++;
 		} else {
+			animaciones.SetBool ("DisparoA", true);
 			animaciones.SetBool ("Atacad", false);
 			Disparo ();
 		}
 	}
 
 	public void Mover1(){
-		animaciones.SetBool ("DisparoA", false);
-		animaciones.SetBool ("Subir", true);
 		disparo = false;
 		izquierda = true;
 		if (transform.position.y <= -3) {
+			animaciones.SetBool ("DisparoA", false);
+			animaciones.SetBool ("Subir", true);
 			gameObject.transform.position += new Vector3 (0f, 0.1f, 0f);
 			Invoke ("Mover1", 0.002f);
 		} else {
 			if (transform.position.x <= 17) {
+				animaciones.SetBool ("Subir", false);
+				animaciones.SetBool ("Caminar", true);
 				transform.position += new Vector3 (0.1f, 0f, 0f);
 				Invoke ("Mover1", 0.008f);
-			} else
+			} else {
 				disparo = true;
+				animaciones.SetBool ("DisparoA", true);
+				animaciones.SetBool ("Caminar", false);
+			}
 		}
 	}
 
 	public void Mover2(){
-		animaciones.SetBool ("Subir", false);
-		animaciones.SetBool ("Caminar", true);
 		disparo = false;
 		izquierda = false;
 		if (transform.position.y <= 3) {
+			animaciones.SetBool ("DisparoA", false);
+			animaciones.SetBool ("Subir", true);
 			transform.position += new Vector3 (0f, 0.1f, 0f);
 			Invoke ("Mover2", 0.002f);
 		} else {
 			if (transform.position.x >= 0) {
+				animaciones.SetBool ("Subir", false);
+				animaciones.SetBool ("Caminar", true);
 				transform.position -= new Vector3 (0.1f, 0f, 0f);
 				Invoke ("Mover2", 0.008f);
-			} else
+			} else {
 				disparo = true;
+				animaciones.SetBool ("DisparoA", true);
+				animaciones.SetBool ("Caminar", false);
+			}
 		}
 	}
 
 	void Disparo(){
-		animaciones.SetBool ("DisparoA", true);
-		animaciones.SetBool ("Caminar", false);
 		if (disparo) {
 			Transform balaT = gameObject.transform;
 			GameObject bala = Instantiate (balas, new Vector2(gameObject.transform.position.x, gameObject.transform.position.y+1.25f), gameObject.transform.rotation);
