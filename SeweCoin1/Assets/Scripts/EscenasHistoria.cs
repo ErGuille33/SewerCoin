@@ -12,6 +12,11 @@ public class EscenasHistoria : MonoBehaviour {
 
 	int cont = 0;
 
+	void Awake()
+	{
+		Time.timeScale = 1;
+	}
+
 	void Start(){
 		Sumar ();
 	}
