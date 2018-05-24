@@ -22,8 +22,8 @@ public class MovimientosAletaDrch : MonoBehaviour {
 
 	public void Patron(int patron){
 		if (patron == 0) {
-			Invoke ("MovimientoCorrida", 4f);
-			Invoke ("MovimientoCorrida", 12f);
+			Invoke ("MovimientoCorrida", 3.5f);
+			Invoke ("MovimientoCorrida", 10.5f);
 		}
 		else if (patron == 1) {
 			Invoke("PersecucionAleta", 0f);

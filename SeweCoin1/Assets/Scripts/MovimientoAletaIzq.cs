@@ -23,7 +23,7 @@ public class MovimientoAletaIzq : MonoBehaviour {
 	public void Patron(int patron){
 		if (patron == 0) {
 			Invoke ("MovimientoCorrida", 0f);
-			Invoke ("MovimientoCorrida", 8f);
+			Invoke ("MovimientoCorrida", 7f);
 		}
 		else if (patron == 1) {
 			Invoke ("PersecucionAleta", 4f);

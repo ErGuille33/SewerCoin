@@ -14,18 +14,20 @@ public class VidaEnemigos : MonoBehaviour {
 	}
 
 	public void Quitavida(int daño){
-		ahorita = true;
-		Parpadeo ();
-		Invoke ("StopIt", tiempoparp);
-		vida = vida - daño;
-		if (vida <= 0) {
-			if (gameObject.tag == "Caca") 
-				gameObject.GetComponent<CacaMov> ().Dividir();
-			if (gameObject.tag == "Caja")
-				gameObject.GetComponent<Cajas>().Spawn();
-			Destroy (gameObject);
-			GameManager.instance.enemigosmatados++;
-			dead = true;
+		if (!ahorita){
+			ahorita = true;
+			Parpadeo ();
+			Invoke ("StopIt", tiempoparp);
+			vida = vida - daño;
+			if (vida <= 0) {
+				if (gameObject.tag == "Caca")
+					gameObject.GetComponent<CacaMov> ().Dividir ();
+				if (gameObject.tag == "Caja")
+					gameObject.GetComponent<Cajas> ().Spawn ();
+				Destroy (gameObject);
+				GameManager.instance.enemigosmatados++;
+				dead = true;
+			}
 		}
 	}
 
