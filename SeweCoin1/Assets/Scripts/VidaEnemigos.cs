@@ -36,13 +36,13 @@ public class VidaEnemigos : MonoBehaviour {
 			if (parpadeo) {
 				if (gameObject.GetComponent<SpriteRenderer> () != null)
 					gameObject.GetComponent<SpriteRenderer> ().enabled = false;
-				else
+				else if(gameObject.GetComponentInChildren<SpriteRenderer> () != null)
 					gameObject.GetComponentInChildren<SpriteRenderer> ().enabled = false;
 				parpadeo = false;
 			} else {
 				if (gameObject.GetComponent<SpriteRenderer> () != null)
 					gameObject.GetComponent<SpriteRenderer> ().enabled = true;
-				else
+				else if(gameObject.GetComponentInChildren<SpriteRenderer> () != null)
 					gameObject.GetComponentInChildren<SpriteRenderer> ().enabled = true;
 				parpadeo = true;
 			}
@@ -51,7 +51,7 @@ public class VidaEnemigos : MonoBehaviour {
 		else 
 			if (gameObject.GetComponent<SpriteRenderer> () != null)
 				gameObject.GetComponent<SpriteRenderer> ().enabled = true;
-			else
+			else if(gameObject.GetComponentInChildren<SpriteRenderer> () != null)
 				gameObject.GetComponentInChildren<SpriteRenderer> ().enabled = true;
 	}
 

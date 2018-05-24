@@ -27,7 +27,7 @@ public class MovimientosAletaDrch : MonoBehaviour {
 		}
 		else if (patron == 1) {
 			Invoke("PersecucionAleta", 0f);
-			Invoke("PersecucionAleta", 8f);
+			Invoke("PersecucionAleta", 7f);
 		}
 		else
 			PunetazosComienzo ();

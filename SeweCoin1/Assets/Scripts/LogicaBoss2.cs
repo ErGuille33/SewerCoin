@@ -11,13 +11,26 @@ public class LogicaBoss2 : MonoBehaviour {
 	public MovimientosAletaDrch aletadrch;
 	public GameObject cabeza;
 	public float tiempoentrepatrones;
+	public Animator spritepez;
 	bool chorracos = false, llamada = false, ealetaizq = true, ealetadrch = true;
 	bool pasada = true;
+	Camera aux;
+	GameObject cartel;
+
+	void Start(){
+		aux = camara;
+		cartel = GameObject.Find ("TriggerCartel (1)");
+	}
 
 	void Update(){
 		if (cabeza == null) {
 			Destroy(GameObject.Find("Paredes y techos"), 2f);
+			if(cartel != null)
+				cartel.transform.position = new Vector2 (14.69f, 3.27f);
+			camara.fieldOfView = 38f;
 			camara.GetComponent<CameraController> ().enabled = true;
+			if(spritepez != null)
+				Destroy (spritepez.gameObject);
 		}
 		if (aletadrch == null)
 			ealetadrch = false;
@@ -37,6 +50,8 @@ public class LogicaBoss2 : MonoBehaviour {
 				Invoke ("LlamadaPatrones", tiempochorros + 2f);
 			}else if (!ealetadrch && !ealetaizq) {
 				llamada = true;
+				if(spritepez != null)
+					spritepez.SetTrigger ("Muerte");
 				Invoke ("CaeCabeza", 1.5f);
 			}else if ((!ealetadrch || !ealetaizq) && !(ealetaizq && ealetadrch)) {
 				llamada = true;
@@ -63,17 +78,17 @@ public class LogicaBoss2 : MonoBehaviour {
 
 
 	void CaeCabeza(){
-		if(pasada){
-			cabeza.transform.position = new Vector2 (15f, 7f);
+		if (cabeza != null){
+		if (pasada) {
+			cabeza.transform.position = new Vector2 (14.77f, 7f);
 			pasada = false;
 		} 
 		if (cabeza.transform.position.y > -1.1f) {
 			cabeza.GetComponent<Rigidbody2D> ().velocity = new Vector3 (0f, -7f, 0f);
 			Invoke ("CaeCabeza", 0f);
+		} else
+			cabeza.GetComponent<Rigidbody2D> ().velocity = new Vector3 (0f, 0f, 0f);
 		}
-		else
-			cabeza.GetComponent<Rigidbody2D>().velocity = new Vector3(0f, 0f, 0f);
-		
 	}
 
 	void CambiarLlamada(){

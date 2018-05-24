@@ -8,6 +8,7 @@ public class PararMovimiento : MonoBehaviour {
 	public float tiempoDeEspera;
 	public Camera camara;
 	public Jhonny jhonny;
+	public GameObject aletitas;
 	public GameObject barrera1;
 	public GameObject barrera2;
 	public LogicaBoss2 logicaboss;
@@ -23,6 +24,7 @@ public class PararMovimiento : MonoBehaviour {
 			camara.GetComponent<Camera> ().fieldOfView = 86.18258f; 
 			Destroy (gameObject, 0f);
 		} else {
+			aletitas.GetComponent<PezIni> ().MovPez ();
 			camara.GetComponent<CameraController> ().enabled = false;
 			camara.transform.position = new Vector3 (14.61f, -1.26f, -15.7f);
 			camara.GetComponent<Camera> ().fieldOfView = 65f; 
