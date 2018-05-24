@@ -16,6 +16,8 @@ public class GameManager : MonoBehaviour {
 	StreamWriter tiempos;
 	StreamReader timepos;
 
+	int contador;
+
 
 	//Awake is always called before any Start functions
 	void Awake()
