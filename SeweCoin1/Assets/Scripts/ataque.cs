@@ -11,7 +11,7 @@ public class ataque : MonoBehaviour {
 
 	bool atacking = false, atackingAux = false, shooting = false, disparando;//atackingAux sirve para poder poner cd al ataque y no spamearlo.
 
-	public bool saltobomba = false, disparo;
+	public bool saltobomba = false, disparo, sonido;
 
 	public float ataqueTiempAct, tiempoCDAtack, impulsoy = 0f, cañonCD, tiempoDisparo;//tiempo que esta el collider activo
 	float tiempoAtaque = 0;
@@ -21,8 +21,10 @@ public class ataque : MonoBehaviour {
 
 	public GameObject spawner;
 	Animator playeranim;//para la animacion de ataque de alarico
+	AudioSource audiorecarga;
 
 	void Awake () {
+		audiorecarga = gameObject.GetComponent<AudioSource> ();
 		playeranim = GetComponentInChildren<Animator> ();
 		triggerAtaque.enabled = false; 
 		pc = GetComponent<PlayerController> ();
@@ -50,13 +52,21 @@ public class ataque : MonoBehaviour {
 				Invoke ("DesactivaAtaque", tiempoCDAtack);
 			}
 		}
+
 		if (Input.GetKeyDown ("k") && !shooting && gameObject.GetComponent <RayCast>().DetectaPlataforma() && disparo) {
 			shooting = true;
+			sonido = true;
 			playeranim.SetTrigger ("Disparo");
 			disparando = true;
 			Invoke ("CrearBala", tiempoDisparo);
 
 		}
+
+		if (!shooting && sonido) {
+			audiorecarga.Play ();
+			sonido = false;
+		}
+
  		if (!pc.isJumping && Input.GetKey ("s") && Input.GetKeyDown ("j")) {
 			rb.AddForce (new Vector2 (0f, -impulsoy), ForceMode2D.Impulse);
 			saltobomba = true;
@@ -67,7 +77,6 @@ public class ataque : MonoBehaviour {
 
 		if (SceneManager.GetActiveScene ().name == "Boss1" && GameObject.Find ("Jhonny") == null)
 			disparo = true;
-		//playeranim.SetBool ("ataque 0", atacking);//dara error hasta tener la animacion metida
 	}
 		
 	void DesactivaAtaque (){
