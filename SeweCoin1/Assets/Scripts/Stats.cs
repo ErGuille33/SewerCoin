@@ -14,7 +14,7 @@ public class Stats : MonoBehaviour {
 	
 	void Update () {
 		if (gameObject.name == "Tiempo") {
-			gameObject.GetComponent<Text> ().text = "Tiempo de partida: " + (int) tiempo + " segundos";	
+			gameObject.GetComponent<Text> ().text = "Tiempo de partida: " + (int) tiempo + " s";	
 		} else if (gameObject.name == "Enemigos") {
 			gameObject.GetComponent<Text> ().text = "Enemigos matados: " + enemigos;	
 		}
