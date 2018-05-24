@@ -7,7 +7,7 @@ public class MenuPrincipal : MonoBehaviour {
 
 	public void Jugar () {
 		GameManager.instance.timeractivado = true;
-		GameManager.instance.CargaEscena ("Nivel1");
+		GameManager.instance.CargaEscena ("CuentaHistoria1");
 
 	}
 
