@@ -20,8 +20,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4465379404581138}
   - component: {fileID: 61199201751403324}
-  - component: {fileID: 114365933826808748}
   - component: {fileID: 212091976586286482}
+  - component: {fileID: 114855149684033868}
   m_Layer: 11
   m_Name: 1
   m_TagString: award
@@ -67,7 +67,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.899526, y: 1.5320426}
   m_EdgeRadius: 0
---- !u!114 &114365933826808748
+--- !u!114 &114855149684033868
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -75,10 +75,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1232594832562360}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 580b638e0790de241a5a99035be51fa5, type: 3}
+  m_Script: {fileID: 11500000, guid: 1889776eff11ba04fad2300630da7d06, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   awardnumber: 1
+  imagen: {fileID: 0}
+  textos: {fileID: 0}
 --- !u!212 &212091976586286482
 SpriteRenderer:
   m_ObjectHideFlags: 1
