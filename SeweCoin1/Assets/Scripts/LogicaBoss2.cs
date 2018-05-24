@@ -13,7 +13,8 @@ public class LogicaBoss2 : MonoBehaviour {
 	public float tiempoentrepatrones;
 	public Animator spritepez;
 	bool chorracos = false, llamada = false, ealetaizq = true, ealetadrch = true;
-	bool pasada = true;
+	bool pasada = true, sonido = true;
+	public GameObject sonido1, sonido2;
 	Camera aux;
 	GameObject cartel;
 
@@ -29,6 +30,11 @@ public class LogicaBoss2 : MonoBehaviour {
 				cartel.transform.position = new Vector2 (14.69f, 3.27f);
 			camara.fieldOfView = 38f;
 			camara.GetComponent<CameraController> ().enabled = true;
+			sonido1.GetComponent<AudioSource> ().enabled = false;
+			if (sonido) {
+				sonido2.GetComponent<AudioSource> ().enabled = true;
+				sonido = false;
+			}
 			if(spritepez != null)
 				Destroy (spritepez.gameObject);
 		}
