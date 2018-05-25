@@ -30,7 +30,7 @@ public class Colectables2 : MonoBehaviour {
 				GameManager.instance.ActivaAward (awardnumber);
 				contador++;
 				imagen.SetActive (true);
-				textos.text = " Coleccionables: " + contador + "/5";
+				textos.text = " Colecc: " + contador + "/5";
 			}
 			Destroy (gameObject);
 		}
