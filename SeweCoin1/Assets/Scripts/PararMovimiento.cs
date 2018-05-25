@@ -21,7 +21,7 @@ public class PararMovimiento : MonoBehaviour {
 			jhonny.InvocarRatas ();
 			camara.GetComponent<CameraController> ().enabled = false;
 			camara.transform.position = new Vector3 (11f, -1.5f, -16f);
-			camara.GetComponent<Camera> ().fieldOfView = 86.18258f; 
+			camara.GetComponent<Camera> ().fieldOfView = 98f; 
 			Destroy (gameObject, 0f);
 		} else {
 			aletitas.GetComponent<PezIni> ().MovPez ();

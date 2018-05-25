@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Colectables2 : MonoBehaviour {
 
@@ -16,7 +17,19 @@ public class Colectables2 : MonoBehaviour {
 		contador = 0;
 		if (GameManager.instance.ActColecc (awardnumber))
 			Destroy (gameObject);
-	}
+
+        if (SceneManager.GetActiveScene().name == "Escena1")
+        for (int i = 0; i < 5; i++) {
+            if (GameManager.instance.ActColecc(i))
+                contador++;
+                    }
+        else if (SceneManager.GetActiveScene().name == "Escena2")
+            for (int i = 5; i < 10; i++) {
+                if (GameManager.instance.ActColecc(i))
+                    contador++;
+            }
+
+    }
 
 	void Update()
 	{
