@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311992, g: 0.38074034, b: 0.35872713, a: 1}
+  m_IndirectSpecularColor: {r: 0.37312, g: 0.38074034, b: 0.35872734, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -145,8 +145,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -68.69995, y: -50.1}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -187.3, y: -140.4}
+  m_SizeDelta: {x: 259.2, y: 283.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &147224877
 MonoBehaviour:
@@ -213,8 +213,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -70.09999, y: -95}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -191, y: -261.5}
+  m_SizeDelta: {x: 259.2, y: 311.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &156476326
 MonoBehaviour:
@@ -290,8 +290,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1.199997, y: 0.25}
-  m_SizeDelta: {x: 235.6, y: 332.5}
+  m_AnchoredPosition: {x: 37.4, y: -57.5}
+  m_SizeDelta: {x: 628.7, y: 933.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &384018383
 MonoBehaviour:
@@ -400,8 +400,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 40.700012, y: 23}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 103.9, y: 61.7}
+  m_SizeDelta: {x: 270.2, y: 281.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &580184794
 MonoBehaviour:
@@ -591,8 +591,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 61.200012, y: 115.600006}
-  m_SizeDelta: {x: -136, y: -232}
+  m_AnchoredPosition: {x: 172.3, y: 326.3}
+  m_SizeDelta: {x: -344.7, y: -662.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1138401768
 MonoBehaviour:
@@ -659,8 +659,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -68.69995, y: -7.1}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -187.3, y: -18.3}
+  m_SizeDelta: {x: 259.2, y: 283.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1388807309
 MonoBehaviour:
@@ -727,8 +727,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -68.69999, y: 41.2}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -187.3, y: 118.8}
+  m_SizeDelta: {x: 259.2, y: 283.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1459643939
 MonoBehaviour:
@@ -795,8 +795,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 42.700012, y: -91}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 110.1, y: -254.47}
+  m_SizeDelta: {x: 267.7, y: 293.59}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1621577617
 MonoBehaviour:
@@ -896,8 +896,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -68.69995, y: -139.9}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -187.3, y: -395.4}
+  m_SizeDelta: {x: 259.2, y: 283.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2020513687
 GameObject:
@@ -931,8 +931,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -49.533096, y: 120.3}
-  m_SizeDelta: {x: -134.41829, y: -232}
+  m_AnchoredPosition: {x: -137.1, y: 338.8}
+  m_SizeDelta: {x: -358.1, y: -649.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2020513689
 MonoBehaviour:
@@ -1013,11 +1013,11 @@ MonoBehaviour:
   m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
+  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ScreenMatchMode: 1
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96

@@ -15,7 +15,7 @@ public class Colectables2 : MonoBehaviour {
 	{
 		contador = 0;
 		if (GameManager.instance.ActColecc (awardnumber))
-			Destroy (this);
+			Destroy (gameObject);
 	}
 
 	void Update()
